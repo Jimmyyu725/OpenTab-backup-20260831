@@ -1,0 +1,14 @@
+{
+  "name": "infinity-new-tab-pro-recovered",
+  "version": "11.0.41-recovered.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check:baseline": "node scripts/verify.mjs baseline original",
+    "check:modified": "node scripts/verify.mjs modified extension",
+    "check:rollback": "node scripts/verify.mjs rollback rollback-test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
