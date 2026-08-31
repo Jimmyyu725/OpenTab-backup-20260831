@@ -1,2 +1,4 @@
 # webcrack output intentionally preserves recovered strings and formatting.
 recovered/** -whitespace
+
+DIFF_FILE.patch -whitespace

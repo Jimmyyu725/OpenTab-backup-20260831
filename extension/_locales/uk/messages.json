@@ -27,7 +27,7 @@
       "message": "успішно доданий"
    },
    "add_infinity_ai": {
-      "message": "Додайте Infinity AI на домашню сторінку"
+      "message": "Додайте OpenTab AI на домашню сторінку"
    },
    "add_link": {
       "message": "Додати посилання"
@@ -259,7 +259,7 @@
       "message": "Незабаром"
    },
    "comming_soon_title": {
-      "message": "Мобільна версія Infinity на шляху"
+      "message": "Мобільна версія OpenTab на шляху"
    },
    "confirm": {
       "message": "ОК"
@@ -485,16 +485,16 @@
       "message": "Розширення"
    },
    "extension_des": {
-      "message": "Infinity New Tab дозволяє налаштувати свою сторінку «Нова вкладка»"
+      "message": "OpenTab дозволяє налаштувати свою сторінку «Нова вкладка»"
    },
    "extension_des_app": {
-      "message": "Infinity New Tab APP дозволяє налаштувати свою сторінку «Нова вкладка»"
+      "message": "OpenTab дозволяє налаштувати свою сторінку «Нова вкладка»"
    },
    "extension_des_firefox": {
       "message": "Нова вкладка надає такі функції,як веб-іконки,пошукові системи,шпалери,погода,нотатки,закладки,to-dos,історія та розширене управління."
    },
    "extension_des_pro": {
-      "message": "Infinity New Tab Pro дозволяє налаштувати свою сторінку «Нова вкладка»"
+      "message": "OpenTab дозволяє налаштувати свою сторінку «Нова вкладка»"
    },
    "extension_mananger": {
       "message": "Керувати розширеннями"
@@ -551,10 +551,10 @@
       "message": "Приєднуйтесь до нас"
    },
    "follow_wechat": {
-      "message": "Слідкуйте за Infinity WeChat публічний рахунок"
+      "message": "Слідкуйте за OpenTab WeChat публічний рахунок"
    },
    "follow_wechat_desc": {
-      "message": "Зверніть увагу на наш загальнодоступний номер WeChat (мікросигнал: InfinityDaily), отримуйте Dynamics Navity Product, і ви можете відкрити більше задоволення, щоб розширити та веб-сайт."
+      "message": "Зверніть увагу на наш загальнодоступний номер WeChat (мікросигнал: OpenTabDaily), отримуйте Dynamics Navity Product, і ви можете відкрити більше задоволення, щоб розширити та веб-сайт."
    },
    "font": {
       "message": "Шрифти"
@@ -608,7 +608,7 @@
       "message": "Ваша підтримка є нашою найбільшою нагородою"
    },
    "give_some_feedback_to_improve": {
-      "message": "Якщо вам подобається Infinity New Tab, будь ласка, оцініть наш сервіс або дайте нам відгук, щоб допомогти нам IGN."
+      "message": "Якщо вам подобається OpenTab, будь ласка, оцініть наш сервіс або дайте нам відгук, щоб допомогти нам IGN."
    },
    "give_some_feedback_to_improve_web": {
       "message": "Якщо у вас виникли питання або пропозиції, зв'яжіться з нами."
@@ -704,16 +704,16 @@
       "message": "Вибір даних"
    },
    "infinity_bookmarks": {
-      "message": "Вирівнюйте таєрархію папки закладки та легше знайти закладки з закладками Infinity"
+      "message": "Вирівнюйте таєрархію папки закладки та легше знайти закладки з закладками OpenTab"
    },
    "infinity_comic_wallpaper_source": {
-      "message": "Infinity Рекомендовані аніме шпалери"
+      "message": "OpenTab Рекомендовані аніме шпалери"
    },
    "infinity_comic_wallpaper_source_desc": {
       "message": "Високоякісна бібліотека шпалер"
    },
    "infinity_extension": {
-      "message": "Керуйте своїми розширеннями $browser$ та додатками за допомогою менеджера розширення Infinity",
+      "message": "Керуйте своїми розширеннями $browser$ та додатками за допомогою менеджера розширення OpenTab",
       "placeholders": {
          "browser": {
             "content": "$1"
@@ -721,10 +721,10 @@
       }
    },
    "infinity_history": {
-      "message": "Швидко перегляньте та керуйте історією браузера з історією Infinity"
+      "message": "Швидко перегляньте та керуйте історією браузера з історією OpenTab"
    },
    "infinity_landscape_wallpaper_source": {
-      "message": "Infinity Рекомендовані ландшафтні шпалери"
+      "message": "OpenTab Рекомендовані ландшафтні шпалери"
    },
    "infinity_landscape_wallpaper_source_desc": {
       "message": "Бібліотека шпалер високої якості"
@@ -736,13 +736,13 @@
       "message": "Персоналізуйте свою інфіненську нову сторінку вкладки з налаштуваннями нескінченності"
    },
    "infinity_todos": {
-      "message": "Упорядкуйте свої завдання, щоб покращити ефективність роботи з Infinity To-Do List"
+      "message": "Упорядкуйте свої завдання, щоб покращити ефективність роботи з OpenTab To-Do List"
    },
    "infinity_wallpaper": {
-      "message": "Бібліотека шпалер Infinity надає вам багаті та захоплюючі шпалери"
+      "message": "Бібліотека шпалер OpenTab надає вам багаті та захоплюючі шпалери"
    },
    "infinity_weather": {
-      "message": "Погода Infinity надає вам прогнози погоди по містах по всьому світу"
+      "message": "Погода OpenTab надає вам прогнози погоди по містах по всьому світу"
    },
    "info": {
       "message": "Інформація"
@@ -760,7 +760,7 @@
       "message": "Введіть новий пароль"
    },
    "install_crx_home_des": {
-      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+      "message": "This tutorial is provided by OpenTab, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
    },
    "install_crx_item_1": {
       "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
@@ -894,7 +894,7 @@
       "message": "Використовуйте на ваших веб-сайтах, темах, шаблонах, проектах, друкарнях та газетах. Кожного тижня додаються нові шпалери та відео"
    },
    "mobile_devices": {
-      "message": "Infinity мобільна версія"
+      "message": "OpenTab мобільна версія"
    },
    "modify": {
       "message": "Змінити дані"
@@ -975,16 +975,16 @@
       "message": "360 Search"
    },
    "name": {
-      "message": "Infinity New Tab"
+      "message": "OpenTab"
    },
    "name_app": {
-      "message": "Infinity New Tab (APP)"
+      "message": "OpenTab"
    },
    "name_error": {
       "message": "Введіть назву веб-сайту"
    },
    "name_pro": {
-      "message": "Infinity New Tab (Pro)"
+      "message": "OpenTab"
    },
    "nature": {
       "message": "Природа"
@@ -1008,7 +1008,7 @@
       "message": "Нова вкладка"
    },
    "new_tab_web": {
-      "message": "Infinity Домашня сторінка"
+      "message": "OpenTab Домашня сторінка"
    },
    "news": {
       "message": "новинами"
@@ -1114,7 +1114,7 @@
       "message": "Нагадати за тиждень"
    },
    "only_used_infinity": {
-      "message": "Використовується лише для внутрішніх модулів Infinity"
+      "message": "Використовується лише для внутрішніх модулів OpenTab"
    },
    "opacity": {
       "message": "Прозорість іконок"
@@ -1369,7 +1369,7 @@
       "message": "Ми анонімно вважаємо, що кількість разів використовуються деякі пошукові системи."
    },
    "privacy_data_item_9": {
-      "message": "Ви повинні погодитися з цією політикою конфіденційності, перш ніж ви зможете використовувати це розширення. Переглянути нашу $the_infinity_privacy$, щоб дізнатися більше.",
+      "message": "Ви повинні погодитися з цією політикою конфіденційності, перш ніж ви зможете використовувати це розширення. Переглянути нашу $the_OpenTab_privacy$, щоб дізнатися більше.",
       "placeholders": {
          "the_infinity_privacy": {
             "content": "$1"
@@ -1395,16 +1395,16 @@
       "message": "Статистичний аналіз:"
    },
    "privacy_data_uninstall_confirm": {
-      "message": "Підтвердьте видалення Infinity New Tab Page"
+      "message": "Підтвердьте видалення OpenTab Page"
    },
    "privacy_data_uninstall_confirm_pro": {
-      "message": "Підтвердьте видалити Infinity New Tab Pro"
+      "message": "Підтвердьте видалити OpenTab"
    },
    "privacy_data_uninstall_title": {
-      "message": "Uninstall Infinity New Tab Page?"
+      "message": "Uninstall OpenTab Page?"
    },
    "privacy_data_uninstall_title_pro": {
-      "message": "Видаліть Infinity New Tab Pro?"
+      "message": "Видаліть OpenTab?"
    },
    "privacy_data_yes": {
       "message": "Так, анонімні дані можуть бути зібрані відповідно до політики конфіденційності"
@@ -1485,10 +1485,10 @@
       "message": "Повторіть спробу"
    },
    "reminder_update_text1": {
-      "message": "Для вас, щоб отримати кращий досвід використання Infinity"
+      "message": "Для вас, щоб отримати кращий досвід використання OpenTab"
    },
    "reminder_update_text2": {
-      "message": "Рекомендується оновити браузер до останньої версії, а також рекомендується використовувати браузер, сумісний з Infinity"
+      "message": "Рекомендується оновити браузер до останньої версії, а також рекомендується використовувати браузер, сумісний з OpenTab"
    },
    "reminder_update_title": {
       "message": "Дисплей помилки на сторінці"
@@ -1679,7 +1679,7 @@
       "message": "Ця функція не підтримується в поточній версії_#_Будь ласка, встановіть розширення браузера перед використанням"
    },
    "set_infinity_to_homepage": {
-      "message": "Встановіть Infinity як домашню сторінку для вашого браузера"
+      "message": "Встановіть OpenTab як домашню сторінку для вашого браузера"
    },
    "set_new_password": {
       "message": "Встановіть новий пароль"
@@ -1712,7 +1712,7 @@
       "message": "Ділиться іншими користувачами"
    },
    "share_desc": {
-      "message": "Infinity New Tab, розширення навігації, обраного мільйонами, найвигіднішою новою вкладкою на веб-переглядачі"
+      "message": "OpenTab, розширення навігації, обраного мільйонами, найвигіднішою новою вкладкою на веб-переглядачі"
    },
    "share_title": {
       "message": "Можливо, це найкраща нова вкладка у браузері $browser$",
@@ -1854,7 +1854,7 @@
       "message": "Сьогодні"
    },
    "todo_welcome": {
-      "message": "Ласкаво просимо на сторінку Infinity New. Це зразковий елемент."
+      "message": "Ласкаво просимо на сторінку OpenTab New. Це зразковий елемент."
    },
    "todos": {
       "message": "Справи"
@@ -2354,7 +2354,7 @@
       "message": "Немає інформації про погоду в даний час"
    },
    "web_set_home_title": {
-      "message": "Як встановити Infinity як домашню сторінку"
+      "message": "Як встановити OpenTab як домашню сторінку"
    },
    "website_address": {
       "message": "URL-адреса"
@@ -2375,7 +2375,7 @@
       "message": "Ср"
    },
    "welcome_infinity": {
-      "message": "Welcome to Infinity"
+      "message": "Welcome to OpenTab"
    },
    "wind_force": {
       "message": "Сила"
@@ -2419,7 +2419,7 @@
       "message": "Учора"
    },
    "you_need_login": {
-      "message": "Спочатку потрібно увійти в обліковий запис Infinity"
+      "message": "Спочатку потрібно увійти в обліковий запис OpenTab"
    },
    "your_browsing_history_appears_here": {
       "message": "Ваша історія буде відображатися тут"

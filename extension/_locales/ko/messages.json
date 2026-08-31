@@ -27,7 +27,7 @@
       "message": "성공적으로 추가"
    },
    "add_infinity_ai": {
-      "message": "홈페이지에 Infinity AI 추가"
+      "message": "홈페이지에 OpenTab AI 추가"
    },
    "add_link": {
       "message": "링크 추가"
@@ -51,7 +51,7 @@
       "message": "홈페이지에 추가"
    },
    "add_to_infinity": {
-      "message": "Infinity 새 탭에 추가 페이지"
+      "message": "OpenTab 새 탭에 추가 페이지"
    },
    "additional_search_engine": {
       "message": "첨부 된 검색 엔진"
@@ -259,7 +259,7 @@
       "message": "곧 선보일 예정입니다"
    },
    "comming_soon_title": {
-      "message": "Infinity 모바일 버전이 진행 중입니다"
+      "message": "OpenTab 모바일 버전이 진행 중입니다"
    },
    "confirm": {
       "message": "확인"
@@ -485,16 +485,16 @@
       "message": "확장 프로그램"
    },
    "extension_des": {
-      "message": "Infinity New Tab 를 사용하면 새 탭 페이지를 사용자 정의 할 수 있습니다."
+      "message": "OpenTab 를 사용하면 새 탭 페이지를 사용자 정의 할 수 있습니다."
    },
    "extension_des_app": {
-      "message": "Infinity New Tab APP를 사용하면 새 탭 페이지를 사용자 정의 할 수 있습니다."
+      "message": "OpenTab를 사용하면 새 탭 페이지를 사용자 정의 할 수 있습니다."
    },
    "extension_des_firefox": {
       "message": "수백 만 명 이 선택 한 새로운 라벨 은 생산력 을 크게 향상 시 킬 수 있다.웹 아이콘,검색엔진,고 화질 벽지,날씨,노트,책 갈피,업무,역사 기록,확장 관리 등 기능 을 포함한다."
    },
    "extension_des_pro": {
-      "message": "Infinity New Tab Pro를 사용하면 새 탭 페이지를 사용자 정의 할 수 있습니다."
+      "message": "OpenTab를 사용하면 새 탭 페이지를 사용자 정의 할 수 있습니다."
    },
    "extension_mananger": {
       "message": "확장 프로그램 관리"
@@ -551,10 +551,10 @@
       "message": "팔로우 하기"
    },
    "follow_wechat": {
-      "message": "Infinity Wechat 공개 계정을 따르십시오"
+      "message": "OpenTab Wechat 공개 계정을 따르십시오"
    },
    "follow_wechat_desc": {
-      "message": "우리의 WeChat 공공 번호 (마이크로 신호 : InfinityDaily)에주의를 기울이고 Infinity 최신 제품 역학을 얻으려면 확장 및 웹 사이트를 더욱 재미있게 발견 할 수 있습니다."
+      "message": "우리의 WeChat 공공 번호 (마이크로 신호 : OpenTabDaily)에주의를 기울이고 OpenTab 최신 제품 역학을 얻으려면 확장 및 웹 사이트를 더욱 재미있게 발견 할 수 있습니다."
    },
    "font": {
       "message": "글꼴"
@@ -608,7 +608,7 @@
       "message": "귀하의 지원은 우리의 가장 큰 보상입니다"
    },
    "give_some_feedback_to_improve": {
-      "message": "Infinity New Tab 페이지를 원한다면 서비스를 평가하거나 우리에게 피드백을 제공하여 우리를 도울 수 있습니다."
+      "message": "OpenTab 페이지를 원한다면 서비스를 평가하거나 우리에게 피드백을 제공하여 우리를 도울 수 있습니다."
    },
    "give_some_feedback_to_improve_web": {
       "message": "질문이나 제안 사항이 있으시면 당사에 문의하십시오."
@@ -707,13 +707,13 @@
       "message": "책갈피 폴더 계층 구조를 평평하게하고 무한대 북마크를 사용하여 더 쉽게 북마크를 찾으십시오."
    },
    "infinity_comic_wallpaper_source": {
-      "message": "Infinity는 애니메이션 월페이퍼를 특징으로했습니다"
+      "message": "OpenTab는 애니메이션 월페이퍼를 특징으로했습니다"
    },
    "infinity_comic_wallpaper_source_desc": {
       "message": "고품질 인피니티 애니메이퍼 라이브러리 라이브러리"
    },
    "infinity_extension": {
-      "message": "Infinity Extension Manager로 $browser$ 확장 및 앱을 쉽게 관리하십시오.",
+      "message": "OpenTab Extension Manager로 $browser$ 확장 및 앱을 쉽게 관리하십시오.",
       "placeholders": {
          "browser": {
             "content": "$1"
@@ -724,7 +724,7 @@
       "message": "무한대 기록으로 브라우저 기록을 빠르게보고 관리하십시오."
    },
    "infinity_landscape_wallpaper_source": {
-      "message": "Infinity 주장 풍경 배경 화면"
+      "message": "OpenTab 주장 풍경 배경 화면"
    },
    "infinity_landscape_wallpaper_source_desc": {
       "message": "고품질 무한대 풍경 벽지 도서관"
@@ -739,10 +739,10 @@
       "message": "무한대 목록으로 작업 효율성을 순서대로 정렬하고 작업 효율성을 향상시킵니다."
    },
    "infinity_wallpaper": {
-      "message": "Infinity Wallpaper Library는 풍부하고 흥미로운 월페이퍼를 제공합니다."
+      "message": "OpenTab Wallpaper Library는 풍부하고 흥미로운 월페이퍼를 제공합니다."
    },
    "infinity_weather": {
-      "message": "Infinity 날씨는 전 세계의 도시의 일기 예보를 제공합니다."
+      "message": "OpenTab 날씨는 전 세계의 도시의 일기 예보를 제공합니다."
    },
    "info": {
       "message": "정보"
@@ -760,7 +760,7 @@
       "message": "새 비밀번호 입력"
    },
    "install_crx_home_des": {
-      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+      "message": "This tutorial is provided by OpenTab, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
    },
    "install_crx_item_1": {
       "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
@@ -894,7 +894,7 @@
       "message": "웹 사이트, 테마, 템플릿, 프로젝트, 인쇄 자료 및 신문에 사용하십시오. 매주 새로운 배경 화면과 비디오가 추가됩니다"
    },
    "mobile_devices": {
-      "message": "Infinity핸드폰 버 전"
+      "message": "OpenTab핸드폰 버 전"
    },
    "modify": {
       "message": "정보 수정"
@@ -975,16 +975,16 @@
       "message": "360 Search"
    },
    "name": {
-      "message": "Infinity New Tab"
+      "message": "OpenTab"
    },
    "name_app": {
-      "message": "Infinity New Tab (APP)"
+      "message": "OpenTab"
    },
    "name_error": {
       "message": "웹 사이트 이름을 입력하십시오"
    },
    "name_pro": {
-      "message": "Infinity New Tab (Pro)"
+      "message": "OpenTab"
    },
    "nature": {
       "message": "자연"
@@ -1008,7 +1008,7 @@
       "message": "새 탭"
    },
    "new_tab_web": {
-      "message": "Infinity 홈페이지"
+      "message": "OpenTab 홈페이지"
    },
    "news": {
       "message": "뉴스"
@@ -1369,7 +1369,7 @@
       "message": "우리는 익명으로 일부 검색 엔진이 사용되는 횟수를 계산합니다."
    },
    "privacy_data_item_9": {
-      "message": "이 확장 프로그램을 사용할 수 있기 전에이 개인 정보 보호 정책에 동의해야합니다. 우리의 $the_infinity_privacy$ 를 봅니다.",
+      "message": "이 확장 프로그램을 사용할 수 있기 전에이 개인 정보 보호 정책에 동의해야합니다. 우리의 $the_OpenTab_privacy$ 를 봅니다.",
       "placeholders": {
          "the_infinity_privacy": {
             "content": "$1"
@@ -1395,16 +1395,16 @@
       "message": "통계 분석:"
    },
    "privacy_data_uninstall_confirm": {
-      "message": "Infinity New Tab 페이지를 제거하려면 확인하십시오"
+      "message": "OpenTab 페이지를 제거하려면 확인하십시오"
    },
    "privacy_data_uninstall_confirm_pro": {
-      "message": "Infinity New Tab Pro를 제거하려면 확인하십시오"
+      "message": "OpenTab를 제거하려면 확인하십시오"
    },
    "privacy_data_uninstall_title": {
-      "message": "Infinity New Tab 페이지를 제거 하시겠습니까?"
+      "message": "OpenTab 페이지를 제거 하시겠습니까?"
    },
    "privacy_data_uninstall_title_pro": {
-      "message": "Infinity New Tab Pro 제거?"
+      "message": "OpenTab 제거?"
    },
    "privacy_data_yes": {
       "message": "예, 익명 데이터는 개인 정보 보호 정책에 따라 수집 할 수 있습니다."
@@ -1485,10 +1485,10 @@
       "message": "다시 시도"
    },
    "reminder_update_text1": {
-      "message": "Infinity에서 더 나은 경험을 얻을 수 있도록 합니다"
+      "message": "OpenTab에서 더 나은 경험을 얻을 수 있도록 합니다"
    },
    "reminder_update_text2": {
-      "message": "브라우저를 최신 버전으로 업그레이드하는 것이 좋습니다. Infinity와 호환되는 브라우저를 권장합니다."
+      "message": "브라우저를 최신 버전으로 업그레이드하는 것이 좋습니다. OpenTab와 호환되는 브라우저를 권장합니다."
    },
    "reminder_update_title": {
       "message": "페이지에 오류가 표시됩니다"
@@ -1679,7 +1679,7 @@
       "message": "이 기능은 현재 버전에서 지원되지 않습니다_#_사용하기 전에 브라우저 확장을 설치하십시오"
    },
    "set_infinity_to_homepage": {
-      "message": "Infinity 를 브라우저의 홈페이지로 설정합니다"
+      "message": "OpenTab 를 브라우저의 홈페이지로 설정합니다"
    },
    "set_new_password": {
       "message": "새 암호 설정"
@@ -1712,7 +1712,7 @@
       "message": "사용자 공유"
    },
    "share_desc": {
-      "message": "Infinity 새 탭, 수백 만 명 이 선택 한 네 비게 이 션 확장, 브 라 우 저 에서 가장 잘 사용 할 수 있 는 새 탭"
+      "message": "OpenTab 새 탭, 수백 만 명 이 선택 한 네 비게 이 션 확장, 브 라 우 저 에서 가장 잘 사용 할 수 있 는 새 탭"
    },
    "share_title": {
       "message": "$browser$브 라 우 저 에서 가장 좋 은 새 태그 일 수 있 습 니 다",
@@ -1854,7 +1854,7 @@
       "message": "오늘"
    },
    "todo_welcome": {
-      "message": "Infinity 새 탭 페이지에 오신 것을 환영합니다. 이것은 할 일 샘플입니다."
+      "message": "OpenTab 새 탭 페이지에 오신 것을 환영합니다. 이것은 할 일 샘플입니다."
    },
    "todos": {
       "message": "할 일"
@@ -2354,7 +2354,7 @@
       "message": "현재 날씨 정보가 없습니다"
    },
    "web_set_home_title": {
-      "message": "Infinity를 홈페이지로 설정하는 방법"
+      "message": "OpenTab를 홈페이지로 설정하는 방법"
    },
    "website_address": {
       "message": "URL"
@@ -2375,7 +2375,7 @@
       "message": "수"
    },
    "welcome_infinity": {
-      "message": "Welcome to Infinity"
+      "message": "Welcome to OpenTab"
    },
    "wind_force": {
       "message": "풍속"
@@ -2419,7 +2419,7 @@
       "message": "어제"
    },
    "you_need_login": {
-      "message": "이 기능을 사용하려면 Infinity 계정에 로그인하세요."
+      "message": "이 기능을 사용하려면 OpenTab 계정에 로그인하세요."
    },
    "your_browsing_history_appears_here": {
       "message": "여기에 히스토리가 나타납니다"

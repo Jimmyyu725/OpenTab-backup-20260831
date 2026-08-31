@@ -27,7 +27,7 @@
       "message": "添加成功"
    },
    "add_infinity_ai": {
-      "message": "添加 Infinity AI 图标到主页"
+      "message": "添加 OpenTab AI 图标到主页"
    },
    "add_link": {
       "message": "添加链接"
@@ -51,7 +51,7 @@
       "message": "添加到主页"
    },
    "add_to_infinity": {
-      "message": "添加Infinity新标签页"
+      "message": "添加OpenTab"
    },
    "additional_search_engine": {
       "message": "附加搜索"
@@ -90,7 +90,7 @@
       "message": "应用程序"
    },
    "app_disabled_enable_first": {
-      "message": "此应用被您禁用，允许Infinity先启用此应用吗？"
+      "message": "此应用被您禁用，允许OpenTab先启用此应用吗？"
    },
    "application": {
       "message": "应用"
@@ -235,7 +235,7 @@
       "message": "往下滑动到底部，在【启动时】一栏里选择【打开特定网页或一组网页】，再选中【添加新网页】；"
    },
    "chrome_browser_guide3": {
-      "message": "在弹窗里输入 Infinity 主页的网址 https://inftab.com，点击【添加】，主页设置完成。"
+      "message": "在弹窗里输入 OpenTab 主页的网址 https://inftab.com，点击【添加】，主页设置完成。"
    },
    "clear_historys": {
       "message": "清除历史记录"
@@ -259,7 +259,7 @@
       "message": "敬请期待"
    },
    "comming_soon_title": {
-      "message": "Infinity移动版正在快马加鞭的路上"
+      "message": "OpenTab移动版正在快马加鞭的路上"
    },
    "confirm": {
       "message": "确定"
@@ -407,7 +407,7 @@
       "message": "在【启动时】这一栏中选择【打开一个或多个特定页面】，再点击后侧的【添加新页面】按钮。"
    },
    "edge_browser_guide3": {
-      "message": "在弹窗里输入Infinity主页的网址https://inftab.com，点击【添加】，主页设置完成。"
+      "message": "在弹窗里输入OpenTab主页的网址https://inftab.com，点击【添加】，主页设置完成。"
    },
    "edge_install_crx_item_1": {
       "message": "(1) 从工具栏->扩展打开扩展程序页面，或者地址栏输入 edge://extensions/ 按下回车打开扩展程序页面"
@@ -485,16 +485,16 @@
       "message": "扩展程序"
    },
    "extension_des": {
-      "message": "Infinity新标签页让你可以自定义你的新标签页"
+      "message": "OpenTab让你可以自定义你的新标签页"
    },
    "extension_des_app": {
-      "message": "Infinity新标签页APP让你可以自定义你的新标签页"
+      "message": "OpenTab让你可以自定义你的新标签页"
    },
    "extension_des_firefox": {
       "message": "数百万人选择的新标签页，可以极大地提高生产力。支持自定义添加网页图标、搜索引擎、高清壁纸，以及天气、笔记、书签、待办事项、历史记录、扩展管理等小组件。"
    },
    "extension_des_pro": {
-      "message": "Infinity新标签页Pro让你可以自定义你的新标签页"
+      "message": "OpenTab让你可以自定义你的新标签页"
    },
    "extension_mananger": {
       "message": "扩展管理"
@@ -539,7 +539,7 @@
       "message": "点击【主页和新窗口】后面的下拉栏，在下拉菜单中选中【自定义网址】。"
    },
    "firefox_browser_guide3": {
-      "message": "在文本框中输入 Infinity 主页的网址 https://inftab.com，主页设置完成。"
+      "message": "在文本框中输入 OpenTab 主页的网址 https://inftab.com，主页设置完成。"
    },
    "five_star": {
       "message": "五星好评"
@@ -551,10 +551,10 @@
       "message": "关注我们"
    },
    "follow_wechat": {
-      "message": "关注Infinity微信公众号"
+      "message": "关注OpenTab微信公众号"
    },
    "follow_wechat_desc": {
-      "message": "关注我们的微信公众号（微信号：infinitydaily），获取Infinity最新产品动态，还能带你发现更多好玩有趣的扩展和网站。"
+      "message": "关注我们的微信公众号（微信号：OpenTabdaily），获取OpenTab最新产品动态，还能带你发现更多好玩有趣的扩展和网站。"
    },
    "font": {
       "message": "字体"
@@ -608,7 +608,7 @@
       "message": "您的支持是对我们极大的肯定"
    },
    "give_some_feedback_to_improve": {
-      "message": "如果您喜欢Infinity新标签页，请给我们打分或者反馈帮助我们进行优化。"
+      "message": "如果您喜欢OpenTab，请给我们打分或者反馈帮助我们进行优化。"
    },
    "give_some_feedback_to_improve_web": {
       "message": "如果您有任何问题或建议，请联系我们进行反馈。"
@@ -704,16 +704,16 @@
       "message": "选择数据"
    },
    "infinity_bookmarks": {
-      "message": "Infinity书签，扁平化您的书签文件夹层级，更方便的查找书签"
+      "message": "OpenTab书签，扁平化您的书签文件夹层级，更方便的查找书签"
    },
    "infinity_comic_wallpaper_source": {
-      "message": "Infinity精选动漫壁纸"
+      "message": "OpenTab精选动漫壁纸"
    },
    "infinity_comic_wallpaper_source_desc": {
-      "message": "高质量的infinity动漫壁纸库"
+      "message": "高质量的OpenTab动漫壁纸库"
    },
    "infinity_extension": {
-      "message": "Infinity扩展管理，简单明了的管理您的$browser$扩展和App",
+      "message": "OpenTab扩展管理，简单明了的管理您的$browser$扩展和App",
       "placeholders": {
          "browser": {
             "content": "$1"
@@ -721,28 +721,28 @@
       }
    },
    "infinity_history": {
-      "message": "Infinity历史记录，快速查看和管理您浏览器的历史记录"
+      "message": "OpenTab历史记录，快速查看和管理您浏览器的历史记录"
    },
    "infinity_landscape_wallpaper_source": {
-      "message": "Infinity精选风景壁纸"
+      "message": "OpenTab精选风景壁纸"
    },
    "infinity_landscape_wallpaper_source_desc": {
-      "message": "高质量的infinity风景壁纸库"
+      "message": "高质量的OpenTab风景壁纸库"
    },
    "infinity_notes": {
-      "message": "Infinity笔记，快速记录您的生活灵感"
+      "message": "OpenTab笔记，快速记录您的生活灵感"
    },
    "infinity_settings": {
-      "message": "Infinity设置，对您的Infinity新标签页进行个性化设置"
+      "message": "OpenTab设置，对您的OpenTab进行个性化设置"
    },
    "infinity_todos": {
-      "message": "Infinity待办事项，将您的任务安排的井然有序，提高您的工作效率"
+      "message": "OpenTab待办事项，将您的任务安排的井然有序，提高您的工作效率"
    },
    "infinity_wallpaper": {
-      "message": "Infinity壁纸库，为您提供丰富、精彩的壁纸"
+      "message": "OpenTab壁纸库，为您提供丰富、精彩的壁纸"
    },
    "infinity_weather": {
-      "message": "Infinity天气，为您提供全球城市的天气预报"
+      "message": "OpenTab天气，为您提供全球城市的天气预报"
    },
    "info": {
       "message": "信息"
@@ -760,7 +760,7 @@
       "message": "输入新密码"
    },
    "install_crx_home_des": {
-      "message": "本教程由最佳增强主页-Infinity提供，已有100万用户使用，赶紧去设为主页吧！"
+      "message": "本教程由最佳增强主页-OpenTab提供，已有100万用户使用，赶紧去设为主页吧！"
    },
    "install_crx_item_1": {
       "message": "(1) 从设置->更多工具->扩展程序打开扩展程序页面，或者地址栏输入 chrome://extensions/ 按下回车打开扩展程序页面"
@@ -837,7 +837,7 @@
       "message": "当前登录方式即将被移除，请登录后尽快绑定邮箱或者其他第三方账号"
    },
    "login_now": {
-      "message": "现在登录你的Infinity账号，享受更多权限"
+      "message": "现在登录你的OpenTab账号，享受更多权限"
    },
    "login_now_btn": {
       "message": "立即登录"
@@ -894,7 +894,7 @@
       "message": "在你的网站，主题，模板，项目，印刷材料，报刊等处使用，每周都有新的壁纸和视屏加入"
    },
    "mobile_devices": {
-      "message": "Infinity 移动版"
+      "message": "OpenTab 移动版"
    },
    "modify": {
       "message": "修改信息"
@@ -975,16 +975,16 @@
       "message": "360搜索"
    },
    "name": {
-      "message": "Infinity 新标签页"
+      "message": "OpenTab"
    },
    "name_app": {
-      "message": "Infinity 新标签页 (APP)"
+      "message": "OpenTab"
    },
    "name_error": {
       "message": "请输入网站名称"
    },
    "name_pro": {
-      "message": "Infinity 新标签页 (Pro)"
+      "message": "OpenTab"
    },
    "nature": {
       "message": "自然"
@@ -1008,7 +1008,7 @@
       "message": "新标签页"
    },
    "new_tab_web": {
-      "message": "Infinity 主页"
+      "message": "OpenTab 主页"
    },
    "news": {
       "message": "新闻"
@@ -1081,7 +1081,7 @@
       "message": "当前暂无定时备份"
    },
    "none_auto_backup_desc": {
-      "message": "定时备份将在您对infinity进行修改的当天备份"
+      "message": "定时备份将在您对OpenTab进行修改的当天备份"
    },
    "none_manual_backup": {
       "message": "当前暂无手动备份"
@@ -1114,7 +1114,7 @@
       "message": "一周后提醒我"
    },
    "only_used_infinity": {
-      "message": "仅作用于Infinity内部模块"
+      "message": "仅作用于OpenTab内部模块"
    },
    "opacity": {
       "message": "图标不透明度"
@@ -1369,7 +1369,7 @@
       "message": "我们会匿名统计部分搜索引擎的使用次数。"
    },
    "privacy_data_item_9": {
-      "message": "您必须同意此隐私政策，才可以使用该扩展，您也可以查看我们的$the_infinity_privacy$以了解更多。",
+      "message": "您必须同意此隐私政策，才可以使用该扩展，您也可以查看我们的$the_OpenTab_privacy$以了解更多。",
       "placeholders": {
          "the_infinity_privacy": {
             "content": "$1"
@@ -1395,16 +1395,16 @@
       "message": "统计分析："
    },
    "privacy_data_uninstall_confirm": {
-      "message": "请确认您将要卸载Infinity新标签页"
+      "message": "请确认您将要卸载OpenTab"
    },
    "privacy_data_uninstall_confirm_pro": {
-      "message": "请确认您将要卸载Infinity新标签页Pro"
+      "message": "请确认您将要卸载OpenTab"
    },
    "privacy_data_uninstall_title": {
-      "message": "卸载Infinity新标签页？"
+      "message": "卸载OpenTab？"
    },
    "privacy_data_uninstall_title_pro": {
-      "message": "卸载Infinity新标签页Pro？"
+      "message": "卸载OpenTab？"
    },
    "privacy_data_yes": {
       "message": "是的，可以根据隐私政策收集这些匿名数据"
@@ -1476,7 +1476,7 @@
       "message": "获取验证码失败"
    },
    "register_now": {
-      "message": "现在注册你的Infinity账号，享受更多权限"
+      "message": "现在注册你的OpenTab账号，享受更多权限"
    },
    "relative_humidity": {
       "message": "相对湿度"
@@ -1485,10 +1485,10 @@
       "message": "点击重试"
    },
    "reminder_update_text1": {
-      "message": "为了您获得Infinity更好的使用体验"
+      "message": "为了您获得OpenTab更好的使用体验"
    },
    "reminder_update_text2": {
-      "message": "建议将浏览器升级到最新版本，推荐使用兼容【Infinity】的浏览器"
+      "message": "建议将浏览器升级到最新版本，推荐使用兼容【OpenTab】的浏览器"
    },
    "reminder_update_title": {
       "message": "页面存在错误显示"
@@ -1578,7 +1578,7 @@
       "message": "单击浏览器左上角【Safari浏览器】，选择【偏好设置】。"
    },
    "safari_browser_guide2": {
-      "message": "在弹出的【通用】窗口下，找到【主页】选项，并输入Infinity主页的网址https://inftab.com。"
+      "message": "在弹出的【通用】窗口下，找到【主页】选项，并输入OpenTab主页的网址https://inftab.com。"
    },
    "safari_browser_guide3": {
       "message": "点击【设定为当前页面】，主页设置完成。"
@@ -1679,7 +1679,7 @@
       "message": "当前版本不支持该功能_#_请安装浏览器扩展后再使用"
    },
    "set_infinity_to_homepage": {
-      "message": "将Infinity设为主页_#_让你的主页更加生动有趣"
+      "message": "将OpenTab设为主页_#_让你的主页更加生动有趣"
    },
    "set_new_password": {
       "message": "设置新密码"
@@ -1712,7 +1712,7 @@
       "message": "用户分享"
    },
    "share_desc": {
-      "message": "Infinity 新标签页，数百万人选择的导航类扩展，浏览器上最好用的新标签页"
+      "message": "OpenTab，数百万人选择的导航类扩展，浏览器上最好用的新标签页"
    },
    "share_title": {
       "message": "可能是$browser$浏览器上最好用的新标签页",
@@ -1854,7 +1854,7 @@
       "message": "今天"
    },
    "todo_welcome": {
-      "message": "欢迎使用Infinity新标签页，这是一条示例待办事项。"
+      "message": "欢迎使用OpenTab，这是一条示例待办事项。"
    },
    "todos": {
       "message": "待办事项"
@@ -2359,7 +2359,7 @@
       "message": "当前暂无城市天气"
    },
    "web_set_home_title": {
-      "message": "如何将 Infinity 设置为您的主页"
+      "message": "如何将 OpenTab 设置为您的主页"
    },
    "website_address": {
       "message": "网站地址"
@@ -2380,7 +2380,7 @@
       "message": "三"
    },
    "welcome_infinity": {
-      "message": "欢迎使用Infinity"
+      "message": "欢迎使用OpenTab"
    },
    "wind_force": {
       "message": "风力"
@@ -2424,7 +2424,7 @@
       "message": "昨天"
    },
    "you_need_login": {
-      "message": "该功能需登录 Infinity 账号后使用"
+      "message": "该功能需登录 OpenTab 账号后使用"
    },
    "your_browsing_history_appears_here": {
       "message": "您的浏览记录会显示在此处"

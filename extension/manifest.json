@@ -26,13 +26,39 @@
    },
    "manifest_version": 3,
    "minimum_chrome_version": "88",
-   "name": "Infinity New Tab Pro (Recovered 11.0.41)",
-   "optional_host_permissions": [ "https://google.com/", "https://suggestion.baidu.com/", "https://mail.google.com/", "\u003Call_urls>" ],
-   "optional_permissions": [ "notifications", "bookmarks", "topSites", "history", "favicon", "management" ],
-   "permissions": [ "activeTab", "storage", "unlimitedStorage", "offscreen", "background", "search" ],
+   "name": "OpenTab",
+   "optional_host_permissions": [
+      "https://google.com/",
+      "https://suggestion.baidu.com/",
+      "https://mail.google.com/",
+      "<all_urls>"
+   ],
+   "optional_permissions": [
+      "notifications",
+      "bookmarks",
+      "topSites",
+      "history",
+      "favicon",
+      "management"
+   ],
+   "permissions": [
+      "activeTab",
+      "storage",
+      "unlimitedStorage",
+      "offscreen",
+      "background",
+      "search"
+   ],
    "version": "11.0.41",
-   "web_accessible_resources": [ {
-      "matches": [ "\u003Call_urls>" ],
-      "resources": [ "_favicon/*" ]
-   } ]
+   "web_accessible_resources": [
+      {
+         "matches": [
+            "<all_urls>"
+         ],
+         "resources": [
+            "_favicon/*"
+         ]
+      }
+   ],
+   "author": "jimmyu725"
 }

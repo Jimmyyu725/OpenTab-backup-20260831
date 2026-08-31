@@ -27,7 +27,7 @@
       "message": "thêm thành công"
    },
    "add_infinity_ai": {
-      "message": "Thêm Infinity AI vào trang chủ"
+      "message": "Thêm OpenTab AI vào trang chủ"
    },
    "add_link": {
       "message": "Thêm liên kết"
@@ -259,7 +259,7 @@
       "message": "Sắp ra mắt"
    },
    "comming_soon_title": {
-      "message": "Phiên bản Infinity Mobile đang trên đường"
+      "message": "Phiên bản OpenTab Mobile đang trên đường"
    },
    "confirm": {
       "message": "OK"
@@ -485,16 +485,16 @@
       "message": "Tiện ích"
    },
    "extension_des": {
-      "message": "Infinity New Tab cho phép bạn tùy chỉnh trang tab mới của bạn"
+      "message": "OpenTab cho phép bạn tùy chỉnh trang tab mới của bạn"
    },
    "extension_des_app": {
-      "message": "Infinity New Tab APP cho phép bạn tùy chỉnh trang tab mới của bạn"
+      "message": "OpenTab cho phép bạn tùy chỉnh trang tab mới của bạn"
    },
    "extension_des_firefox": {
       "message": "Tab mới được chọn bởi hàng triệu, có thể cải thiện đáng kể năng suất. Bao gồm các biểu tượng web, công cụ tìm kiếm, hình nền HD, thời tiết, ghi chú, dấu trang, danh sách việc cần làm, lịch sử, quản lý mở rộng, v.v."
    },
    "extension_des_pro": {
-      "message": "Infinity New Tab Pro cho phép bạn tùy chỉnh trang tab mới của bạn"
+      "message": "OpenTab cho phép bạn tùy chỉnh trang tab mới của bạn"
    },
    "extension_mananger": {
       "message": "Quản lý các tiện ích"
@@ -554,7 +554,7 @@
       "message": "Theo dõi tài khoản công cộng vô cực Wechat"
    },
    "follow_wechat_desc": {
-      "message": "Hãy chú ý đến số lượng công cộng WeChat của chúng tôi (Tín hiệu vi mô: InfinityD Daily), nhận được động lực sản phẩm mới nhất của Infinity và bạn có thể khám phá nhiều niềm vui hơn để mở rộng và trang web."
+      "message": "Hãy chú ý đến số lượng công cộng WeChat của chúng tôi (Tín hiệu vi mô: OpenTabD Daily), nhận được động lực sản phẩm mới nhất của OpenTab và bạn có thể khám phá nhiều niềm vui hơn để mở rộng và trang web."
    },
    "font": {
       "message": "Phông chữ"
@@ -608,7 +608,7 @@
       "message": "Hỗ trợ của bạn là phần thưởng lớn nhất của chúng tôi"
    },
    "give_some_feedback_to_improve": {
-      "message": "Nếu bạn thích trang Tab Infinity mới, vui lòng đánh giá dịch vụ của chúng tôi hoặc cung cấp cho chúng tôi thông tin phản hồi để giúp chúng tôi IGN."
+      "message": "Nếu bạn thích trang Tab OpenTab mới, vui lòng đánh giá dịch vụ của chúng tôi hoặc cung cấp cho chúng tôi thông tin phản hồi để giúp chúng tôi IGN."
    },
    "give_some_feedback_to_improve_web": {
       "message": "Nếu bạn có bất kỳ câu hỏi hoặc đề nghị, xin vui lòng liên hệ với chúng tôi."
@@ -707,13 +707,13 @@
       "message": "Làm phẳng hệ thống phân cấp thư mục dấu trang của bạn và tìm dấu trang dễ dàng hơn với dấu trang vô cực"
    },
    "infinity_comic_wallpaper_source": {
-      "message": "Infinity nổi bật hình nền anime"
+      "message": "OpenTab nổi bật hình nền anime"
    },
    "infinity_comic_wallpaper_source_desc": {
-      "message": "Thư viện hình nền Anime Infinity chất lượng cao"
+      "message": "Thư viện hình nền Anime OpenTab chất lượng cao"
    },
    "infinity_extension": {
-      "message": "Quản lý tiện ích mở rộng $browser$ và ứng dụng của bạn một cách dễ dàng với Trình quản lý tiện ích mở rộng Infinity",
+      "message": "Quản lý tiện ích mở rộng $browser$ và ứng dụng của bạn một cách dễ dàng với Trình quản lý tiện ích mở rộng OpenTab",
       "placeholders": {
          "browser": {
             "content": "$1"
@@ -724,7 +724,7 @@
       "message": "Nhanh chóng xem và quản lý lịch sử trình duyệt của bạn với lịch sử vô cực"
    },
    "infinity_landscape_wallpaper_source": {
-      "message": "Infinity nổi bật hình nền cảnh quan"
+      "message": "OpenTab nổi bật hình nền cảnh quan"
    },
    "infinity_landscape_wallpaper_source_desc": {
       "message": "Thư viện hình nền cảnh quan Vô cực chất lượng cao"
@@ -742,7 +742,7 @@
       "message": "Thư viện hình nền vô cực cung cấp cho bạn những hình nền phong phú và thú vị"
    },
    "infinity_weather": {
-      "message": "Infinity Weather cung cấp cho bạn dự báo thời tiết của các thành phố trên toàn thế giới"
+      "message": "OpenTab Weather cung cấp cho bạn dự báo thời tiết của các thành phố trên toàn thế giới"
    },
    "info": {
       "message": "Thông tin"
@@ -760,7 +760,7 @@
       "message": "Nhập mật khẩu mới"
    },
    "install_crx_home_des": {
-      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+      "message": "This tutorial is provided by OpenTab, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
    },
    "install_crx_item_1": {
       "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
@@ -837,7 +837,7 @@
       "message": "Phương thức đăng nhập hiện tại sẽ sớm bị xóa, vui lòng liên kết email của bạn hoặc tài khoản bên thứ ba khác càng sớm càng tốt sau khi đăng nhập"
    },
    "login_now": {
-      "message": "Đăng nhập vào tài khoản Infinity của bạn ngay bây giờ để tận hưởng nhiều quyền hơn"
+      "message": "Đăng nhập vào tài khoản OpenTab của bạn ngay bây giờ để tận hưởng nhiều quyền hơn"
    },
    "login_now_btn": {
       "message": "Đăng nhập"
@@ -894,7 +894,7 @@
       "message": "Sử dụng trong trang web, chủ đề, mẫu, dự án, vật liệu in và báo in. Mỗi tuần hình nền và video mới được thêm vào"
    },
    "mobile_devices": {
-      "message": "Infinity Khởi động"
+      "message": "OpenTab Khởi động"
    },
    "modify": {
       "message": "Chỉnh sửa chi tiết"
@@ -975,16 +975,16 @@
       "message": "360 Search"
    },
    "name": {
-      "message": "Infinity New Tab"
+      "message": "OpenTab"
    },
    "name_app": {
-      "message": "Infinity New Tab (APP)"
+      "message": "OpenTab"
    },
    "name_error": {
       "message": "Vui lòng nhập tên trang web"
    },
    "name_pro": {
-      "message": "Infinity New Tab (Pro)"
+      "message": "OpenTab"
    },
    "nature": {
       "message": "Tự nhiên"
@@ -1008,7 +1008,7 @@
       "message": "Tab mới"
    },
    "new_tab_web": {
-      "message": "Infinity Trang chủ"
+      "message": "OpenTab Trang chủ"
    },
    "news": {
       "message": "Tin tức"
@@ -1081,7 +1081,7 @@
       "message": "Hiện tại không có bản sao lưu theo lịch trình"
    },
    "none_auto_backup_desc": {
-      "message": "Sao lưu theo lịch trình sẽ bắt đầu vào cùng ngày bạn sửa đổi thông tin về Infinity"
+      "message": "Sao lưu theo lịch trình sẽ bắt đầu vào cùng ngày bạn sửa đổi thông tin về OpenTab"
    },
    "none_manual_backup": {
       "message": "Hiện tại không có bản sao lưu thủ công"
@@ -1369,7 +1369,7 @@
       "message": "Chúng tôi sẽ ẩn danh số lần một số công cụ tìm kiếm được sử dụng."
    },
    "privacy_data_item_9": {
-      "message": "Bạn phải đồng ý với chính sách quyền riêng tư này trước khi bạn có thể sử dụng tiện ích mở rộng này. Xem $the_infinity_privacy$ để tìm hiểu thêm.",
+      "message": "Bạn phải đồng ý với chính sách quyền riêng tư này trước khi bạn có thể sử dụng tiện ích mở rộng này. Xem $the_OpenTab_privacy$ để tìm hiểu thêm.",
       "placeholders": {
          "the_infinity_privacy": {
             "content": "$1"
@@ -1398,13 +1398,13 @@
       "message": "Vui lòng xác nhận để gỡ cài đặt trang Tab mới vô cực"
    },
    "privacy_data_uninstall_confirm_pro": {
-      "message": "Vui lòng xác nhận để gỡ cài đặt Infinity New Tab Pro"
+      "message": "Vui lòng xác nhận để gỡ cài đặt OpenTab"
    },
    "privacy_data_uninstall_title": {
-      "message": "Gỡ cài đặt trang Tab New Infinity New?"
+      "message": "Gỡ cài đặt trang Tab New OpenTab New?"
    },
    "privacy_data_uninstall_title_pro": {
-      "message": "Gỡ cài đặt Infinity New Tab Pro?"
+      "message": "Gỡ cài đặt OpenTab?"
    },
    "privacy_data_yes": {
       "message": "Có, dữ liệu ẩn danh có thể được thu theo chính sách bảo mật"
@@ -1476,7 +1476,7 @@
       "message": "Không thể thu nhận được mã xác thực"
    },
    "register_now": {
-      "message": "Đăng ký tài khoản Infinity của bạn ngay bây giờ để tận hưởng nhiều quyền hơn"
+      "message": "Đăng ký tài khoản OpenTab của bạn ngay bây giờ để tận hưởng nhiều quyền hơn"
    },
    "relative_humidity": {
       "message": "Độ ẩm"
@@ -1485,10 +1485,10 @@
       "message": "Thử lại"
    },
    "reminder_update_text1": {
-      "message": "Để bạn có được một trải nghiệm tốt hơn về việc sử dụng Infinity"
+      "message": "Để bạn có được một trải nghiệm tốt hơn về việc sử dụng OpenTab"
    },
    "reminder_update_text2": {
-      "message": "Bạn nên nâng cấp trình duyệt lên phiên bản mới nhất và nên sử dụng trình duyệt tương thích với Infinity"
+      "message": "Bạn nên nâng cấp trình duyệt lên phiên bản mới nhất và nên sử dụng trình duyệt tương thích với OpenTab"
    },
    "reminder_update_title": {
       "message": "Lỗi hiển thị trên trang"
@@ -1679,7 +1679,7 @@
       "message": "Tính năng này không được hỗ trợ trong phiên bản hiện tại_#_Vui lòng cài đặt tiện ích mở rộng trình duyệt trước khi sử dụng"
    },
    "set_infinity_to_homepage": {
-      "message": "Đặt Infinity làm trang chủ cho trình duyệt của bạn"
+      "message": "Đặt OpenTab làm trang chủ cho trình duyệt của bạn"
    },
    "set_new_password": {
       "message": "Đặt mật khẩu mới"
@@ -1712,7 +1712,7 @@
       "message": "người dùng chia sẻ"
    },
    "share_desc": {
-      "message": "Infinity Tab mới, một phần mở rộng điều hướng được chọn bởi hàng triệu, tab mới thân thiện với người dùng trên trình duyệt"
+      "message": "OpenTab Tab mới, một phần mở rộng điều hướng được chọn bởi hàng triệu, tab mới thân thiện với người dùng trên trình duyệt"
    },
    "share_title": {
       "message": "Nó có thể là tab mới tốt nhất trên trình duyệt $browser$",
@@ -1854,7 +1854,7 @@
       "message": "Hôm nay"
    },
    "todo_welcome": {
-      "message": "Chào mừng bạn đến trang Tab New Infinity mới. Đây là một mục cần làm mẫu."
+      "message": "Chào mừng bạn đến trang Tab New OpenTab mới. Đây là một mục cần làm mẫu."
    },
    "todos": {
       "message": "Việc cần làm"
@@ -2354,7 +2354,7 @@
       "message": "Hiện không có thông tin thời tiết"
    },
    "web_set_home_title": {
-      "message": "Cách đặt Infinity làm trang chủ"
+      "message": "Cách đặt OpenTab làm trang chủ"
    },
    "website_address": {
       "message": "URL"
@@ -2375,7 +2375,7 @@
       "message": "Th4"
    },
    "welcome_infinity": {
-      "message": "Welcome to Infinity"
+      "message": "Welcome to OpenTab"
    },
    "wind_force": {
       "message": "Lực gió"

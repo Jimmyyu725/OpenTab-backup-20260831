@@ -27,7 +27,7 @@
       "message": "sikeresen hozzáadva"
    },
    "add_infinity_ai": {
-      "message": "Adja hozzá az Infinity AI-t a kezdőlaphoz"
+      "message": "Adja hozzá az OpenTab AI-t a kezdőlaphoz"
    },
    "add_link": {
       "message": "Link hozzáadása"
@@ -51,7 +51,7 @@
       "message": "Hozzáadás a kezdőlaphoz"
    },
    "add_to_infinity": {
-      "message": "Add hozzá az Infinity New lap oldalához"
+      "message": "Add hozzá az OpenTab New lap oldalához"
    },
    "additional_search_engine": {
       "message": "Csatolt keresőmotor"
@@ -90,7 +90,7 @@
       "message": "Alkalmazás"
    },
    "app_disabled_enable_first": {
-      "message": "Letiltotta ezt az alkalmazást. Engedélyezze az Infinity számára, hogy először engedélyezze ezt az alkalmazást?"
+      "message": "Letiltotta ezt az alkalmazást. Engedélyezze az OpenTab számára, hogy először engedélyezze ezt az alkalmazást?"
    },
    "application": {
       "message": "Alkalmazás"
@@ -259,7 +259,7 @@
       "message": "Hamarosan"
    },
    "comming_soon_title": {
-      "message": "Az Infinity Mobile verzió az úton van"
+      "message": "Az OpenTab Mobile verzió az úton van"
    },
    "confirm": {
       "message": "OK"
@@ -485,16 +485,16 @@
       "message": "Bővítmények"
    },
    "extension_des": {
-      "message": "Az Infinity New Tab lehetővé teszi az új lap oldalának testreszabását"
+      "message": "Az OpenTab lehetővé teszi az új lap oldalának testreszabását"
    },
    "extension_des_app": {
-      "message": "Az Infinity New Tab APP lehetővé teszi az új lap oldalának testreszabását"
+      "message": "Az OpenTab lehetővé teszi az új lap oldalának testreszabását"
    },
    "extension_des_firefox": {
       "message": "Emberek milliói választanak új tabikat.Beleértve a webikont, a keresőmotort, a nagy felbontású tapétát, az időjárást, a jegyzeteket, a könyvjelzőket, a tennivalókat, a történelmet, a kiterjesztett irányítást és egyéb funkciókat"
    },
    "extension_des_pro": {
-      "message": "Az Infinity New Tab Pro lehetővé teszi az új lap oldalának testreszabását"
+      "message": "Az OpenTab lehetővé teszi az új lap oldalának testreszabását"
    },
    "extension_mananger": {
       "message": "Bővítmények kezelése"
@@ -551,10 +551,10 @@
       "message": "Kövess minket"
    },
    "follow_wechat": {
-      "message": "Kövesse az Infinity Wechat nyilvános fiókot"
+      "message": "Kövesse az OpenTab Wechat nyilvános fiókot"
    },
    "follow_wechat_desc": {
-      "message": "Figyeljen a Wechat nyilvános számunkra (Micro Signal: InfinityDaily), hogy végtelenül a legújabb termékdinamikát kapjunk, és többet találhat a bővítésre és a weboldalra."
+      "message": "Figyeljen a Wechat nyilvános számunkra (Micro Signal: OpenTabDaily), hogy végtelenül a legújabb termékdinamikát kapjunk, és többet találhat a bővítésre és a weboldalra."
    },
    "font": {
       "message": "Betűtípusok"
@@ -608,7 +608,7 @@
       "message": "A támogatás a legnagyobb jutalom"
    },
    "give_some_feedback_to_improve": {
-      "message": "Ha tetszik az Infinity New lap oldalán, kérjük, értékelje szolgáltatást, vagy adjon nekünk visszajelzést, hogy segítsen nekünk IGN-nek."
+      "message": "Ha tetszik az OpenTab New lap oldalán, kérjük, értékelje szolgáltatást, vagy adjon nekünk visszajelzést, hogy segítsen nekünk IGN-nek."
    },
    "give_some_feedback_to_improve_web": {
       "message": "Ha bármilyen kérdése vagy javaslata van, kérjük, lépjen velünk kapcsolatba."
@@ -704,40 +704,40 @@
       "message": "Adatok kiválasztása"
    },
    "infinity_bookmarks": {
-      "message": "A könyvjelző mappájának hierarchiájának köszönhetően könnyebben keresse meg a könyvjelzőket az Infinity Könyvjelzők segítségével"
+      "message": "A könyvjelző mappájának hierarchiájának köszönhetően könnyebben keresse meg a könyvjelzőket az OpenTab Könyvjelzők segítségével"
    },
    "infinity_comic_wallpaper_source": {
-      "message": "Infinity kiemelt anime háttérképek"
+      "message": "OpenTab kiemelt anime háttérképek"
    },
    "infinity_comic_wallpaper_source_desc": {
-      "message": "Kiváló minőségű Infinity Anime Wallpaper Könyvtár"
+      "message": "Kiváló minőségű OpenTab Anime Wallpaper Könyvtár"
    },
    "infinity_extension": {
-      "message": "Kezelje a króm kiterjesztéseit és alkalmazásait könnyedén az Infinity Extension Manager segítségével"
+      "message": "Kezelje a króm kiterjesztéseit és alkalmazásait könnyedén az OpenTab Extension Manager segítségével"
    },
    "infinity_history": {
       "message": "A böngésző előzményeinek gyors megtekintése és kezelése végtelen történetével"
    },
    "infinity_landscape_wallpaper_source": {
-      "message": "Infinity kiemelt táj háttérképek"
+      "message": "OpenTab kiemelt táj háttérképek"
    },
    "infinity_landscape_wallpaper_source_desc": {
-      "message": "Kiváló minőségű Infinity Lands Wallpaper Könyvtár"
+      "message": "Kiváló minőségű OpenTab Lands Wallpaper Könyvtár"
    },
    "infinity_notes": {
       "message": "Rögzítse az élet inspirációit gyorsan végtelen megjegyzésekkel"
    },
    "infinity_settings": {
-      "message": "Személyre szabhatja az Infinity új lapját az Infinity beállításokkal"
+      "message": "Személyre szabhatja az OpenTab új lapját az OpenTab beállításokkal"
    },
    "infinity_todos": {
-      "message": "Rendezze el feladatait, és javítsa a munka hatékonyságát az Infinity To-Do listával"
+      "message": "Rendezze el feladatait, és javítsa a munka hatékonyságát az OpenTab To-Do listával"
    },
    "infinity_wallpaper": {
-      "message": "Az Infinity Wallpaper Könyvtár gazdag és izgalmas háttérképekkel rendelkezik"
+      "message": "Az OpenTab Wallpaper Könyvtár gazdag és izgalmas háttérképekkel rendelkezik"
    },
    "infinity_weather": {
-      "message": "Az Infinity Időjárás az időjárás-előrejelzést biztosítja a világ minden tájáról"
+      "message": "Az OpenTab Időjárás az időjárás-előrejelzést biztosítja a világ minden tájáról"
    },
    "info": {
       "message": "Információ"
@@ -755,7 +755,7 @@
       "message": "Írja be az új jelszót"
    },
    "install_crx_home_des": {
-      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+      "message": "This tutorial is provided by OpenTab, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
    },
    "install_crx_item_1": {
       "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
@@ -832,7 +832,7 @@
       "message": "A jelenlegi bejelentkezési módot hamarosan eltávolítjuk, kérjük, a bejelentkezés után a lehető leghamarabb kösse össze e-mail-címét vagy más harmadik fél fiókját"
    },
    "login_now": {
-      "message": "Jelentkezzen be az Infinity-fiókjába, hogy élvezze a több engedélyt"
+      "message": "Jelentkezzen be az OpenTab-fiókjába, hogy élvezze a több engedélyt"
    },
    "login_now_btn": {
       "message": "Bejelentkezés"
@@ -889,7 +889,7 @@
       "message": "Használja weboldalait, témáit, sablonjait, projektjeit, nyomtatási anyagokat és újságokat. Minden héten új háttérképek és videók kerülnek hozzáadásra"
    },
    "mobile_devices": {
-      "message": "Infinity Mobil-verzió"
+      "message": "OpenTab Mobil-verzió"
    },
    "modify": {
       "message": "Adatok szerkesztése"
@@ -970,16 +970,16 @@
       "message": "360 Search"
    },
    "name": {
-      "message": "Infinity New Tab"
+      "message": "OpenTab"
    },
    "name_app": {
-      "message": "Infinity New Tab (APP)"
+      "message": "OpenTab"
    },
    "name_error": {
       "message": "Kérjük, adja meg a webhely nevét"
    },
    "name_pro": {
-      "message": "Infinity New Tab (Pro)"
+      "message": "OpenTab"
    },
    "nature": {
       "message": "Természet"
@@ -1003,7 +1003,7 @@
       "message": "Új lap"
    },
    "new_tab_web": {
-      "message": "Infinity honlapja"
+      "message": "OpenTab honlapja"
    },
    "news": {
       "message": "Hírek"
@@ -1076,7 +1076,7 @@
       "message": "Jelenleg nincsenek ütemezett biztonsági mentések"
    },
    "none_auto_backup_desc": {
-      "message": "Az ütemezett biztonsági mentések ugyanazon a napon indulnak meg, ha az Infinity információt módosítja"
+      "message": "Az ütemezett biztonsági mentések ugyanazon a napon indulnak meg, ha az OpenTab információt módosítja"
    },
    "none_manual_backup": {
       "message": "Jelenleg nincs kézi mentés"
@@ -1109,7 +1109,7 @@
       "message": "Emlékeztessen 1 hét múlva"
    },
    "only_used_infinity": {
-      "message": "Csak az Infinity Belső modulokhoz használják"
+      "message": "Csak az OpenTab Belső modulokhoz használják"
    },
    "opacity": {
       "message": "Ikonok átlátszósága"
@@ -1364,7 +1364,7 @@
       "message": "Névenként számoljuk meg, hogy számát néhány keresőmotor használja."
    },
    "privacy_data_item_9": {
-      "message": "El kell fogadnia ezt az adatvédelmi irányelvet, mielőtt használhatja ezt a kiterjesztést. Tekintse meg a $the_infinity_privacy$, hogy többet megtudjon.",
+      "message": "El kell fogadnia ezt az adatvédelmi irányelvet, mielőtt használhatja ezt a kiterjesztést. Tekintse meg a $the_OpenTab_privacy$, hogy többet megtudjon.",
       "placeholders": {
          "the_infinity_privacy": {
             "content": "$1"
@@ -1390,16 +1390,16 @@
       "message": "Statisztikai elemzés:"
    },
    "privacy_data_uninstall_confirm": {
-      "message": "Kérjük, erősítse meg, hogy eltávolítsa az Infinity New lap oldal eltávolítását"
+      "message": "Kérjük, erősítse meg, hogy eltávolítsa az OpenTab New lap oldal eltávolítását"
    },
    "privacy_data_uninstall_confirm_pro": {
-      "message": "Kérjük, erősítse meg, hogy eltávolítsa az Infinity New Tab Pro eltávolítását"
+      "message": "Kérjük, erősítse meg, hogy eltávolítsa az OpenTab eltávolítását"
    },
    "privacy_data_uninstall_title": {
-      "message": "Távolítsa el az Infinity New lap oldalt?"
+      "message": "Távolítsa el az OpenTab New lap oldalt?"
    },
    "privacy_data_uninstall_title_pro": {
-      "message": "Az Infinity New Tab Pro eltávolítása?"
+      "message": "Az OpenTab eltávolítása?"
    },
    "privacy_data_yes": {
       "message": "Igen, a névtelen adatok összegyűjthetők az adatvédelmi irányelveknek megfelelően"
@@ -1471,7 +1471,7 @@
       "message": "Ellenőrzési kód beszerzése sikertelen"
    },
    "register_now": {
-      "message": "Regisztrálja az Infinity-fiókját most, hogy élvezze a több engedélyt"
+      "message": "Regisztrálja az OpenTab-fiókját most, hogy élvezze a több engedélyt"
    },
    "relative_humidity": {
       "message": "Relatív páratartalom"
@@ -1480,10 +1480,10 @@
       "message": "Próbálja újra"
    },
    "reminder_update_text1": {
-      "message": "Annak érdekében, hogy megkapja az Infinity tapasztalatot"
+      "message": "Annak érdekében, hogy megkapja az OpenTab tapasztalatot"
    },
    "reminder_update_text2": {
-      "message": "A böngésző frissítése a legutóbbi változatra javasolt, és ajánlott a Infinity kompatibilis böngészőt használni"
+      "message": "A böngésző frissítése a legutóbbi változatra javasolt, és ajánlott a OpenTab kompatibilis böngészőt használni"
    },
    "reminder_update_title": {
       "message": "Hiba történt az oldalon"
@@ -1674,7 +1674,7 @@
       "message": "Ez az objektum nem támogatott az aktuális verzióban_#_Kérjük telepítse be a böngésző kiterjesztését"
    },
    "set_infinity_to_homepage": {
-      "message": "Állítsa az Infinity -et a böngésző honlapjaként"
+      "message": "Állítsa az OpenTab -et a böngésző honlapjaként"
    },
    "set_new_password": {
       "message": "Új jelszó megadása"
@@ -1707,7 +1707,7 @@
       "message": "Más felhasználók megosztása"
    },
    "share_desc": {
-      "message": "Infinity New lap, a navigációs kiterjesztés több millióval, a legfelsőbb baráti új lapot a böngészőben"
+      "message": "OpenTab New lap, a navigációs kiterjesztés több millióval, a legfelsőbb baráti új lapot a böngészőben"
    },
    "share_title": {
       "message": "Ez lehet a $browser$ böngésző legjobb új lapja",
@@ -1849,7 +1849,7 @@
       "message": "Ma"
    },
    "todo_welcome": {
-      "message": "Üdvözöljük az Infinity New lap oldalon. Ez egy minta to-do tétel."
+      "message": "Üdvözöljük az OpenTab New lap oldalon. Ez egy minta to-do tétel."
    },
    "todos": {
       "message": "Teendők"
@@ -2349,7 +2349,7 @@
       "message": "Jelenleg nincs időjárási információ"
    },
    "web_set_home_title": {
-      "message": "Hogyan kell beállítani az Infinity-t a honlapnak"
+      "message": "Hogyan kell beállítani az OpenTab-t a honlapnak"
    },
    "website_address": {
       "message": "URL"
@@ -2370,7 +2370,7 @@
       "message": "Sze"
    },
    "welcome_infinity": {
-      "message": "Welcome to Infinity"
+      "message": "Welcome to OpenTab"
    },
    "wind_force": {
       "message": "Szél"
@@ -2414,7 +2414,7 @@
       "message": "Tegnap"
    },
    "you_need_login": {
-      "message": "A funkció használatához jelentkezzen be az Infinity fiókba"
+      "message": "A funkció használatához jelentkezzen be az OpenTab fiókba"
    },
    "your_browsing_history_appears_here": {
       "message": "A böngészési rekord itt jelenik meg"

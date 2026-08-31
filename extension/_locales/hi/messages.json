@@ -259,7 +259,7 @@
       "message": "जल्दी ही आगमन"
    },
    "comming_soon_title": {
-      "message": "Infinity मोबाइल संस्करण रास्ते में है"
+      "message": "OpenTab मोबाइल संस्करण रास्ते में है"
    },
    "confirm": {
       "message": "ठीक है"
@@ -734,7 +734,7 @@
       "message": "अपने कार्यों को व्यवस्थित करें और इन्फिनिटी टू-डू सूची के साथ अपनी कार्यकुशलता में सुधार करें"
    },
    "infinity_wallpaper": {
-      "message": "Infinity वॉलपेपर लाइब्रेरी, आपको समृद्ध, अद्भुत वॉलपेपर प्रदान करता है"
+      "message": "OpenTab वॉलपेपर लाइब्रेरी, आपको समृद्ध, अद्भुत वॉलपेपर प्रदान करता है"
    },
    "infinity_weather": {
       "message": "अनंत मौसम आपको दुनिया भर के शहरों के मौसम पूर्वानुमान प्रदान करता है"
@@ -755,7 +755,7 @@
       "message": "नया पासवर्ड डालें"
    },
    "install_crx_home_des": {
-      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+      "message": "This tutorial is provided by OpenTab, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
    },
    "install_crx_item_1": {
       "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
@@ -889,7 +889,7 @@
       "message": "अपनी वेबसाइटों, थीम, टेम्पलेट्स, प्रोजेक्ट्स, प्रिंटिंग सामग्री, और समाचार पत्रों में उपयोग करें। हर हफ्ते नए वॉलपेपर और वीडियो जोड़े जाते हैं"
    },
    "mobile_devices": {
-      "message": "Infinity मोबाइल संस्करण"
+      "message": "OpenTab मोबाइल संस्करण"
    },
    "modify": {
       "message": "जानकारी संशोधित करें"
@@ -970,16 +970,16 @@
       "message": "360 Search"
    },
    "name": {
-      "message": "Infinity New Tab"
+      "message": "OpenTab"
    },
    "name_app": {
-      "message": "Infinity New Tab (APP)"
+      "message": "OpenTab"
    },
    "name_error": {
       "message": "कृपया वेबसाइट का नाम दर्ज करें"
    },
    "name_pro": {
-      "message": "Infinity New Tab (Pro)"
+      "message": "OpenTab"
    },
    "nature": {
       "message": "प्रकृति"
@@ -1003,7 +1003,7 @@
       "message": "नया टैब"
    },
    "new_tab_web": {
-      "message": "Infinity होमपेज"
+      "message": "OpenTab होमपेज"
    },
    "news": {
       "message": "समाचार"
@@ -1364,7 +1364,7 @@
       "message": "हम गुमनाम रूप से कुछ खोज इंजनों का उपयोग करने की संख्या की गणना करेंगे।"
    },
    "privacy_data_item_9": {
-      "message": "इस एक्सटेंशन का उपयोग करने से पहले आपको इस गोपनीयता नीति से सहमत होना चाहिए। अधिक जानने के लिए हमारी $the_infinity_privacy$ देखें।",
+      "message": "इस एक्सटेंशन का उपयोग करने से पहले आपको इस गोपनीयता नीति से सहमत होना चाहिए। अधिक जानने के लिए हमारी $the_OpenTab_privacy$ देखें।",
       "placeholders": {
          "the_infinity_privacy": {
             "content": "$1"
@@ -1480,10 +1480,10 @@
       "message": "पुनः प्रयास करें"
    },
    "reminder_update_text1": {
-      "message": "Infinity में अपने अनुभव को बेहतर बनाने के लिए"
+      "message": "OpenTab में अपने अनुभव को बेहतर बनाने के लिए"
    },
    "reminder_update_text2": {
-      "message": "ब्राउज़र को नवीनतम संस्करण में अपग्रेड करने की अनुशंसा की जाती है, और Infinityके साथ संगत ब्राउज़र का उपयोग करने की अनुशंसा की जाती है।"
+      "message": "ब्राउज़र को नवीनतम संस्करण में अपग्रेड करने की अनुशंसा की जाती है, और OpenTabके साथ संगत ब्राउज़र का उपयोग करने की अनुशंसा की जाती है।"
    },
    "reminder_update_title": {
       "message": "पृष्ठ पर त्रुटि प्रदर्शित करें"
@@ -1674,7 +1674,7 @@
       "message": "यह सुविधा वर्तमान संस्करण में समर्थित नहीं है_#_कृपया उपयोग करने से पहले ब्राउज़र एक्सटेंशन स्थापित करें"
    },
    "set_infinity_to_homepage": {
-      "message": "अपने ब्राउज़र के लिए होमपेज के रूप में Infinity सेट करें"
+      "message": "अपने ब्राउज़र के लिए होमपेज के रूप में OpenTab सेट करें"
    },
    "set_new_password": {
       "message": "नया पासवर्ड सेट करें"
@@ -1707,7 +1707,7 @@
       "message": "उपयोगकर्ता शेयर करते हैं"
    },
    "share_desc": {
-      "message": "Infinity नया टैब, लाखों द्वारा चुने गए एक नेविगेशन एक्सटेंशन, ब्राउज़र पर सबसे उपयोगकर्ता के अनुकूल नया टैब"
+      "message": "OpenTab नया टैब, लाखों द्वारा चुने गए एक नेविगेशन एक्सटेंशन, ब्राउज़र पर सबसे उपयोगकर्ता के अनुकूल नया टैब"
    },
    "share_title": {
       "message": "$browser$ ब्राउजर पर यह सबसे अच्छा नया टैब हो सकता है",
@@ -2349,7 +2349,7 @@
       "message": "वर्तमान में कोई मौसम जानकारी उपलब्ध नहीं है"
    },
    "web_set_home_title": {
-      "message": "होमपेज के रूप में Infinity कैसे सेट करें"
+      "message": "होमपेज के रूप में OpenTab कैसे सेट करें"
    },
    "website_address": {
       "message": "URL"
@@ -2370,7 +2370,7 @@
       "message": "बुध"
    },
    "welcome_infinity": {
-      "message": "Welcome to Infinity"
+      "message": "Welcome to OpenTab"
    },
    "wind_force": {
       "message": "हवा"

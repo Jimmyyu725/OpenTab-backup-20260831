@@ -1,7 +1,11 @@
-# Infinity New Tab Pro 11.0.41 还原工程
+# OpenTab
 
-- `original/`：从本机 Chrome 已安装目录逐文件复制的原始商店构建包。
-- `extension/`：可供开发者模式加载的副本；仅修改扩展显示名并移除商店固定 ID/自动更新字段，避免与已安装版本冲突。
+作者：`jimmyu725`
+
+OpenTab 是从本机 Chrome 已安装包整理出的新标签页扩展开发工程。
+
+- `original/`：逐文件保留的原始商店构建包。
+- `extension/`：名称和作者已改为 OpenTab / jimmyu725 的开发者模式副本。
 - `recovered/`：对 58 个 JavaScript 构建文件进行反混淆、反压缩和模块拆分后的可读分析视图。
 - `ORIGINAL_SHA256SUMS.txt`：原始包逐文件 SHA-256。
 - `RECOVERY_INDEX.json`：每个构建文件的还原结果、输出路径和状态。

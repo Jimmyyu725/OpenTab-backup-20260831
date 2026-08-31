@@ -27,7 +27,7 @@
       "message": "başarıyla eklendi"
    },
    "add_infinity_ai": {
-      "message": "Infinity AI'ı ana sayfaya ekleyin"
+      "message": "OpenTab AI'ı ana sayfaya ekleyin"
    },
    "add_link": {
       "message": "Bağlantı ekler"
@@ -51,7 +51,7 @@
       "message": "Ana sayfaya ekle"
    },
    "add_to_infinity": {
-      "message": "Infinity Yeni sekme sayfasına ekle"
+      "message": "OpenTab Yeni sekme sayfasına ekle"
    },
    "additional_search_engine": {
       "message": "Ekli arama motoru"
@@ -259,7 +259,7 @@
       "message": "Çok Yakında"
    },
    "comming_soon_title": {
-      "message": "Infinity Mobile versiyonu yolda"
+      "message": "OpenTab Mobile versiyonu yolda"
    },
    "confirm": {
       "message": "Tamam"
@@ -485,16 +485,16 @@
       "message": "Uzantılar"
    },
    "extension_des": {
-      "message": "Infinity New Tech Yeni sekme sayfanızı kişiselleştirmenize olanak sağlar"
+      "message": "OpenTab New Tech Yeni sekme sayfanızı kişiselleştirmenize olanak sağlar"
    },
    "extension_des_app": {
-      "message": "Infinity New Tech APP Yeni sekme sayfanızı kişiselleştirmenize olanak sağlar"
+      "message": "OpenTab New Tech APP Yeni sekme sayfanızı kişiselleştirmenize olanak sağlar"
    },
    "extension_des_firefox": {
       "message": "Yeni Tab Milyonlarca kullanıcılar tarafından seçildi. Bu, Web Ikonları, Arama Makineleri, HD Duvarkağıtlar, Hava, Notlar, Kayıtlar, Yapılan Listesi, Tarih, Uzantı Yönetimi, ETC dahil olabilir."
    },
    "extension_des_pro": {
-      "message": "Infinity New Tech Pro Yeni sekme sayfanızı kişiselleştirmenize olanak sağlar"
+      "message": "OpenTab New Tech Pro Yeni sekme sayfanızı kişiselleştirmenize olanak sağlar"
    },
    "extension_mananger": {
       "message": "Uzantıları yönet"
@@ -551,10 +551,10 @@
       "message": "Bizi Takip Edin"
    },
    "follow_wechat": {
-      "message": "Infinity Wechat Halk Hesaplarını takip edin"
+      "message": "OpenTab Wechat Halk Hesaplarını takip edin"
    },
    "follow_wechat_desc": {
-      "message": "Wechat kamu numaramıza dikkat edin (mikro sinyal: InfinityDaily), Sonsuz son ürün dinamiklerini edinin ve genişletilecek ve web sitesini daha fazla daha eğlenceli keşfedebilirsiniz."
+      "message": "Wechat kamu numaramıza dikkat edin (mikro sinyal: OpenTabDaily), Sonsuz son ürün dinamiklerini edinin ve genişletilecek ve web sitesini daha fazla daha eğlenceli keşfedebilirsiniz."
    },
    "font": {
       "message": "Yazı tipleri"
@@ -608,7 +608,7 @@
       "message": "Desteğiniz en büyük ödülümüz"
    },
    "give_some_feedback_to_improve": {
-      "message": "Infinity New Sekme sayfasını seviyorsanız, lütfen servisimize oy verin veya bize ignemize yardımcı olmak için bize geri bildirim verin."
+      "message": "OpenTab New Sekme sayfasını seviyorsanız, lütfen servisimize oy verin veya bize ignemize yardımcı olmak için bize geri bildirim verin."
    },
    "give_some_feedback_to_improve_web": {
       "message": "Herhangi bir sorunuz veya öneriniz varsa, lütfen bizimle iletişime geçin."
@@ -704,7 +704,7 @@
       "message": "Veri seç"
    },
    "infinity_bookmarks": {
-      "message": "Yer imi klasörünüzü hiyerarşinizi düzleştirin ve Infinity yer imleri ile yer imlerini daha kolay bul"
+      "message": "Yer imi klasörünüzü hiyerarşinizi düzleştirin ve OpenTab yer imleri ile yer imlerini daha kolay bul"
    },
    "infinity_comic_wallpaper_source": {
       "message": "Sonsuzluk özellikli anime duvar kağıtları"
@@ -713,7 +713,7 @@
       "message": "Yüksek kaliteli sonsuzluk anime duvar kağıdı kütüphanesi"
    },
    "infinity_extension": {
-      "message": "Infinity Extension Manager ile krom uzantılarınızı ve uygulamalarınızı kolayca yönetin"
+      "message": "OpenTab Extension Manager ile krom uzantılarınızı ve uygulamalarınızı kolayca yönetin"
    },
    "infinity_history": {
       "message": "Tarayıcı geçmişinizi sonsuzluk tarihi ile hızlı bir şekilde görüntüleyin ve yönetin"
@@ -728,13 +728,13 @@
       "message": "Yaşamın ilhamlarını sonsuzluk notlarıyla hızlı bir şekilde kaydedin"
    },
    "infinity_settings": {
-      "message": "Infinity Yeni Sekme sayfanızı sonsuzluk ayarlarıyla kişiselleştirin"
+      "message": "OpenTab Yeni Sekme sayfanızı sonsuzluk ayarlarıyla kişiselleştirin"
    },
    "infinity_todos": {
       "message": "Görevlerinizi sırayla düzenleyin ve iş verimliliğinizi sonsuza dek listesi ile geliştirin"
    },
    "infinity_wallpaper": {
-      "message": "Infinity Wallpaper Kütüphanesi size zengin ve heyecan verici duvar kağıtları sunar"
+      "message": "OpenTab Wallpaper Kütüphanesi size zengin ve heyecan verici duvar kağıtları sunar"
    },
    "infinity_weather": {
       "message": "Sonsuzluk havası size dünyadaki şehirlerin hava tahminlerini sağlar"
@@ -755,7 +755,7 @@
       "message": "Yeni şifreyi girin"
    },
    "install_crx_home_des": {
-      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+      "message": "This tutorial is provided by OpenTab, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
    },
    "install_crx_item_1": {
       "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
@@ -889,7 +889,7 @@
       "message": "Web sitelerinizde, temalarınızda, şablonlarınızda, projelerinizde, baskı malzemelerinin ve gazetelerde kullanın. Her hafta yeni duvar kağıtları ve videolar eklendi"
    },
    "mobile_devices": {
-      "message": "Infinity Mobil Versyonu"
+      "message": "OpenTab Mobil Versyonu"
    },
    "modify": {
       "message": "Bilgileri düzenleyin"
@@ -970,16 +970,16 @@
       "message": "360 Search"
    },
    "name": {
-      "message": "Infinity New Tab"
+      "message": "OpenTab"
    },
    "name_app": {
-      "message": "Infinity New Tab (APP)"
+      "message": "OpenTab"
    },
    "name_error": {
       "message": "Lütfen web sitesi adını girin"
    },
    "name_pro": {
-      "message": "Infinity New Tab (Pro)"
+      "message": "OpenTab"
    },
    "nature": {
       "message": "Doğa"
@@ -1003,7 +1003,7 @@
       "message": "Yeni Sekme"
    },
    "new_tab_web": {
-      "message": "Infinity Anasayfa"
+      "message": "OpenTab Anasayfa"
    },
    "news": {
       "message": "Haberler"
@@ -1364,7 +1364,7 @@
       "message": "Anonim olarak bazı arama motorlarının kullanıldığını sayısını sayacağız."
    },
    "privacy_data_item_9": {
-      "message": "Bu uzantıyı kullanmadan önce bu Gizlilik Politikasını kabul etmelisiniz. $the_infinity_privacy$'ı daha fazla bilgi edinin.",
+      "message": "Bu uzantıyı kullanmadan önce bu Gizlilik Politikasını kabul etmelisiniz. $the_OpenTab_privacy$'ı daha fazla bilgi edinin.",
       "placeholders": {
          "the_infinity_privacy": {
             "content": "$1"
@@ -1390,16 +1390,16 @@
       "message": "Istatistiksel Analiz:"
    },
    "privacy_data_uninstall_confirm": {
-      "message": "Lütfen Infinity Yeni sekme sayfasını kaldırmak için onaylayın"
+      "message": "Lütfen OpenTab Yeni sekme sayfasını kaldırmak için onaylayın"
    },
    "privacy_data_uninstall_confirm_pro": {
-      "message": "Lütfen Infinity Yeni Tab Pro'yu kaldırmak için onaylayın"
+      "message": "Lütfen OpenTab Yeni Tab Pro'yu kaldırmak için onaylayın"
    },
    "privacy_data_uninstall_title": {
-      "message": "Infinity Yeni sekme sayfasını kaldırın?"
+      "message": "OpenTab Yeni sekme sayfasını kaldırın?"
    },
    "privacy_data_uninstall_title_pro": {
-      "message": "Infinity New TAB Pro'yu kaldırın?"
+      "message": "OpenTab New TAB Pro'yu kaldırın?"
    },
    "privacy_data_yes": {
       "message": "Evet, isimsiz veriler Gizlilik Politikasına uygun olarak toplanabilir."
@@ -1480,10 +1480,10 @@
       "message": "Yeniden deneyin"
    },
    "reminder_update_text1": {
-      "message": "Infinity deki deneyiminizi geliştirmek için"
+      "message": "OpenTab deki deneyiminizi geliştirmek için"
    },
    "reminder_update_text2": {
-      "message": "Tarayıcıyı en son sürüme yükseltmeniz önerilir ve Infinity ile uyumlu bir tarayıcı kullanmanız önerilir"
+      "message": "Tarayıcıyı en son sürüme yükseltmeniz önerilir ve OpenTab ile uyumlu bir tarayıcı kullanmanız önerilir"
    },
    "reminder_update_title": {
       "message": "Sayfada hata görüntüleme"
@@ -1674,7 +1674,7 @@
       "message": "Bu özellik mevcut sürümde desteklenmiyor_#_Lütfen kullanmadan önce tarayıcı uzantısını yükleyin"
    },
    "set_infinity_to_homepage": {
-      "message": "Tarayıcınız için ana sayfa olarak Infinity ayarlayın"
+      "message": "Tarayıcınız için ana sayfa olarak OpenTab ayarlayın"
    },
    "set_new_password": {
       "message": "Yeni şifreyi ayarla"
@@ -1707,7 +1707,7 @@
       "message": "Halka Açık Yerlerin"
    },
    "share_desc": {
-      "message": "Infinity Yeni sekmesi, Milyonlarca seçilen bir navigasyon uzantısı, tarayıcıdaki en kullanıcı dostu yeni sekme"
+      "message": "OpenTab Yeni sekmesi, Milyonlarca seçilen bir navigasyon uzantısı, tarayıcıdaki en kullanıcı dostu yeni sekme"
    },
    "share_title": {
       "message": "$browser$ tarayıcısındaki en iyi yeni sekme olabilir",
@@ -1849,7 +1849,7 @@
       "message": "Bugün"
    },
    "todo_welcome": {
-      "message": "Infinity Yeni sekme sayfasına hoş geldiniz. Bu, yapılacak bir örnektir."
+      "message": "OpenTab Yeni sekme sayfasına hoş geldiniz. Bu, yapılacak bir örnektir."
    },
    "todos": {
       "message": "Yapılacaklar"
@@ -2349,7 +2349,7 @@
       "message": "Şu anda mevcut hava durumu bilgisi yok"
    },
    "web_set_home_title": {
-      "message": "Ana sayfa olarak Infinity nasıl ayarlanır"
+      "message": "Ana sayfa olarak OpenTab nasıl ayarlanır"
    },
    "website_address": {
       "message": "URL"
@@ -2370,7 +2370,7 @@
       "message": "Çrş"
    },
    "welcome_infinity": {
-      "message": "Welcome to Infinity"
+      "message": "Welcome to OpenTab"
    },
    "wind_force": {
       "message": "Kuvvet"

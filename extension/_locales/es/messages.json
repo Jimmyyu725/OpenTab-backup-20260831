@@ -27,7 +27,7 @@
       "message": "agregado con éxito"
    },
    "add_infinity_ai": {
-      "message": "Añade Infinity AI a la página de inicio"
+      "message": "Añade OpenTab AI a la página de inicio"
    },
    "add_link": {
       "message": "Añadir un enlace"
@@ -51,7 +51,7 @@
       "message": "Añadir a la página de inicio"
    },
    "add_to_infinity": {
-      "message": "Añadir a la página de Infinity New Tab"
+      "message": "Añadir a la página de OpenTab"
    },
    "additional_search_engine": {
       "message": "Motor de búsqueda adjunto"
@@ -90,7 +90,7 @@
       "message": "Aplicación"
    },
    "app_disabled_enable_first": {
-      "message": "Ha desactivado esta aplicación. ¿Permitir que Infinity active primero esta aplicación?"
+      "message": "Ha desactivado esta aplicación. ¿Permitir que OpenTab active primero esta aplicación?"
    },
    "application": {
       "message": "Aplicación"
@@ -259,7 +259,7 @@
       "message": "Próximamente"
    },
    "comming_soon_title": {
-      "message": "Infinity Mobile Version está en camino"
+      "message": "OpenTab Mobile Version está en camino"
    },
    "confirm": {
       "message": "Aceptar"
@@ -485,16 +485,16 @@
       "message": "Extensiones"
    },
    "extension_des": {
-      "message": "Infinity New Tab le permite personalizar la página de nueva pestaña"
+      "message": "OpenTab le permite personalizar la página de nueva pestaña"
    },
    "extension_des_app": {
-      "message": "Infinity New Tab APP le permite personalizar la página de nueva pestaña"
+      "message": "OpenTab le permite personalizar la página de nueva pestaña"
    },
    "extension_des_firefox": {
       "message": "La nueva pestaña elegida por millones,incluyendo los iconos web,los motores de búsqueda,los fondos de pantalla HD y los widgets,como el clima,las notas,los marcadores,la lista de tareas,la historia,la gestión de extensiones,etc."
    },
    "extension_des_pro": {
-      "message": "Infinity New Tab Pro le permite personalizar la página de nueva pestaña"
+      "message": "OpenTab le permite personalizar la página de nueva pestaña"
    },
    "extension_mananger": {
       "message": "Administrar extensiones"
@@ -551,10 +551,10 @@
       "message": "Síguenos"
    },
    "follow_wechat": {
-      "message": "Siga la cuenta pública de Infinity Wechat"
+      "message": "Siga la cuenta pública de OpenTab Wechat"
    },
    "follow_wechat_desc": {
-      "message": "Preste atención a nuestro número público de Wechat (Micro Signal: InfinityDaily), obtenga la última dinámica del producto de Infinity, y puede descubrir más diversión para expandirse y al sitio web."
+      "message": "Preste atención a nuestro número público de Wechat (Micro Signal: OpenTabDaily), obtenga la última dinámica del producto de OpenTab, y puede descubrir más diversión para expandirse y al sitio web."
    },
    "font": {
       "message": "Fuentes"
@@ -608,7 +608,7 @@
       "message": "Su apoyo es nuestra mayor recompensa"
    },
    "give_some_feedback_to_improve": {
-      "message": "Si le gusta la página Infinity New Tab, califique nuestro servicio o envíenos sus comentarios para ayudarnos a mejorar."
+      "message": "Si le gusta la página OpenTab, califique nuestro servicio o envíenos sus comentarios para ayudarnos a mejorar."
    },
    "give_some_feedback_to_improve_web": {
       "message": "Si tiene alguna pregunta o sugerencia, contáctenos."
@@ -704,16 +704,16 @@
       "message": "Seleccionar datos"
    },
    "infinity_bookmarks": {
-      "message": "Combine sus carpetas de favoritos y encuentre sus favoritos con mayor facilidad con Favoritos Infinity"
+      "message": "Combine sus carpetas de favoritos y encuentre sus favoritos con mayor facilidad con Favoritos OpenTab"
    },
    "infinity_comic_wallpaper_source": {
-      "message": "Fondos de pantalla de anime destacados de Infinity"
+      "message": "Fondos de pantalla de anime destacados de OpenTab"
    },
    "infinity_comic_wallpaper_source_desc": {
-      "message": "Biblioteca de fondos de pantalla de anime de Infinity de alta calidad"
+      "message": "Biblioteca de fondos de pantalla de anime de OpenTab de alta calidad"
    },
    "infinity_extension": {
-      "message": "Administre sus extensiones y aplicaciones de $browser$ fácilmente con Administrador de extensiones Infinity",
+      "message": "Administre sus extensiones y aplicaciones de $browser$ fácilmente con Administrador de extensiones OpenTab",
       "placeholders": {
          "browser": {
             "content": "$1"
@@ -721,28 +721,28 @@
       }
    },
    "infinity_history": {
-      "message": "Consulte y administre rápidamente el historial de su navegador con Historial Infinity"
+      "message": "Consulte y administre rápidamente el historial de su navegador con Historial OpenTab"
    },
    "infinity_landscape_wallpaper_source": {
-      "message": "Fondos de pantalla de paisajes destacados de Infinity"
+      "message": "Fondos de pantalla de paisajes destacados de OpenTab"
    },
    "infinity_landscape_wallpaper_source_desc": {
-      "message": "Biblioteca de fondos de pantalla de paisajes de Infinity de alta calidad"
+      "message": "Biblioteca de fondos de pantalla de paisajes de OpenTab de alta calidad"
    },
    "infinity_notes": {
-      "message": "Anote sus inspiraciones rápidamente con Notas Infinity"
+      "message": "Anote sus inspiraciones rápidamente con Notas OpenTab"
    },
    "infinity_settings": {
-      "message": "Personalice su página Infinity New Tab con Ajustes Infinity"
+      "message": "Personalice su página OpenTab con Ajustes OpenTab"
    },
    "infinity_todos": {
-      "message": "Organice sus tareas por orden y gane en eficiencia trabajando con Tareas pendientes Infinity"
+      "message": "Organice sus tareas por orden y gane en eficiencia trabajando con Tareas pendientes OpenTab"
    },
    "infinity_wallpaper": {
-      "message": "Biblioteca de fondos de pantalla Infinity le ofrece fondos de pantalla atractivos y emocionantes"
+      "message": "Biblioteca de fondos de pantalla OpenTab le ofrece fondos de pantalla atractivos y emocionantes"
    },
    "infinity_weather": {
-      "message": "Climatología Infinity le ofrece las previsiones meteorológicas de ciudades de todo el mundo"
+      "message": "Climatología OpenTab le ofrece las previsiones meteorológicas de ciudades de todo el mundo"
    },
    "info": {
       "message": "Información"
@@ -760,7 +760,7 @@
       "message": "Escribe una contraseña nueva"
    },
    "install_crx_home_des": {
-      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+      "message": "This tutorial is provided by OpenTab, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
    },
    "install_crx_item_1": {
       "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
@@ -837,7 +837,7 @@
       "message": "El método de inicio de sesión actual se eliminará pronto, vincule su correo electrónico u otra cuenta de terceros lo antes posible después de iniciar sesión"
    },
    "login_now": {
-      "message": "Inicie sesión en su cuenta Infinity ahora para disfrutar de más permisos"
+      "message": "Inicie sesión en su cuenta OpenTab ahora para disfrutar de más permisos"
    },
    "login_now_btn": {
       "message": "Iniciar sesión"
@@ -894,7 +894,7 @@
       "message": "Utilícelos en sus sitios web, temas, plantillas, proyectos, materiales de impresión y periódicos. Se añaden nuevos fondos de pantalla y videos todas las semanas"
    },
    "mobile_devices": {
-      "message": "Edición móvil Infinity"
+      "message": "Edición móvil OpenTab"
    },
    "modify": {
       "message": "Editar datos"
@@ -975,16 +975,16 @@
       "message": "360 Search"
    },
    "name": {
-      "message": "Infinity Nueva pestaña"
+      "message": "OpenTab"
    },
    "name_app": {
-      "message": "Infinity Nueva pestaña (APP)"
+      "message": "OpenTab"
    },
    "name_error": {
       "message": "Ingrese el nombre del sitio web"
    },
    "name_pro": {
-      "message": "Infinity Nueva pestaña (Pro)"
+      "message": "OpenTab"
    },
    "nature": {
       "message": "Naturaleza"
@@ -1008,7 +1008,7 @@
       "message": "Nueva pestaña"
    },
    "new_tab_web": {
-      "message": "Página de inicio Infinity"
+      "message": "Página de inicio OpenTab"
    },
    "news": {
       "message": "Noticias"
@@ -1081,7 +1081,7 @@
       "message": "Actualmente no hay copias de seguridad programadas"
    },
    "none_auto_backup_desc": {
-      "message": "Las copias de seguridad programadas comenzarán el mismo día en que modifique la información en Infinity"
+      "message": "Las copias de seguridad programadas comenzarán el mismo día en que modifique la información en OpenTab"
    },
    "none_manual_backup": {
       "message": "Actualmente no hay copias de seguridad manuales"
@@ -1114,7 +1114,7 @@
       "message": "Recuérdamelo dentro de 1 semana"
    },
    "only_used_infinity": {
-      "message": "Solo se usa para los módulos internos de Infinity"
+      "message": "Solo se usa para los módulos internos de OpenTab"
    },
    "opacity": {
       "message": "Opacidad de los iconos"
@@ -1369,7 +1369,7 @@
       "message": "Contaremos de forma anónima la cantidad de veces que se usan algunos motores de búsqueda."
    },
    "privacy_data_item_9": {
-      "message": "Debe aceptar esta política de privacidad antes de poder utilizar esta extensión. Consulte nuestra $the_infinity_privacy$ para obtener más información.",
+      "message": "Debe aceptar esta política de privacidad antes de poder utilizar esta extensión. Consulte nuestra $the_OpenTab_privacy$ para obtener más información.",
       "placeholders": {
          "the_infinity_privacy": {
             "content": "$1"
@@ -1395,16 +1395,16 @@
       "message": "Analisis estadistico:"
    },
    "privacy_data_uninstall_confirm": {
-      "message": "Confirme la desinstalación de la página Infinity New Tab"
+      "message": "Confirme la desinstalación de la página OpenTab"
    },
    "privacy_data_uninstall_confirm_pro": {
-      "message": "Confirme la desinstalación de Infinity New Tab Pro"
+      "message": "Confirme la desinstalación de OpenTab"
    },
    "privacy_data_uninstall_title": {
-      "message": "¿Desea desinstalar la página Infinity New Tab?"
+      "message": "¿Desea desinstalar la página OpenTab?"
    },
    "privacy_data_uninstall_title_pro": {
-      "message": "¿Desea desinstalar Infinity New Tab Pro?"
+      "message": "¿Desea desinstalar OpenTab?"
    },
    "privacy_data_yes": {
       "message": "Sí, pueden recopilar los datos anónimos de acuerdo con la política de privacidad"
@@ -1476,7 +1476,7 @@
       "message": "Error al obtener el código de verificación"
    },
    "register_now": {
-      "message": "Registre su cuenta Infinity ahora para disfrutar de más permisos"
+      "message": "Registre su cuenta OpenTab ahora para disfrutar de más permisos"
    },
    "relative_humidity": {
       "message": "Humedad relativa"
@@ -1485,10 +1485,10 @@
       "message": "Vuelve a intentarlo"
    },
    "reminder_update_text1": {
-      "message": "Para que obtenga una mejor experiencia de usar Infinity"
+      "message": "Para que obtenga una mejor experiencia de usar OpenTab"
    },
    "reminder_update_text2": {
-      "message": "Se recomienda actualizar el navegador a la última versión y utilizar un navegador compatible con Infinity"
+      "message": "Se recomienda actualizar el navegador a la última versión y utilizar un navegador compatible con OpenTab"
    },
    "reminder_update_title": {
       "message": "Pantalla de error en la página"
@@ -1679,7 +1679,7 @@
       "message": "Esta función no es compatible con la versión actual_#_Instale la extensión del navegador antes de usar"
    },
    "set_infinity_to_homepage": {
-      "message": "Establecer Infinity como la página de inicio para su navegador"
+      "message": "Establecer OpenTab como la página de inicio para su navegador"
    },
    "set_new_password": {
       "message": "Configurar contraseña nueva"
@@ -1712,7 +1712,7 @@
       "message": "Compartido por otros usuarios"
    },
    "share_desc": {
-      "message": "Infinity Nueva pestaña, una extensión de navegación elegida por millones de personas, la nueva pestaña más fácil de usar en un navegador"
+      "message": "OpenTab Nueva pestaña, una extensión de navegación elegida por millones de personas, la nueva pestaña más fácil de usar en un navegador"
    },
    "share_title": {
       "message": "Puede ser la mejor pestaña nueva del navegador $browser$",
@@ -1854,7 +1854,7 @@
       "message": "Hoy"
    },
    "todo_welcome": {
-      "message": "Bienvenido a la página Infinity New Tab. Este es un ejemplo de una tarea pendiente."
+      "message": "Bienvenido a la página OpenTab. Este es un ejemplo de una tarea pendiente."
    },
    "todos": {
       "message": "Tareas pendientes"
@@ -2354,7 +2354,7 @@
       "message": "No hay información meteorológica actualmente disponible"
    },
    "web_set_home_title": {
-      "message": "Cómo establecer Infinity como la página de inicio"
+      "message": "Cómo establecer OpenTab como la página de inicio"
    },
    "website_address": {
       "message": "URL"
@@ -2375,7 +2375,7 @@
       "message": "Mié"
    },
    "welcome_infinity": {
-      "message": "Bienvenido a Infinity"
+      "message": "Bienvenido a OpenTab"
    },
    "wind_force": {
       "message": "Fuerza"
@@ -2419,7 +2419,7 @@
       "message": "Ayer"
    },
    "you_need_login": {
-      "message": "Inicie sesión en la cuenta Infinity para usar esta función"
+      "message": "Inicie sesión en la cuenta OpenTab para usar esta función"
    },
    "your_browsing_history_appears_here": {
       "message": "Su historial de navegación se mostrará aquí"

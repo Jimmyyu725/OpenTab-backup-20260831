@@ -41,7 +41,7 @@ const checksumLines = checksumsText.trimEnd().split("\n");
 const expected = new Map(checksumLines.map((line) => [line.slice(66), line.slice(0, 64)]));
 for (const path of files) {
   const rel = relative(target, path);
-  if (mode === "modified" && rel === "manifest.json") continue;
+  if (mode === "modified" && (rel === "manifest.json" || /(?:^|\/)\_locales\/[^/]+\/messages\.json$/.test(rel))) continue;
   const hash = createHash("sha256").update(await readFile(path)).digest("hex");
   if (expected.get(rel) !== hash) throw new Error(`Checksum mismatch: ${rel}`);
 }
@@ -50,8 +50,23 @@ if (mode !== "modified" && files.length !== expected.size) {
 }
 
 if (mode === "modified") {
-  if (manifest.name !== "Infinity New Tab Pro (Recovered 11.0.41)") throw new Error("Recovered-copy name not applied");
+  if (manifest.name !== "OpenTab") throw new Error("OpenTab name not applied");
+  if (manifest.author !== "jimmyu725") throw new Error("OpenTab author not applied");
   if ("key" in manifest || "update_url" in manifest) throw new Error("Store identity/update fields still present");
+  const packageJson = JSON.parse(await readFile(join(projectRoot, "package.json"), "utf8"));
+  if (packageJson.name !== "opentab" || packageJson.author !== "jimmyu725") throw new Error("Project metadata not rebranded");
+  const localeFiles = files.filter((path) => /\/_locales\/[^/]+\/messages\.json$/.test(path));
+  for (const path of localeFiles) {
+    const messages = JSON.parse(await readFile(path, "utf8"));
+    const brandKeys = path.includes("/chatai/_locales/")
+      ? ["extension_name", "extension_name_safari"]
+      : ["name", "name_app", "name_pro"];
+    for (const key of brandKeys) {
+      if (messages[key]?.message !== "OpenTab") throw new Error(`${relative(target, path)}:${key} is not OpenTab`);
+    }
+    const visibleText = Object.values(messages).map((entry) => entry?.message ?? "").join("\n");
+    if (/infinity|hitab|wetab/i.test(visibleText)) throw new Error(`${relative(target, path)} still contains old visible branding`);
+  }
 } else {
   if (manifest.name !== "__MSG_name_pro__") throw new Error("Stock localized name not restored");
   if (!manifest.key || !manifest.update_url) throw new Error("Stock identity/update fields not restored");
