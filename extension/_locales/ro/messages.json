@@ -27,7 +27,7 @@
       "message": "a adăugat cu succes"
    },
    "add_infinity_ai": {
-      "message": "Adăugați Infinity AI pe pagina principală"
+      "message": "Adăugați OpenTab AI pe pagina principală"
    },
    "add_link": {
       "message": "Adaugă un link"
@@ -51,7 +51,7 @@
       "message": "Adaugă la pagina principală"
    },
    "add_to_infinity": {
-      "message": "Adăugați la pagina de fila Infinity Noua pagină"
+      "message": "Adăugați la pagina de fila OpenTab Noua pagină"
    },
    "additional_search_engine": {
       "message": "Ataşat motor de căutare"
@@ -259,7 +259,7 @@
       "message": "În curând"
    },
    "comming_soon_title": {
-      "message": "Versiunea mobilă Infinity este pe drum"
+      "message": "Versiunea mobilă OpenTab este pe drum"
    },
    "confirm": {
       "message": "OK"
@@ -485,16 +485,16 @@
       "message": "Extensii"
    },
    "extension_des": {
-      "message": "Infinity New Tab vă permite să personalizați noua pagină de fila"
+      "message": "OpenTab vă permite să personalizați noua pagină de fila"
    },
    "extension_des_app": {
-      "message": "Infinity New Tab APP vă permite să personalizați noua pagină de fila"
+      "message": "OpenTab vă permite să personalizați noua pagină de fila"
    },
    "extension_des_firefox": {
       "message": "Noua filă aleasă de milioane, care poate îmbunătăți foarte mult productivitatea. Includerea icoanelor web, motoarele de căutare, imagini de fundal HD, vremea, notele, marcajele, lista de sarcini, istoria, managementul extensiei etc."
    },
    "extension_des_pro": {
-      "message": "Infinity New Tab Pro vă permite să personalizați noua pagină de fila"
+      "message": "OpenTab vă permite să personalizați noua pagină de fila"
    },
    "extension_mananger": {
       "message": "Gestionează extensiile"
@@ -551,10 +551,10 @@
       "message": "Urmărește-ne"
    },
    "follow_wechat": {
-      "message": "Urmați Infinity Wechat Public Cont"
+      "message": "Urmați OpenTab Wechat Public Cont"
    },
    "follow_wechat_desc": {
-      "message": "Fiți atenți la numărul public Wechat (Micro Semnal: InfinityDaily), obțineți dinamica celei mai recente produse Infinity și puteți descoperi mai multă distracție pentru a vă extinde și site-ul web."
+      "message": "Fiți atenți la numărul public Wechat (Micro Semnal: OpenTabDaily), obțineți dinamica celei mai recente produse OpenTab și puteți descoperi mai multă distracție pentru a vă extinde și site-ul web."
    },
    "font": {
       "message": "Fonturi"
@@ -608,7 +608,7 @@
       "message": "Suportul dvs. este cea mai mare răsplată a noastră"
    },
    "give_some_feedback_to_improve": {
-      "message": "Dacă vă place Pagina de fila Infinity Noua pagină, vă rugăm să evaluați serviciul nostru sau să ne oferiți feedback pentru a ne ajuta."
+      "message": "Dacă vă place Pagina de fila OpenTab Noua pagină, vă rugăm să evaluați serviciul nostru sau să ne oferiți feedback pentru a ne ajuta."
    },
    "give_some_feedback_to_improve_web": {
       "message": "Dacă aveți întrebări sau sugestii, vă rugăm să ne contactați."
@@ -704,16 +704,16 @@
       "message": "Selectare date"
    },
    "infinity_bookmarks": {
-      "message": "Aplatizați ierarhia dosarului de marcaj și găsiți marcaje mai ușor cu Bookmarks Infinity"
+      "message": "Aplatizați ierarhia dosarului de marcaj și găsiți marcaje mai ușor cu Bookmarks OpenTab"
    },
    "infinity_comic_wallpaper_source": {
       "message": "Infinit Imagini de Fundal Anime"
    },
    "infinity_comic_wallpaper_source_desc": {
-      "message": "Biblioteca de tapet de înaltă calitate Infinity Anime"
+      "message": "Biblioteca de tapet de înaltă calitate OpenTab Anime"
    },
    "infinity_extension": {
-      "message": "Gestionați-vă cu ușurință extensiile $browser$ și Apps cu Managerul de extensie Infinity",
+      "message": "Gestionați-vă cu ușurință extensiile $browser$ și Apps cu Managerul de extensie OpenTab",
       "placeholders": {
          "browser": {
             "content": "$1"
@@ -727,22 +727,22 @@
       "message": "Infinit Wallpapere de peisaj prezentate"
    },
    "infinity_landscape_wallpaper_source_desc": {
-      "message": "Biblioteca de wallpaper de înaltă calitate Infinity"
+      "message": "Biblioteca de wallpaper de înaltă calitate OpenTab"
    },
    "infinity_notes": {
-      "message": "Înregistrați-vă rapid inspirațiile vieții cu notele Infinity"
+      "message": "Înregistrați-vă rapid inspirațiile vieții cu notele OpenTab"
    },
    "infinity_settings": {
-      "message": "Personalizați pagina filă nouă Infinity cu setările Infinity"
+      "message": "Personalizați pagina filă nouă OpenTab cu setările OpenTab"
    },
    "infinity_todos": {
-      "message": "Aranjați-vă sarcinile în ordine și îmbunătățiți eficiența muncii cu lista de probleme Infinity"
+      "message": "Aranjați-vă sarcinile în ordine și îmbunătățiți eficiența muncii cu lista de probleme OpenTab"
    },
    "infinity_wallpaper": {
-      "message": "Infinity Wallpaper Biblioteca vă oferă imagini de fundal bogate și interesante"
+      "message": "OpenTab Wallpaper Biblioteca vă oferă imagini de fundal bogate și interesante"
    },
    "infinity_weather": {
-      "message": "Infinity Vremea vă oferă prognozele meteo pentru orașele din întreaga lume"
+      "message": "OpenTab Vremea vă oferă prognozele meteo pentru orașele din întreaga lume"
    },
    "info": {
       "message": "Informații"
@@ -760,7 +760,7 @@
       "message": "Introdu noua parolă"
    },
    "install_crx_home_des": {
-      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+      "message": "This tutorial is provided by OpenTab, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
    },
    "install_crx_item_1": {
       "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
@@ -837,7 +837,7 @@
       "message": "Metoda curentă de autentificare va fi eliminată în curând, vă rugăm să legați e-mailul sau alt cont terț cât mai curând posibil după autentificare"
    },
    "login_now": {
-      "message": "Conectați-vă la contul dvs. Infinity acum pentru a vă bucura de mai multe permisiuni"
+      "message": "Conectați-vă la contul dvs. OpenTab acum pentru a vă bucura de mai multe permisiuni"
    },
    "login_now_btn": {
       "message": "Conectează-te"
@@ -894,7 +894,7 @@
       "message": "Utilizați în site-urile, temele, șabloanele, proiectele, materialele de tipărire și ziare. În fiecare săptămână sunt adăugate noi imagini de fundal și videoclipuri"
    },
    "mobile_devices": {
-      "message": "Mobilă Infinity"
+      "message": "Mobilă OpenTab"
    },
    "modify": {
       "message": "Editați detaliile"
@@ -975,16 +975,16 @@
       "message": "360 Search"
    },
    "name": {
-      "message": "Infinity New Tab"
+      "message": "OpenTab"
    },
    "name_app": {
-      "message": "Infinity New Tab (APP)"
+      "message": "OpenTab"
    },
    "name_error": {
       "message": "Introduceți numele site-ului web"
    },
    "name_pro": {
-      "message": "Infinity New Tab (Pro)"
+      "message": "OpenTab"
    },
    "nature": {
       "message": "Natură"
@@ -1008,7 +1008,7 @@
       "message": "Filă nouă"
    },
    "new_tab_web": {
-      "message": "Infinity Pagina de start"
+      "message": "OpenTab Pagina de start"
    },
    "news": {
       "message": "Știri"
@@ -1369,7 +1369,7 @@
       "message": "Numărăm anonim de câte ori sunt folosite câteva motoare de căutare."
    },
    "privacy_data_item_9": {
-      "message": "Trebuie să fiți de acord cu această politică de confidențialitate înainte de a putea utiliza această extensie. Vizualizați-vă $the_infinity_privacy$ pentru a afla mai multe.",
+      "message": "Trebuie să fiți de acord cu această politică de confidențialitate înainte de a putea utiliza această extensie. Vizualizați-vă $the_OpenTab_privacy$ pentru a afla mai multe.",
       "placeholders": {
          "the_infinity_privacy": {
             "content": "$1"
@@ -1395,16 +1395,16 @@
       "message": "Analize statistice:"
    },
    "privacy_data_uninstall_confirm": {
-      "message": "Vă rugăm să confirmați pentru a dezinstala pagina fila Infinity Noua pagină"
+      "message": "Vă rugăm să confirmați pentru a dezinstala pagina fila OpenTab Noua pagină"
    },
    "privacy_data_uninstall_confirm_pro": {
-      "message": "Vă rugăm să confirmați pentru a dezinstala Infinity New Tab Pro"
+      "message": "Vă rugăm să confirmați pentru a dezinstala OpenTab"
    },
    "privacy_data_uninstall_title": {
-      "message": "Dezinstalați pagina filă nouă Infinity?"
+      "message": "Dezinstalați pagina filă nouă OpenTab?"
    },
    "privacy_data_uninstall_title_pro": {
-      "message": "Dezinstalați Infinity New Tab Pro?"
+      "message": "Dezinstalați OpenTab?"
    },
    "privacy_data_yes": {
       "message": "Da, datele anonime pot fi colectate în conformitate cu Politica de confidențialitate"
@@ -1476,7 +1476,7 @@
       "message": "Obţinerea codului de verificare nu a reuşit"
    },
    "register_now": {
-      "message": "Înregistrați-vă acum contul Infinity pentru a vă bucura de mai multe permisiuni"
+      "message": "Înregistrați-vă acum contul OpenTab pentru a vă bucura de mai multe permisiuni"
    },
    "relative_humidity": {
       "message": "Umiditate relativă"
@@ -1485,10 +1485,10 @@
       "message": "Încercați din nou"
    },
    "reminder_update_text1": {
-      "message": "Pentru a obține o experiență mai bună de a utiliza Infinity"
+      "message": "Pentru a obține o experiență mai bună de a utiliza OpenTab"
    },
    "reminder_update_text2": {
-      "message": "Se recomandă actualizarea browser-ului la cea mai recentă versiune, și se recomandă utilizarea unui browser compatibil cu Infinity"
+      "message": "Se recomandă actualizarea browser-ului la cea mai recentă versiune, și se recomandă utilizarea unui browser compatibil cu OpenTab"
    },
    "reminder_update_title": {
       "message": "Eroare la pagină"
@@ -1679,7 +1679,7 @@
       "message": "Această caracteristică nu este susținută în versiunea curentă_#_Vă rugăm să instalați extensia browser înainte de a utiliza"
    },
    "set_infinity_to_homepage": {
-      "message": "Setați Infinity ca pagină de pornire pentru browserul dvs"
+      "message": "Setați OpenTab ca pagină de pornire pentru browserul dvs"
    },
    "set_new_password": {
       "message": "Setați parola nouă"
@@ -1712,7 +1712,7 @@
       "message": "utilizatorii împărtășesc"
    },
    "share_desc": {
-      "message": "Infinity noua fila, o extensie de navigare aleasă de milioane, cea mai prietenoasă nouă fila pe browser"
+      "message": "OpenTab noua fila, o extensie de navigare aleasă de milioane, cea mai prietenoasă nouă fila pe browser"
    },
    "share_title": {
       "message": "Poate fi cea mai bună filă nouă din browserul $browser$",
@@ -1854,7 +1854,7 @@
       "message": "Astăzi"
    },
    "todo_welcome": {
-      "message": "Bine ați venit la pagina filă nouă Infinity. Acesta este un element de lucru pentru a face."
+      "message": "Bine ați venit la pagina filă nouă OpenTab. Acesta este un element de lucru pentru a face."
    },
    "todos": {
       "message": "Activități de făcut"
@@ -2354,7 +2354,7 @@
       "message": "Momentan nu sunt disponibile informații despre vreme"
    },
    "web_set_home_title": {
-      "message": "Cum să setați Infinity ca pagină de pornire"
+      "message": "Cum să setați OpenTab ca pagină de pornire"
    },
    "website_address": {
       "message": "Adresă URL"
@@ -2375,7 +2375,7 @@
       "message": "Mie"
    },
    "welcome_infinity": {
-      "message": "Welcome to Infinity"
+      "message": "Welcome to OpenTab"
    },
    "wind_force": {
       "message": "Vânt"
@@ -2419,7 +2419,7 @@
       "message": "Ieri"
    },
    "you_need_login": {
-      "message": "Trebuie să semnezi în Contul Infinity mai întâi"
+      "message": "Trebuie să semnezi în Contul OpenTab mai întâi"
    },
    "your_browsing_history_appears_here": {
       "message": "Istoria navigarii va fi afișată aici"

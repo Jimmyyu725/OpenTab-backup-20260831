@@ -27,7 +27,7 @@
       "message": "添加成功"
    },
    "add_infinity_ai": {
-      "message": "添加 Infinity AI 到主頁"
+      "message": "添加 OpenTab AI 到主頁"
    },
    "add_link": {
       "message": "新增連結"
@@ -51,7 +51,7 @@
       "message": "添加到主頁"
    },
    "add_to_infinity": {
-      "message": "添加Infinity新分頁"
+      "message": "添加OpenTab"
    },
    "additional_search_engine": {
       "message": "附加搜尋"
@@ -90,7 +90,7 @@
       "message": "應用程式"
    },
    "app_disabled_enable_first": {
-      "message": "此應用被您禁用，允許Infinity先啟用此應用嗎？"
+      "message": "此應用被您禁用，允許OpenTab先啟用此應用嗎？"
    },
    "application": {
       "message": "應用程式"
@@ -235,7 +235,7 @@
       "message": "往下滑動到底部，在【起始畫面】一欄裏選擇【開啟某個特定網頁或一組網頁】，再選中【新增網頁】；"
    },
    "chrome_browser_guide3": {
-      "message": "在彈窗裡輸入 Infinity 主頁的網址 https://inftab.com，點擊【新增】，主頁設置完成。"
+      "message": "在彈窗裡輸入 OpenTab 主頁的網址 https://inftab.com，點擊【新增】，主頁設置完成。"
    },
    "clear_historys": {
       "message": "清除歷史記錄"
@@ -259,7 +259,7 @@
       "message": "即將上線"
    },
    "comming_soon_title": {
-      "message": "Infinity移動版正在快馬加鞭的路上"
+      "message": "OpenTab移動版正在快馬加鞭的路上"
    },
    "confirm": {
       "message": "確定"
@@ -407,7 +407,7 @@
       "message": "在【啟動時】这一栏中选择【開啟這些頁面】，再点击后侧的【新增頁面】按钮。"
    },
    "edge_browser_guide3": {
-      "message": "在彈窗裡輸入 Infinity 主頁的網址 https://inftab.com，點擊【新增】，主頁設置完成。"
+      "message": "在彈窗裡輸入 OpenTab 主頁的網址 https://inftab.com，點擊【新增】，主頁設置完成。"
    },
    "edge_install_crx_item_1": {
       "message": "(1) Open the extension page from Toolbar -> Extension, or enter edge://extensions/ in the address bar and press Enter to open the extension page"
@@ -485,16 +485,16 @@
       "message": "擴充功能"
    },
    "extension_des": {
-      "message": "Infinity新分頁讓你可以自定義你的新分頁"
+      "message": "OpenTab讓你可以自定義你的新分頁"
    },
    "extension_des_app": {
-      "message": "Infinity新分頁APP讓你可以自定義你的新分頁"
+      "message": "OpenTab讓你可以自定義你的新分頁"
    },
    "extension_des_firefox": {
       "message": "數百萬人選擇的新分頁，可以極大地提高生產力。支持自定義添加網頁圖標、搜尋引擎、高清桌面，以及天氣、筆記、書簽、待辦事項、歷史記錄、擴展管理等小組件。"
    },
    "extension_des_pro": {
-      "message": "Infinity新分頁Pro讓你可以自定義你的新分頁"
+      "message": "OpenTab讓你可以自定義你的新分頁"
    },
    "extension_mananger": {
       "message": "管理擴充功能"
@@ -539,7 +539,7 @@
       "message": "點擊【首頁與新視窗】後面的下拉欄，在下拉式功能表中選中【自訂網址】。"
    },
    "firefox_browser_guide3": {
-      "message": "在文本框中輸入 Infinity 主頁的網址 https://inftab.com，主頁設置完成。"
+      "message": "在文本框中輸入 OpenTab 主頁的網址 https://inftab.com，主頁設置完成。"
    },
    "five_star": {
       "message": "五星好評"
@@ -551,10 +551,10 @@
       "message": "關注我們"
    },
    "follow_wechat": {
-      "message": "關注Infinity微信公眾號"
+      "message": "關注OpenTab微信公眾號"
    },
    "follow_wechat_desc": {
-      "message": "關注我們的微信公眾號（微訊號：infinitydaily），獲取Infinity最新產品動態，還能帶你發現更多好玩有趣的擴展和網站。"
+      "message": "關注我們的微信公眾號（微訊號：OpenTabdaily），獲取OpenTab最新產品動態，還能帶你發現更多好玩有趣的擴展和網站。"
    },
    "font": {
       "message": "字型"
@@ -608,7 +608,7 @@
       "message": "您的支持是對我們極大的肯定"
    },
    "give_some_feedback_to_improve": {
-      "message": "如果您喜歡Infinity新分頁，請給我們打分或者反饋幫助我們進行優化。。"
+      "message": "如果您喜歡OpenTab，請給我們打分或者反饋幫助我們進行優化。。"
    },
    "give_some_feedback_to_improve_web": {
       "message": "如果您有任何問題或建議，請聯繫我們進行反饋。"
@@ -704,16 +704,16 @@
       "message": "選取資料"
    },
    "infinity_bookmarks": {
-      "message": "Infinity書簽，扁平化您的書簽資料夾層級，更方便的查找書簽"
+      "message": "OpenTab書簽，扁平化您的書簽資料夾層級，更方便的查找書簽"
    },
    "infinity_comic_wallpaper_source": {
-      "message": "Infinity精選動漫壁紙"
+      "message": "OpenTab精選動漫壁紙"
    },
    "infinity_comic_wallpaper_source_desc": {
-      "message": "高品質的infinity動漫壁紙庫"
+      "message": "高品質的OpenTab動漫壁紙庫"
    },
    "infinity_extension": {
-      "message": "Infinity擴展管理，簡單明瞭的管理您的$browser$擴展和App",
+      "message": "OpenTab擴展管理，簡單明瞭的管理您的$browser$擴展和App",
       "placeholders": {
          "browser": {
             "content": "$1"
@@ -721,28 +721,28 @@
       }
    },
    "infinity_history": {
-      "message": "Infinity歷史記錄，快速查看和管理您瀏覽器的歷史記錄"
+      "message": "OpenTab歷史記錄，快速查看和管理您瀏覽器的歷史記錄"
    },
    "infinity_landscape_wallpaper_source": {
-      "message": "Infinity精選風景壁紙"
+      "message": "OpenTab精選風景壁紙"
    },
    "infinity_landscape_wallpaper_source_desc": {
-      "message": "高品質的infinity風景壁紙庫"
+      "message": "高品質的OpenTab風景壁紙庫"
    },
    "infinity_notes": {
-      "message": "Infinity筆記，快速記錄您的生活靈感"
+      "message": "OpenTab筆記，快速記錄您的生活靈感"
    },
    "infinity_settings": {
-      "message": "Infinity設定，對您的Infinity新標籤頁進行個性化設定"
+      "message": "OpenTab設定，對您的OpenTab新標籤頁進行個性化設定"
    },
    "infinity_todos": {
-      "message": "Infinity待辦事項，將您的任務安排的井然有序，提高您的工作效率"
+      "message": "OpenTab待辦事項，將您的任務安排的井然有序，提高您的工作效率"
    },
    "infinity_wallpaper": {
-      "message": "Infinity壁紙庫，為您提供豐富、精彩的桌面"
+      "message": "OpenTab壁紙庫，為您提供豐富、精彩的桌面"
    },
    "infinity_weather": {
-      "message": "Infinity天氣，為您提供全球都市的天氣預報"
+      "message": "OpenTab天氣，為您提供全球都市的天氣預報"
    },
    "info": {
       "message": "資訊"
@@ -760,7 +760,7 @@
       "message": "輸入新密碼"
    },
    "install_crx_home_des": {
-      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+      "message": "This tutorial is provided by OpenTab, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
    },
    "install_crx_item_1": {
       "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
@@ -837,7 +837,7 @@
       "message": "當前的登入管道將很快被删除，請在登入後儘快綁定您的電子郵件或其他協力廠商帳戶"
    },
    "login_now": {
-      "message": "現在登入你的Infinity帳號，享受更多許可權"
+      "message": "現在登入你的OpenTab帳號，享受更多許可權"
    },
    "login_now_btn": {
       "message": "立即登入"
@@ -894,7 +894,7 @@
       "message": "在你的網站，主題，範本，項目，印刷資料，報刊等處使用，每週都有新的桌面和視屏加入"
    },
    "mobile_devices": {
-      "message": "Infinity 移動版"
+      "message": "OpenTab 移動版"
    },
    "modify": {
       "message": "編輯內容"
@@ -975,16 +975,16 @@
       "message": "360搜索"
    },
    "name": {
-      "message": "Infinity 新分頁"
+      "message": "OpenTab"
    },
    "name_app": {
-      "message": "Infinity 新分頁 （APP）"
+      "message": "OpenTab"
    },
    "name_error": {
       "message": "請輸入網站名稱"
    },
    "name_pro": {
-      "message": "Infinity 新分頁 （Pro）"
+      "message": "OpenTab"
    },
    "nature": {
       "message": "自然"
@@ -1008,7 +1008,7 @@
       "message": "新增分頁"
    },
    "new_tab_web": {
-      "message": "Infinity 主頁"
+      "message": "OpenTab 主頁"
    },
    "news": {
       "message": "新聞"
@@ -1081,7 +1081,7 @@
       "message": "當前暫無定時備份"
    },
    "none_auto_backup_desc": {
-      "message": "定時備份將在您對infinity進行修改的當天備份"
+      "message": "定時備份將在您對OpenTab進行修改的當天備份"
    },
    "none_manual_backup": {
       "message": "當前暫無手動備份"
@@ -1114,7 +1114,7 @@
       "message": "一周後提醒我"
    },
    "only_used_infinity": {
-      "message": "僅作用於Infinity內部模塊"
+      "message": "僅作用於OpenTab內部模塊"
    },
    "opacity": {
       "message": "圖標不透明度"
@@ -1369,7 +1369,7 @@
       "message": "我們會匿名統計部分搜尋引擎的使用次數。"
    },
    "privacy_data_item_9": {
-      "message": "您必須同意此隱私政策，才可以使用該擴展，您也可以查看我們的$the_infinity_privacy$以瞭解更多。",
+      "message": "您必須同意此隱私政策，才可以使用該擴展，您也可以查看我們的$the_OpenTab_privacy$以瞭解更多。",
       "placeholders": {
          "the_infinity_privacy": {
             "content": "$1"
@@ -1395,16 +1395,16 @@
       "message": "統計分析："
    },
    "privacy_data_uninstall_confirm": {
-      "message": "請確認您將要卸載Infinity新分頁"
+      "message": "請確認您將要卸載OpenTab"
    },
    "privacy_data_uninstall_confirm_pro": {
-      "message": "請確認您將要卸載Infinity新分頁Pro"
+      "message": "請確認您將要卸載OpenTab"
    },
    "privacy_data_uninstall_title": {
-      "message": "卸載Infinity新分頁？"
+      "message": "卸載OpenTab？"
    },
    "privacy_data_uninstall_title_pro": {
-      "message": "卸載Infinity新分頁Pro？"
+      "message": "卸載OpenTab？"
    },
    "privacy_data_yes": {
       "message": "是的，可以根據隱私政策收集這些匿名數據"
@@ -1476,7 +1476,7 @@
       "message": "獲取驗證碼失敗"
    },
    "register_now": {
-      "message": "現在註冊你的Infinity帳號，享受更多許可權"
+      "message": "現在註冊你的OpenTab帳號，享受更多許可權"
    },
    "relative_humidity": {
       "message": "相對濕度"
@@ -1485,10 +1485,10 @@
       "message": "點擊重試"
    },
    "reminder_update_text1": {
-      "message": "為了您獲得Infinity更好的使用體驗"
+      "message": "為了您獲得OpenTab更好的使用體驗"
    },
    "reminder_update_text2": {
-      "message": "建議將瀏覽器陞級到最新版本，推薦使用相容Infinity的瀏覽器"
+      "message": "建議將瀏覽器陞級到最新版本，推薦使用相容OpenTab的瀏覽器"
    },
    "reminder_update_title": {
       "message": "頁面存在錯誤顯示"
@@ -1578,7 +1578,7 @@
       "message": "单击瀏覽器左上角的【Safari】，選擇【偏好設定】。"
    },
    "safari_browser_guide2": {
-      "message": "在彈出的視窗下，找到【首頁】選項，輸入 Infinity 主頁的網址 https://inftab.com。"
+      "message": "在彈出的視窗下，找到【首頁】選項，輸入 OpenTab 主頁的網址 https://inftab.com。"
    },
    "safari_browser_guide3": {
       "message": "點擊【將目前網頁設為首頁】，主頁設定完成。"
@@ -1679,7 +1679,7 @@
       "message": "當前版本不支持該操作_#_請安裝瀏覽器擴充功能後使用"
    },
    "set_infinity_to_homepage": {
-      "message": "將Infinity設為主頁_#_讓你的主頁更加生動有趣"
+      "message": "將OpenTab設為主頁_#_讓你的主頁更加生動有趣"
    },
    "set_new_password": {
       "message": "設定新密碼"
@@ -1712,7 +1712,7 @@
       "message": "用戶分享"
    },
    "share_desc": {
-      "message": "Infinity新分頁，數百萬人選擇的導航類擴展，瀏覽器上最好用的新分頁"
+      "message": "OpenTab，數百萬人選擇的導航類擴展，瀏覽器上最好用的新分頁"
    },
    "share_title": {
       "message": "可能是$browser$瀏覽器上最好用的新分頁",
@@ -1854,7 +1854,7 @@
       "message": "今天"
    },
    "todo_welcome": {
-      "message": "歡迎使用Infinity新標籤頁，這是一條示例待辦事項。"
+      "message": "歡迎使用OpenTab新標籤頁，這是一條示例待辦事項。"
    },
    "todos": {
       "message": "待辦事項"
@@ -2359,7 +2359,7 @@
       "message": "當前暫無城市天氣"
    },
    "web_set_home_title": {
-      "message": "如何將 Infinity 設定為您的主頁"
+      "message": "如何將 OpenTab 設定為您的主頁"
    },
    "website_address": {
       "message": "網站地址"
@@ -2380,7 +2380,7 @@
       "message": "三"
    },
    "welcome_infinity": {
-      "message": "歡迎使用Infinity"
+      "message": "歡迎使用OpenTab"
    },
    "wind_force": {
       "message": "風力"
@@ -2424,7 +2424,7 @@
       "message": "昨天"
    },
    "you_need_login": {
-      "message": "該功能需登入 Infinity 帳號後使用"
+      "message": "該功能需登入 OpenTab 帳號後使用"
    },
    "your_browsing_history_appears_here": {
       "message": "您的搜索歷史記錄將出現在這裡"

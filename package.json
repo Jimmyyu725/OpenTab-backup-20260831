@@ -1,5 +1,5 @@
 {
-  "name": "infinity-new-tab-pro-recovered",
+  "name": "opentab",
   "version": "11.0.41-recovered.1",
   "private": true,
   "type": "module",
@@ -15,5 +15,7 @@
   },
   "devDependencies": {
     "webcrack": "2.16.0"
-  }
+  },
+  "author": "jimmyu725",
+  "description": "OpenTab recovered Chrome new-tab extension source"
 }

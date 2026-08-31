@@ -27,7 +27,7 @@
       "message": "追加に成功しました"
    },
    "add_infinity_ai": {
-      "message": "ホームページにInfinity AIを追加"
+      "message": "ホームページにOpenTab AIを追加"
    },
    "add_link": {
       "message": "リンクを追加"
@@ -51,7 +51,7 @@
       "message": "ホームページに追加"
    },
    "add_to_infinity": {
-      "message": "Infinityに追加する新しいタブページ"
+      "message": "OpenTabに追加する新しいタブページ"
    },
    "additional_search_engine": {
       "message": "添付の検索エンジン"
@@ -90,7 +90,7 @@
       "message": "アプリケーション"
    },
    "app_disabled_enable_first": {
-      "message": "あなたはこのアプリを無効にしました。 infinityが最初にこのアプリを有効にすることを許可しますか？"
+      "message": "あなたはこのアプリを無効にしました。 OpenTabが最初にこのアプリを有効にすることを許可しますか？"
    },
    "application": {
       "message": "アプリケーション"
@@ -259,7 +259,7 @@
       "message": "準備中"
    },
    "comming_soon_title": {
-      "message": "Infinity Mobileバージョンが進行中です"
+      "message": "OpenTab Mobileバージョンが進行中です"
    },
    "confirm": {
       "message": "OK"
@@ -485,16 +485,16 @@
       "message": "拡張機能"
    },
    "extension_des": {
-      "message": "Infinity New Tab を使用すると、新しいタブページをカスタマイズできます。"
+      "message": "OpenTab を使用すると、新しいタブページをカスタマイズできます。"
    },
    "extension_des_app": {
-      "message": "Infinity New Tab APPを使用すると、新しいタブページをカスタマイズできます。"
+      "message": "OpenTabを使用すると、新しいタブページをカスタマイズできます。"
    },
    "extension_des_firefox": {
       "message": "数百万人が選んだ新しいラベルは生産力を大いに高めることができる。ウェブアイコン、検索エンジン、高清の壁紙、天気、ブックマーク、待ち受けリスト、履歴、拡張管理などの機能を提供しています。"
    },
    "extension_des_pro": {
-      "message": "Infinity New Tab Proを使用すると、新しいタブページをカスタマイズできます。"
+      "message": "OpenTabを使用すると、新しいタブページをカスタマイズできます。"
    },
    "extension_mananger": {
       "message": "擴展管理"
@@ -551,10 +551,10 @@
       "message": "フォロー"
    },
    "follow_wechat": {
-      "message": "Infinity Wechatパブリックアカウントをフォローする"
+      "message": "OpenTab Wechatパブリックアカウントをフォローする"
    },
    "follow_wechat_desc": {
-      "message": "私たちのWechatの公共数（マイクロシグナル：InfinityDaily）に注意を払って、Infinity最新の製品ダイナミクスを入手して、拡張やWebサイトを楽しむことができます。"
+      "message": "私たちのWechatの公共数（マイクロシグナル：OpenTabDaily）に注意を払って、OpenTab最新の製品ダイナミクスを入手して、拡張やWebサイトを楽しむことができます。"
    },
    "font": {
       "message": "フォント"
@@ -608,7 +608,7 @@
       "message": "あなたのサポートは私たちの最大の報酬です"
    },
    "give_some_feedback_to_improve": {
-      "message": "あなたがInfinityの新しいタブページが好きなら、私たちのサービスを評価するか、私たちがIGNを助けるために私たちにフィードバックを与えてください。"
+      "message": "あなたがOpenTabの新しいタブページが好きなら、私たちのサービスを評価するか、私たちがIGNを助けるために私たちにフィードバックを与えてください。"
    },
    "give_some_feedback_to_improve_web": {
       "message": "質問や提案がある場合は、お問い合わせください。"
@@ -704,7 +704,7 @@
       "message": "データを選択"
    },
    "infinity_bookmarks": {
-      "message": "ブックマークフォルダの階層を平らにして、Infinity Bookmarksを使って簡単にブックマークを見つける"
+      "message": "ブックマークフォルダの階層を平らにして、OpenTab Bookmarksを使って簡単にブックマークを見つける"
    },
    "infinity_comic_wallpaper_source": {
       "message": "インフィニティ特集アニメの壁紙"
@@ -713,7 +713,7 @@
       "message": "高品質の無限大アニメの壁紙図書館"
    },
    "infinity_extension": {
-      "message": "Infinity Extension Managerで簡単に$browser$ ExtensionsとAppsを管理する",
+      "message": "OpenTab Extension Managerで簡単に$browser$ ExtensionsとAppsを管理する",
       "placeholders": {
          "browser": {
             "content": "$1"
@@ -736,10 +736,10 @@
       "message": "無限大の新しいタブページを無限にパーソナライズします"
    },
    "infinity_todos": {
-      "message": "あなたのタスクを順番に順番に手配し、Infinity To-Doリストを使って作業効率を向上させる"
+      "message": "あなたのタスクを順番に順番に手配し、OpenTab To-Doリストを使って作業効率を向上させる"
    },
    "infinity_wallpaper": {
-      "message": "Infinityの壁紙ライブラリーはあなたに豊かでエキサイティングな壁紙を提供します"
+      "message": "OpenTabの壁紙ライブラリーはあなたに豊かでエキサイティングな壁紙を提供します"
    },
    "infinity_weather": {
       "message": "無限天の天気は世界中の都市の天気予報を提供しています"
@@ -760,7 +760,7 @@
       "message": "新しいパスワードを入力"
    },
    "install_crx_home_des": {
-      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+      "message": "This tutorial is provided by OpenTab, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
    },
    "install_crx_item_1": {
       "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
@@ -894,7 +894,7 @@
       "message": "あなたのウェブサイト、テーマ、テンプレート、プロジェクト、印刷資料、そして新聞での使用。 毎週新しい壁紙やビデオが追加されています"
    },
    "mobile_devices": {
-      "message": "Infinityモバイル版"
+      "message": "OpenTabモバイル版"
    },
    "modify": {
       "message": "予約内容の変更"
@@ -975,16 +975,16 @@
       "message": "360 Search"
    },
    "name": {
-      "message": "Infinity New Tab"
+      "message": "OpenTab"
    },
    "name_app": {
-      "message": "Infinity New Tab (APP)"
+      "message": "OpenTab"
    },
    "name_error": {
       "message": "ウェブサイト名を入力してください"
    },
    "name_pro": {
-      "message": "Infinity New Tab (Pro)"
+      "message": "OpenTab"
    },
    "nature": {
       "message": "自然"
@@ -1008,7 +1008,7 @@
       "message": "新しいタブ"
    },
    "new_tab_web": {
-      "message": "Infinity ホームページ"
+      "message": "OpenTab ホームページ"
    },
    "news": {
       "message": "ニュース"
@@ -1114,7 +1114,7 @@
       "message": "一週間後に再通知する"
    },
    "only_used_infinity": {
-      "message": "Infinityの内部モジュールにのみ使用されます"
+      "message": "OpenTabの内部モジュールにのみ使用されます"
    },
    "opacity": {
       "message": "アイコンの透明度"
@@ -1369,7 +1369,7 @@
       "message": "いくつかの検索エンジンが使用されている回数を匿名で数えます。"
    },
    "privacy_data_item_9": {
-      "message": "この拡張機能を使用する前に、このプライバシーポリシーに同意する必要があります。 詳しくは$the_infinity_privacy$を表示してください。",
+      "message": "この拡張機能を使用する前に、このプライバシーポリシーに同意する必要があります。 詳しくは$the_OpenTab_privacy$を表示してください。",
       "placeholders": {
          "the_infinity_privacy": {
             "content": "$1"
@@ -1395,13 +1395,13 @@
       "message": "統計分析："
    },
    "privacy_data_uninstall_confirm": {
-      "message": "[Infinity New]タブページをアンインストールするように確認してください"
+      "message": "[OpenTab New]タブページをアンインストールするように確認してください"
    },
    "privacy_data_uninstall_confirm_pro": {
-      "message": "Infinity New Tab Proのアンインストールを確認してください"
+      "message": "OpenTabのアンインストールを確認してください"
    },
    "privacy_data_uninstall_title": {
-      "message": "アンインストール[Infinityの新しい]タブページ？"
+      "message": "アンインストール[OpenTabの新しい]タブページ？"
    },
    "privacy_data_uninstall_title_pro": {
       "message": "インフィニティの新しいタブPROをアンインストールしますか？"
@@ -1485,10 +1485,10 @@
       "message": "もう一度お試しください"
    },
    "reminder_update_text1": {
-      "message": "あなたがInfinityを使うより良い経験を得るために"
+      "message": "あなたがOpenTabを使うより良い経験を得るために"
    },
    "reminder_update_text2": {
-      "message": "ブラウザを最新バージョンにアップグレードすることをお勧めします。Infinityと互換性のあるブラウザをお勧めします。"
+      "message": "ブラウザを最新バージョンにアップグレードすることをお勧めします。OpenTabと互換性のあるブラウザをお勧めします。"
    },
    "reminder_update_title": {
       "message": "ページのエラー表示"
@@ -1679,7 +1679,7 @@
       "message": "この機能は現在のバージョンではサポートされていません_#_使用する前にブラウザ拡張機能をインストールしてください"
    },
    "set_infinity_to_homepage": {
-      "message": "ブラウザのホームページとしてInfinityを設定してください"
+      "message": "ブラウザのホームページとしてOpenTabを設定してください"
    },
    "set_new_password": {
       "message": "新しいパスワードを設定"
@@ -1712,7 +1712,7 @@
       "message": "ユーザのシェア"
    },
    "share_desc": {
-      "message": "Infinityの新しいラベルページ、数百万人が選んだナビゲーション類の拡張、ブラウザで一番いいのは新しいタブページです。"
+      "message": "OpenTabの新しいラベルページ、数百万人が選んだナビゲーション類の拡張、ブラウザで一番いいのは新しいタブページです。"
    },
    "share_title": {
       "message": "$browser$ブラウザの最良の新しいタブかもしれません",
@@ -1854,7 +1854,7 @@
       "message": "今日"
    },
    "todo_welcome": {
-      "message": "[Infinity New]タブページへようこそ。 これはTo-Doアイテムのサンプルです。"
+      "message": "[OpenTab New]タブページへようこそ。 これはTo-Doアイテムのサンプルです。"
    },
    "todos": {
       "message": "To Do"
@@ -2354,7 +2354,7 @@
       "message": "現在利用可能な天気情報はありません"
    },
    "web_set_home_title": {
-      "message": "ホームページとしてInfinityを設定する方法"
+      "message": "ホームページとしてOpenTabを設定する方法"
    },
    "website_address": {
       "message": "URL"
@@ -2375,7 +2375,7 @@
       "message": "水曜日"
    },
    "welcome_infinity": {
-      "message": "Welcome to Infinity"
+      "message": "Welcome to OpenTab"
    },
    "wind_force": {
       "message": "風力"
@@ -2419,7 +2419,7 @@
       "message": "昨日"
    },
    "you_need_login": {
-      "message": "Infinityアカウントをログインしてからこの機能を使います"
+      "message": "OpenTabアカウントをログインしてからこの機能を使います"
    },
    "your_browsing_history_appears_here": {
       "message": "閲覧履歴はここに表示されます"

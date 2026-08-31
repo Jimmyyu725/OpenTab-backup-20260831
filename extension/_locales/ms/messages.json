@@ -27,7 +27,7 @@
       "message": "Ditambah berjaya"
    },
    "add_infinity_ai": {
-      "message": "Tambah Infinity AI ke halaman rumah"
+      "message": "Tambah OpenTab AI ke halaman rumah"
    },
    "add_link": {
       "message": "Tambah pautan"
@@ -51,7 +51,7 @@
       "message": "Tambah ke halaman rumah"
    },
    "add_to_infinity": {
-      "message": "Tambah ke halaman Tab Infinity Baharu"
+      "message": "Tambah ke halaman Tab OpenTab Baharu"
    },
    "additional_search_engine": {
       "message": "Enjin Carian Tersambung"
@@ -259,7 +259,7 @@
       "message": "Akan datang"
    },
    "comming_soon_title": {
-      "message": "Versi Mobil Infinity dalam perjalanan"
+      "message": "Versi Mobil OpenTab dalam perjalanan"
    },
    "confirm": {
       "message": "OK"
@@ -485,16 +485,16 @@
       "message": "Pelanjutan"
    },
    "extension_des": {
-      "message": "Infinity New Tab membolehkan anda menyesuaikan halaman Tab Baharu anda"
+      "message": "OpenTab membolehkan anda menyesuaikan halaman Tab Baharu anda"
    },
    "extension_des_app": {
-      "message": "Infinity New Tab APP membolehkan anda menyesuaikan halaman Tab Baharu anda"
+      "message": "OpenTab membolehkan anda menyesuaikan halaman Tab Baharu anda"
    },
    "extension_des_firefox": {
       "message": "Tab Baru yang dipilih oleh berjuta-juta, yang boleh meningkatkan produktiviti. Termasuk ikon web, enjin carian, wallpaper HD, cuaca, nota, penanda halaman, senarai tugasan, sejarah, dan sebagainya."
    },
    "extension_des_pro": {
-      "message": "Infinity New Tab Pro membolehkan anda menyesuaikan halaman Tab Baharu anda"
+      "message": "OpenTab membolehkan anda menyesuaikan halaman Tab Baharu anda"
    },
    "extension_mananger": {
       "message": "Urus Sambungan"
@@ -551,10 +551,10 @@
       "message": "Ikuti kami"
    },
    "follow_wechat": {
-      "message": "Ikut Akaun Awam Infinity Wechat"
+      "message": "Ikut Akaun Awam OpenTab Wechat"
    },
    "follow_wechat_desc": {
-      "message": "Beri perhatian kepada nombor awam WeChat kami (isyarat mikro: Infinitydaily), dapatkan dinamik produk terbaru Infinity, dan anda boleh menemui lebih banyak keseronokan untuk berkembang dan laman web."
+      "message": "Beri perhatian kepada nombor awam WeChat kami (isyarat mikro: OpenTabdaily), dapatkan dinamik produk terbaru OpenTab, dan anda boleh menemui lebih banyak keseronokan untuk berkembang dan laman web."
    },
    "font": {
       "message": "Fon"
@@ -608,7 +608,7 @@
       "message": "Sokongan anda adalah ganjaran terbesar kami"
    },
    "give_some_feedback_to_improve": {
-      "message": "Jika anda suka halaman Tab Infinity New, sila menilai perkhidmatan kami atau memberi maklum balas kepada kami untuk membantu kami IGN."
+      "message": "Jika anda suka halaman Tab OpenTab New, sila menilai perkhidmatan kami atau memberi maklum balas kepada kami untuk membantu kami IGN."
    },
    "give_some_feedback_to_improve_web": {
       "message": "Sekiranya anda mempunyai sebarang pertanyaan atau cadangan, sila hubungi kami."
@@ -707,13 +707,13 @@
       "message": "Flatten Hierarki Folder Bookmark anda dan cari penanda halaman dengan lebih mudah dengan penanda buku infiniti"
    },
    "infinity_comic_wallpaper_source": {
-      "message": "Infinity memaparkan wallpaper anime"
+      "message": "OpenTab memaparkan wallpaper anime"
    },
    "infinity_comic_wallpaper_source_desc": {
       "message": "Perpustakaan kertas dinding anime berkualiti tinggi berkualiti tinggi"
    },
    "infinity_extension": {
-      "message": "Urus sambungan dan aplikasi $browser$ anda dengan mudah dengan Pengurus Extension Infinity",
+      "message": "Urus sambungan dan aplikasi $browser$ anda dengan mudah dengan Pengurus Extension OpenTab",
       "placeholders": {
          "browser": {
             "content": "$1"
@@ -724,7 +724,7 @@
       "message": "Cepat melihat dan mengurus sejarah penyemak imbas anda dengan sejarah infiniti"
    },
    "infinity_landscape_wallpaper_source": {
-      "message": "Infinity memaparkan wallpaper landskap"
+      "message": "OpenTab memaparkan wallpaper landskap"
    },
    "infinity_landscape_wallpaper_source_desc": {
       "message": "Perpustakaan Landskap Landskap Berkualiti Tinggi"
@@ -733,16 +733,16 @@
       "message": "Rekod Inspirasi Kehidupan dengan cepat dengan Nota Infiniti"
    },
    "infinity_settings": {
-      "message": "Peribadikan halaman Tab Infinity Baharu anda dengan Tetapan Infiniti"
+      "message": "Peribadikan halaman Tab OpenTab Baharu anda dengan Tetapan Infiniti"
    },
    "infinity_todos": {
-      "message": "Susun Tugas anda dalam urutan dan meningkatkan kecekapan kerja anda dengan senarai Infinity To-Do"
+      "message": "Susun Tugas anda dalam urutan dan meningkatkan kecekapan kerja anda dengan senarai OpenTab To-Do"
    },
    "infinity_wallpaper": {
-      "message": "Perpustakaan Wallpaper Infinity menyediakan anda dengan wallpaper yang kaya dan menarik"
+      "message": "Perpustakaan Wallpaper OpenTab menyediakan anda dengan wallpaper yang kaya dan menarik"
    },
    "infinity_weather": {
-      "message": "Infinity Weather menyediakan anda ramalan cuaca di seluruh dunia"
+      "message": "OpenTab Weather menyediakan anda ramalan cuaca di seluruh dunia"
    },
    "info": {
       "message": "Maklumat"
@@ -760,7 +760,7 @@
       "message": "Masukkan kata laluan baharu"
    },
    "install_crx_home_des": {
-      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+      "message": "This tutorial is provided by OpenTab, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
    },
    "install_crx_item_1": {
       "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
@@ -837,7 +837,7 @@
       "message": "Kaedah daftar masuk semasa akan dibuang segera, sila ikat e-mel anda atau akaun pihak ketiga lain secepat mungkin selepas daftar masuk"
    },
    "login_now": {
-      "message": "Masuk ke Akaun Infinity anda sekarang untuk menikmati lebih banyak kebenaran"
+      "message": "Masuk ke Akaun OpenTab anda sekarang untuk menikmati lebih banyak kebenaran"
    },
    "login_now_btn": {
       "message": "Masuk"
@@ -894,7 +894,7 @@
       "message": "Gunakan di laman web, tema, templat, projek, bahan percetakan, dan surat khabar anda. Setiap minggu wallpaper dan video baru ditambah"
    },
    "mobile_devices": {
-      "message": "Infinity Mobile-version"
+      "message": "OpenTab Mobile-version"
    },
    "modify": {
       "message": "Ubah maklumat"
@@ -975,16 +975,16 @@
       "message": "360 Search"
    },
    "name": {
-      "message": "Infinity New Tab"
+      "message": "OpenTab"
    },
    "name_app": {
-      "message": "Infinity New Tab (APP)"
+      "message": "OpenTab"
    },
    "name_error": {
       "message": "Sila masukkan nama laman web"
    },
    "name_pro": {
-      "message": "Infinity New Tab (Pro)"
+      "message": "OpenTab"
    },
    "nature": {
       "message": "Alam"
@@ -1008,7 +1008,7 @@
       "message": "Tab Baharu"
    },
    "new_tab_web": {
-      "message": "Infinity Homepage"
+      "message": "OpenTab Homepage"
    },
    "news": {
       "message": "Journalism"
@@ -1369,7 +1369,7 @@
       "message": "Kami akan menghitung secara anonim bilangan kali beberapa enjin carian yang digunakan."
    },
    "privacy_data_item_9": {
-      "message": "Anda mesti setuju dengan polisi privasi ini sebelum anda boleh guna sambungan ini.Lihat $the_infinity_privacy$ kita untuk belajar lebih banyak.",
+      "message": "Anda mesti setuju dengan polisi privasi ini sebelum anda boleh guna sambungan ini.Lihat $the_OpenTab_privacy$ kita untuk belajar lebih banyak.",
       "placeholders": {
          "the_infinity_privacy": {
             "content": "$1"
@@ -1395,16 +1395,16 @@
       "message": "Analisis statistik:"
    },
    "privacy_data_uninstall_confirm": {
-      "message": "Sila sahkan untuk menyahpasang halaman Tab Infinity New"
+      "message": "Sila sahkan untuk menyahpasang halaman Tab OpenTab New"
    },
    "privacy_data_uninstall_confirm_pro": {
-      "message": "Sila sahkan untuk menyahpasang Infinity New Tab Pro"
+      "message": "Sila sahkan untuk menyahpasang OpenTab"
    },
    "privacy_data_uninstall_title": {
-      "message": "Uninstall Infinity New Tab Page?"
+      "message": "Uninstall OpenTab Page?"
    },
    "privacy_data_uninstall_title_pro": {
-      "message": "Nyahpasang Infinity New Tab Pro?"
+      "message": "Nyahpasang OpenTab?"
    },
    "privacy_data_yes": {
       "message": "Ya, data tanpa nama boleh dikumpulkan mengikut Dasar Privasi"
@@ -1476,7 +1476,7 @@
       "message": "Gagal mendapatkan kod pengesahan"
    },
    "register_now": {
-      "message": "Daftar Akaun Infinity Anda Sekarang untuk menikmati lebih banyak kebenaran"
+      "message": "Daftar Akaun OpenTab Anda Sekarang untuk menikmati lebih banyak kebenaran"
    },
    "relative_humidity": {
       "message": "Kelembapan relatif"
@@ -1485,10 +1485,10 @@
       "message": "Cuba lagi"
    },
    "reminder_update_text1": {
-      "message": "Bagi anda untuk mendapatkan pengalaman yang lebih baik menggunakan Infinity"
+      "message": "Bagi anda untuk mendapatkan pengalaman yang lebih baik menggunakan OpenTab"
    },
    "reminder_update_text2": {
-      "message": "Sebaiknya tingkatkan penyemak imbas ke versi terbaru, dan disarankan untuk menggunakan penyemak imbas yang serasi dengan Infinity"
+      "message": "Sebaiknya tingkatkan penyemak imbas ke versi terbaru, dan disarankan untuk menggunakan penyemak imbas yang serasi dengan OpenTab"
    },
    "reminder_update_title": {
       "message": "Paparan Ralat pada halaman"
@@ -1679,7 +1679,7 @@
       "message": "Fungsi ini tidak disokong dalam versi semasa_#_Pasang pelanjutan penyemak imbas sebelum menggunakannya"
    },
    "set_infinity_to_homepage": {
-      "message": "Tetapkan Infinity sebagai laman utama untuk penyemak imbas anda"
+      "message": "Tetapkan OpenTab sebagai laman utama untuk penyemak imbas anda"
    },
    "set_new_password": {
       "message": "Tetapkan kata laluan baru"
@@ -1712,7 +1712,7 @@
       "message": "pengguna berkongsi"
    },
    "share_desc": {
-      "message": "Infinity tab baru, sambungan navigasi yang dipilih oleh berjuta-juta, tab baru yang paling mesra pengguna pada penyemak imbas"
+      "message": "OpenTab tab baru, sambungan navigasi yang dipilih oleh berjuta-juta, tab baru yang paling mesra pengguna pada penyemak imbas"
    },
    "share_title": {
       "message": "Ia mungkin tab baru terbaik pada pelayar $browser$",
@@ -1854,7 +1854,7 @@
       "message": "Hari ini"
    },
    "todo_welcome": {
-      "message": "Selamat datang ke halaman Tab Infinity New. Ini adalah item sampel untuk melakukan."
+      "message": "Selamat datang ke halaman Tab OpenTab New. Ini adalah item sampel untuk melakukan."
    },
    "todos": {
       "message": "Tugasan"
@@ -2354,7 +2354,7 @@
       "message": "Tiada maklumat cuaca yang ada sekarang"
    },
    "web_set_home_title": {
-      "message": "Bagaimana untuk menetapkan Infinity sebagai laman utama"
+      "message": "Bagaimana untuk menetapkan OpenTab sebagai laman utama"
    },
    "website_address": {
       "message": "URL"
@@ -2375,7 +2375,7 @@
       "message": "Rab"
    },
    "welcome_infinity": {
-      "message": "Welcome to Infinity"
+      "message": "Welcome to OpenTab"
    },
    "wind_force": {
       "message": "Angin"
@@ -2419,7 +2419,7 @@
       "message": "Semalam"
    },
    "you_need_login": {
-      "message": "Log masuk ke Akaun Infinity untuk menggunakan ciri ini"
+      "message": "Log masuk ke Akaun OpenTab untuk menggunakan ciri ini"
    },
    "your_browsing_history_appears_here": {
       "message": "Sejarah pelayaran anda akan dipaparkan di sini"

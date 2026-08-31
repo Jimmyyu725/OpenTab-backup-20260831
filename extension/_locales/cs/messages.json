@@ -27,7 +27,7 @@
       "message": "úspěšně přidáno"
    },
    "add_infinity_ai": {
-      "message": "Přidejte Infinity AI na domovskou stránku"
+      "message": "Přidejte OpenTab AI na domovskou stránku"
    },
    "add_link": {
       "message": "Přidat odkaz"
@@ -51,7 +51,7 @@
       "message": "Přidat na domovskou stránku"
    },
    "add_to_infinity": {
-      "message": "Přidat do Infinity Nová karta Stránka"
+      "message": "Přidat do OpenTab Nová karta Stránka"
    },
    "additional_search_engine": {
       "message": "Připojený vyhledávač"
@@ -259,7 +259,7 @@
       "message": "Již brzy"
    },
    "comming_soon_title": {
-      "message": "Infinity Mobile verze je na cestě"
+      "message": "OpenTab Mobile verze je na cestě"
    },
    "confirm": {
       "message": "OK"
@@ -485,16 +485,16 @@
       "message": "Rozšíření"
    },
    "extension_des": {
-      "message": "Infinity Nový Tab Umožňuje přizpůsobit novou stránku záložky"
+      "message": "OpenTab Nový Tab Umožňuje přizpůsobit novou stránku záložky"
    },
    "extension_des_app": {
-      "message": "Infinity Nový Tab APP Umožňuje přizpůsobit novou stránku záložky"
+      "message": "OpenTab Nový Tab APP Umožňuje přizpůsobit novou stránku záložky"
    },
    "extension_des_firefox": {
       "message": "Nová karta zvolená miliony, které mohou výrazně zlepšit produktivitu .including webové ikony, vyhledávače, HD tapety, počasí, poznámky, záložky, seznam úkolů, historie, správu rozšíření atd."
    },
    "extension_des_pro": {
-      "message": "Infinity Nový Tab Pro Umožňuje přizpůsobit novou stránku záložky"
+      "message": "OpenTab Nový Tab Pro Umožňuje přizpůsobit novou stránku záložky"
    },
    "extension_mananger": {
       "message": "Spravovat rozšíření"
@@ -551,7 +551,7 @@
       "message": "Sledujte nás"
    },
    "follow_wechat": {
-      "message": "Sledujte Infinity WeChat Veřejný účet"
+      "message": "Sledujte OpenTab WeChat Veřejný účet"
    },
    "follow_wechat_desc": {
       "message": "Věnujte pozornost našemu veřejnému číslu WeChat (mikro signál: InfinininityDaily), dostat nekonečno nejnovější dynamika produktu a můžete objevit více zábavy rozšířit a webové stránky."
@@ -608,7 +608,7 @@
       "message": "Vaše podpora je naší největší odměnou"
    },
    "give_some_feedback_to_improve": {
-      "message": "Pokud máte rádi stránku Infinity Nová karta, prosím, hodnota naše služby nebo nám poskytněte zpětnou vazbu, abyste nám pomohli IGN."
+      "message": "Pokud máte rádi stránku OpenTab Nová karta, prosím, hodnota naše služby nebo nám poskytněte zpětnou vazbu, abyste nám pomohli IGN."
    },
    "give_some_feedback_to_improve_web": {
       "message": "Máte-li jakékoli dotazy nebo návrhy, kontaktujte nás."
@@ -707,13 +707,13 @@
       "message": "Flatten svou hierarchii složky záložky a najít záložky snadněji s nekonečno záložky"
    },
    "infinity_comic_wallpaper_source": {
-      "message": "Infinity představovaly anime tapety"
+      "message": "OpenTab představovaly anime tapety"
    },
    "infinity_comic_wallpaper_source_desc": {
       "message": "Vysoce kvalitní nekonečno anime tapety knihovny"
    },
    "infinity_extension": {
-      "message": "Správa rozšíření $browser$ a aplikací snadno s Infinity Extension Manager",
+      "message": "Správa rozšíření $browser$ a aplikací snadno s OpenTab Extension Manager",
       "placeholders": {
          "browser": {
             "content": "$1"
@@ -724,25 +724,25 @@
       "message": "Rychlé zobrazení a správa historie prohlížeče s historií nekonečna"
    },
    "infinity_landscape_wallpaper_source": {
-      "message": "Infinity představoval krajiny tapety"
+      "message": "OpenTab představoval krajiny tapety"
    },
    "infinity_landscape_wallpaper_source_desc": {
       "message": "Vysoce kvalitní nekonečno krajiny tapety knihovny"
    },
    "infinity_notes": {
-      "message": "Rychle rekordní inspirace života s Infinity Notes"
+      "message": "Rychle rekordní inspirace života s OpenTab Notes"
    },
    "infinity_settings": {
-      "message": "Přizpůsobte stránku Infinity Nová záložka s Infinity Settings"
+      "message": "Přizpůsobte stránku OpenTab Nová záložka s OpenTab Settings"
    },
    "infinity_todos": {
-      "message": "Uspořádejte své úkoly v pořádku a zlepšete svou efektivitu práce s Seznamem Infinity To-Do-Do"
+      "message": "Uspořádejte své úkoly v pořádku a zlepšete svou efektivitu práce s Seznamem OpenTab To-Do-Do"
    },
    "infinity_wallpaper": {
-      "message": "Knihovna Infinity Wallpaper vám poskytuje bohaté a vzrušující tapety"
+      "message": "Knihovna OpenTab Wallpaper vám poskytuje bohaté a vzrušující tapety"
    },
    "infinity_weather": {
-      "message": "Infinity Počasí vám poskytuje předpovědi počasí města po celém světě"
+      "message": "OpenTab Počasí vám poskytuje předpovědi počasí města po celém světě"
    },
    "info": {
       "message": "Informace"
@@ -760,7 +760,7 @@
       "message": "Zadejte nové heslo"
    },
    "install_crx_home_des": {
-      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+      "message": "This tutorial is provided by OpenTab, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
    },
    "install_crx_item_1": {
       "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
@@ -837,7 +837,7 @@
       "message": "Aktuální způsob přihlášení bude brzy odstraněn, svažte prosím svůj e-mail nebo jiný účet třetí strany co nejdříve po přihlášení"
    },
    "login_now": {
-      "message": "Přihlaste se ke svému účtu Infinity, abyste si užili více oprávnění"
+      "message": "Přihlaste se ke svému účtu OpenTab, abyste si užili více oprávnění"
    },
    "login_now_btn": {
       "message": "Přihlásit se"
@@ -894,7 +894,7 @@
       "message": "Využití na svých webových stránkách, tématech, šablonách, projektech, tiskových materiálech a novinách. Každý týden jsou přidány nové tapety a videa"
    },
    "mobile_devices": {
-      "message": "Infinity Mobilní verze"
+      "message": "OpenTab Mobilní verze"
    },
    "modify": {
       "message": "Úprava informací"
@@ -975,16 +975,16 @@
       "message": "360 Search"
    },
    "name": {
-      "message": "Infinity New Tab"
+      "message": "OpenTab"
    },
    "name_app": {
-      "message": "Infinity New Tab (APP)"
+      "message": "OpenTab"
    },
    "name_error": {
       "message": "Zadejte prosím název webové stránky"
    },
    "name_pro": {
-      "message": "Infinity New Tab (Pro)"
+      "message": "OpenTab"
    },
    "nature": {
       "message": "Příroda"
@@ -1008,7 +1008,7 @@
       "message": "Nová karta"
    },
    "new_tab_web": {
-      "message": "Infinity Úvodní stránka"
+      "message": "OpenTab Úvodní stránka"
    },
    "news": {
       "message": "Zprávy"
@@ -1369,7 +1369,7 @@
       "message": "Budeme anonymně počítat, kolikrát se používají některé vyhledávače."
    },
    "privacy_data_item_9": {
-      "message": "Před tímto rozšířením musíte souhlasit s tímto zásadami ochrany osobních údajů. Podívejte se na naše $the_infinity_privacy$ abyste se dozvěděli více.",
+      "message": "Před tímto rozšířením musíte souhlasit s tímto zásadami ochrany osobních údajů. Podívejte se na naše $the_OpenTab_privacy$ abyste se dozvěděli více.",
       "placeholders": {
          "the_infinity_privacy": {
             "content": "$1"
@@ -1395,16 +1395,16 @@
       "message": "Statistická analýza:"
    },
    "privacy_data_uninstall_confirm": {
-      "message": "Potvrďte prosím, odinstalujte Infinity Nová záložka"
+      "message": "Potvrďte prosím, odinstalujte OpenTab Nová záložka"
    },
    "privacy_data_uninstall_confirm_pro": {
-      "message": "Potvrďte prosím, odinstalujte Infinity New Tab Pro"
+      "message": "Potvrďte prosím, odinstalujte OpenTab"
    },
    "privacy_data_uninstall_title": {
-      "message": "Odinstalovat Infinity Nová záložka?"
+      "message": "Odinstalovat OpenTab Nová záložka?"
    },
    "privacy_data_uninstall_title_pro": {
-      "message": "Odinstalovat Infinity New Tab Pro?"
+      "message": "Odinstalovat OpenTab?"
    },
    "privacy_data_yes": {
       "message": "Ano, anonymní data mohou být shromažďována v souladu se zásadami ochrany osobních údajů"
@@ -1476,7 +1476,7 @@
       "message": "Získání ověřovacího kódu se nezdařilo"
    },
    "register_now": {
-      "message": "Zaregistrujte svůj účet Infinity, abyste si užili více oprávnění"
+      "message": "Zaregistrujte svůj účet OpenTab, abyste si užili více oprávnění"
    },
    "relative_humidity": {
       "message": "Relativní vlhkost"
@@ -1485,10 +1485,10 @@
       "message": "Opakovat"
    },
    "reminder_update_text1": {
-      "message": "Pro vás získat lepší zkušenost s využitím Infinity"
+      "message": "Pro vás získat lepší zkušenost s využitím OpenTab"
    },
    "reminder_update_text2": {
-      "message": "Doporučuje se upgradovat prohlížeč na nejnovější verzi a doporučuje se používat prohlížeč kompatibilní s Infinity"
+      "message": "Doporučuje se upgradovat prohlížeč na nejnovější verzi a doporučuje se používat prohlížeč kompatibilní s OpenTab"
    },
    "reminder_update_title": {
       "message": "Chyba zobrazení na stránce"
@@ -1679,7 +1679,7 @@
       "message": "Tato funkce není v aktuální verzi podporována_#_Před použitím si prosím nainstalujte rozšíření prohlížeče"
    },
    "set_infinity_to_homepage": {
-      "message": "Nastavte Infinity jako domovskou stránku pro váš prohlížeč"
+      "message": "Nastavte OpenTab jako domovskou stránku pro váš prohlížeč"
    },
    "set_new_password": {
       "message": "Nastavte nové heslo"
@@ -1712,7 +1712,7 @@
       "message": "uživatelé sdílejí"
    },
    "share_desc": {
-      "message": "Infinity Nová karta, rozšíření navigace zvolené miliony, nejoblíbenější nová karta v prohlížeči"
+      "message": "OpenTab Nová karta, rozšíření navigace zvolené miliony, nejoblíbenější nová karta v prohlížeči"
    },
    "share_title": {
       "message": "Může to být nejlepší nová záložka v prohlížeči $browser$",
@@ -1854,7 +1854,7 @@
       "message": "Dnes"
    },
    "todo_welcome": {
-      "message": "Vítejte na stránce Infinity Nová karta. Jedná se o ukázkovou položku."
+      "message": "Vítejte na stránce OpenTab Nová karta. Jedná se o ukázkovou položku."
    },
    "todos": {
       "message": "Úkoly"
@@ -2354,7 +2354,7 @@
       "message": "Aktuálně nejsou k dispozici žádné informace o počasí"
    },
    "web_set_home_title": {
-      "message": "Jak nastavit Infinity jako domovskou stránku"
+      "message": "Jak nastavit OpenTab jako domovskou stránku"
    },
    "website_address": {
       "message": "Adresa URL"
@@ -2375,7 +2375,7 @@
       "message": "St"
    },
    "welcome_infinity": {
-      "message": "Welcome to Infinity"
+      "message": "Welcome to OpenTab"
    },
    "wind_force": {
       "message": "Vítr"

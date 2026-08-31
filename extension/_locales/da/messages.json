@@ -27,7 +27,7 @@
       "message": "Tilføjet succes"
    },
    "add_infinity_ai": {
-      "message": "Tilføj Infinity AI til hjemmesiden"
+      "message": "Tilføj OpenTab AI til hjemmesiden"
    },
    "add_link": {
       "message": "Tilføj et link"
@@ -51,7 +51,7 @@
       "message": "Tilføj til hjemmeside"
    },
    "add_to_infinity": {
-      "message": "Tilføj til Infinity New Tab PAGE"
+      "message": "Tilføj til OpenTab PAGE"
    },
    "additional_search_engine": {
       "message": "Yderligere søgemaskine"
@@ -90,7 +90,7 @@
       "message": "Applikation"
    },
    "app_disabled_enable_first": {
-      "message": "Du har deaktiveret denne app. Tillad Infinity at aktivere denne app først?"
+      "message": "Du har deaktiveret denne app. Tillad OpenTab at aktivere denne app først?"
    },
    "application": {
       "message": "Applikation"
@@ -259,7 +259,7 @@
       "message": "Kommer snart"
    },
    "comming_soon_title": {
-      "message": "Infinity mobilversion er på vej"
+      "message": "OpenTab mobilversion er på vej"
    },
    "confirm": {
       "message": "OK"
@@ -485,16 +485,16 @@
       "message": "Udvidelser"
    },
    "extension_des": {
-      "message": "Infinity New Tab giver dig mulighed for at tilpasse din nye fane side"
+      "message": "OpenTab giver dig mulighed for at tilpasse din nye fane side"
    },
    "extension_des_app": {
-      "message": "Infinity New Tab APP giver dig mulighed for at tilpasse din nye fane side"
+      "message": "OpenTab giver dig mulighed for at tilpasse din nye fane side"
    },
    "extension_des_firefox": {
       "message": "Den nye fane valgt af millioner, som i høj grad kan forbedre produktiviteten. Inkluderende webikoner, søgemaskiner, HD Baggrunde, Vejret, Noter, Bogmærker, Opgaveliste, Historie, Extension Management osv."
    },
    "extension_des_pro": {
-      "message": "Infinity New Tab Pro giver dig mulighed for at tilpasse din nye fane side"
+      "message": "OpenTab giver dig mulighed for at tilpasse din nye fane side"
    },
    "extension_mananger": {
       "message": "Administrer udvidelser"
@@ -551,10 +551,10 @@
       "message": "Følg os"
    },
    "follow_wechat": {
-      "message": "Følg Infinity Wechat Offentlig Konto"
+      "message": "Følg OpenTab Wechat Offentlig Konto"
    },
    "follow_wechat_desc": {
-      "message": "Vær opmærksom på vores WeChat Public Antal (Micro Signal: InfinityDaily), få ​​uendelig nyeste produktdynamik, og du kan opdage mere sjovt at udvide og hjemmeside."
+      "message": "Vær opmærksom på vores WeChat Public Antal (Micro Signal: OpenTabDaily), få ​​uendelig nyeste produktdynamik, og du kan opdage mere sjovt at udvide og hjemmeside."
    },
    "font": {
       "message": "Skrifttyper"
@@ -704,16 +704,16 @@
       "message": "Vælg data"
    },
    "infinity_bookmarks": {
-      "message": "Flad din bogmærke mappe hierarki og find bogmærker lettere med Infinity Bookmarks"
+      "message": "Flad din bogmærke mappe hierarki og find bogmærker lettere med OpenTab Bookmarks"
    },
    "infinity_comic_wallpaper_source": {
-      "message": "Infinity featured anime wallpapers"
+      "message": "OpenTab featured anime wallpapers"
    },
    "infinity_comic_wallpaper_source_desc": {
-      "message": "Højkvalitets Infinity Anime Wallpaper Library"
+      "message": "Højkvalitets OpenTab Anime Wallpaper Library"
    },
    "infinity_extension": {
-      "message": "Administrer dine $browser$ Extensions og Apps nemt med Infinity Extension Manager",
+      "message": "Administrer dine $browser$ Extensions og Apps nemt med OpenTab Extension Manager",
       "placeholders": {
          "browser": {
             "content": "$1"
@@ -721,13 +721,13 @@
       }
    },
    "infinity_history": {
-      "message": "Se hurtigt og administrer din browserhistorik med Infinity History"
+      "message": "Se hurtigt og administrer din browserhistorik med OpenTab History"
    },
    "infinity_landscape_wallpaper_source": {
-      "message": "Infinity Featured Landscape Wallpapers"
+      "message": "OpenTab Featured Landscape Wallpapers"
    },
    "infinity_landscape_wallpaper_source_desc": {
-      "message": "Højkvalitets Infinity Landskab Baggrundsbibliotek"
+      "message": "Højkvalitets OpenTab Landskab Baggrundsbibliotek"
    },
    "infinity_notes": {
       "message": "Optag livets inspirationer hurtigt med uendelige noter"
@@ -736,13 +736,13 @@
       "message": "Tilpas din uendelig ny faneblad med uendelig indstillinger"
    },
    "infinity_todos": {
-      "message": "Arranger dine opgaver i rækkefølge og forbedre din arbejdseffektivitet med Infinity to-do liste"
+      "message": "Arranger dine opgaver i rækkefølge og forbedre din arbejdseffektivitet med OpenTab to-do liste"
    },
    "infinity_wallpaper": {
-      "message": "Infinity Wallpaper Bibliotek giver dig rige og spændende baggrunde"
+      "message": "OpenTab Wallpaper Bibliotek giver dig rige og spændende baggrunde"
    },
    "infinity_weather": {
-      "message": "Infinity vejr giver dig vejrudsigter fra byer rundt om i verden"
+      "message": "OpenTab vejr giver dig vejrudsigter fra byer rundt om i verden"
    },
    "info": {
       "message": "Oplysninger"
@@ -760,7 +760,7 @@
       "message": "Angiv ny adgangskode"
    },
    "install_crx_home_des": {
-      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+      "message": "This tutorial is provided by OpenTab, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
    },
    "install_crx_item_1": {
       "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
@@ -837,7 +837,7 @@
       "message": "Den nuværende login-metode vil snart blive fjernet. Bind venligst din e-mail eller anden tredjepartskonto så hurtigt som muligt efter login"
    },
    "login_now": {
-      "message": "Log ind på din Infinity-konto nu for at nyde flere tilladelser"
+      "message": "Log ind på din OpenTab-konto nu for at nyde flere tilladelser"
    },
    "login_now_btn": {
       "message": "Log ind"
@@ -894,7 +894,7 @@
       "message": "Brug på dine hjemmesider, temaer, skabeloner, projekter, trykningsmaterialer og aviser. Hver uge tilføjes nye tapeter og videoer"
    },
    "mobile_devices": {
-      "message": "Infinity Mobil-version"
+      "message": "OpenTab Mobil-version"
    },
    "modify": {
       "message": "Rediger oplysninger"
@@ -975,16 +975,16 @@
       "message": "360 Search"
    },
    "name": {
-      "message": "Infinity New Tab"
+      "message": "OpenTab"
    },
    "name_app": {
-      "message": "Infinity New Tab (APP)"
+      "message": "OpenTab"
    },
    "name_error": {
       "message": "Indtast venligst webstedets navn"
    },
    "name_pro": {
-      "message": "Infinity New Tab (Pro)"
+      "message": "OpenTab"
    },
    "nature": {
       "message": "Natur"
@@ -1008,7 +1008,7 @@
       "message": "Ny fane"
    },
    "new_tab_web": {
-      "message": "Infinity Hjemmeside"
+      "message": "OpenTab Hjemmeside"
    },
    "news": {
       "message": "Nyheder"
@@ -1369,7 +1369,7 @@
       "message": "Vi vil anonymt tælle antallet af gange, at nogle søgemaskiner anvendes."
    },
    "privacy_data_item_9": {
-      "message": "Du skal acceptere denne privatlivspolitik, før du kan bruge denne udvidelse. Se vores $the_infinity_privacy$ for at lære mere.",
+      "message": "Du skal acceptere denne privatlivspolitik, før du kan bruge denne udvidelse. Se vores $the_OpenTab_privacy$ for at lære mere.",
       "placeholders": {
          "the_infinity_privacy": {
             "content": "$1"
@@ -1395,16 +1395,16 @@
       "message": "Statistisk analyse:"
    },
    "privacy_data_uninstall_confirm": {
-      "message": "Venligst bekræft for at afinstallere Infinity New Tab-siden"
+      "message": "Venligst bekræft for at afinstallere OpenTab-siden"
    },
    "privacy_data_uninstall_confirm_pro": {
-      "message": "Venligst bekræft for at afinstallere Infinity New Tab Pro"
+      "message": "Venligst bekræft for at afinstallere OpenTab"
    },
    "privacy_data_uninstall_title": {
-      "message": "Afinstaller Infinity New Tab side?"
+      "message": "Afinstaller OpenTab side?"
    },
    "privacy_data_uninstall_title_pro": {
-      "message": "Afinstaller Infinity New Tab Pro?"
+      "message": "Afinstaller OpenTab?"
    },
    "privacy_data_yes": {
       "message": "Ja, de anonyme data kan indsamles i overensstemmelse med privatlivspolitikken"
@@ -1476,7 +1476,7 @@
       "message": "Kunne ikke hente bekræftelseskoden"
    },
    "register_now": {
-      "message": "Tilmeld din Infinity-konto nu for at nyde flere tilladelser"
+      "message": "Tilmeld din OpenTab-konto nu for at nyde flere tilladelser"
    },
    "relative_humidity": {
       "message": "Relativ luftfugtighed"
@@ -1485,10 +1485,10 @@
       "message": "Prøv igen"
    },
    "reminder_update_text1": {
-      "message": "For at du får en bedre oplevelse af at bruge Infinity"
+      "message": "For at du får en bedre oplevelse af at bruge OpenTab"
    },
    "reminder_update_text2": {
-      "message": "Det anbefales at opgradere browseren til den nyeste version, og det anbefales at bruge en browser, der er kompatibel med Infinity"
+      "message": "Det anbefales at opgradere browseren til den nyeste version, og det anbefales at bruge en browser, der er kompatibel med OpenTab"
    },
    "reminder_update_title": {
       "message": "Fejlvisning på side"
@@ -1679,7 +1679,7 @@
       "message": "Denne funktion er ikke understøttet i den nuværende version_#_Installér venligst browserens udvidelse før brug"
    },
    "set_infinity_to_homepage": {
-      "message": "Indstil Infinity som hjemmesiden for din browser"
+      "message": "Indstil OpenTab som hjemmesiden for din browser"
    },
    "set_new_password": {
       "message": "Indstil ny adgangskode"
@@ -1712,7 +1712,7 @@
       "message": "Deles af andre brugere"
    },
    "share_desc": {
-      "message": "Infinity New Tab, en navigationsudvidelse valgt af millioner, den mest brugervenlige nye fane på browseren"
+      "message": "OpenTab, en navigationsudvidelse valgt af millioner, den mest brugervenlige nye fane på browseren"
    },
    "share_title": {
       "message": "Det kan være den bedste nye fane på $browser$ browseren",
@@ -1854,7 +1854,7 @@
       "message": "I dag"
    },
    "todo_welcome": {
-      "message": "Velkommen til Infinity New Tab-siden. Dette er en prøve til at gøre vare."
+      "message": "Velkommen til OpenTab-siden. Dette er en prøve til at gøre vare."
    },
    "todos": {
       "message": "Opgaver"
@@ -2354,7 +2354,7 @@
       "message": "Ingen vejrinformation i øjeblikket tilgængelig"
    },
    "web_set_home_title": {
-      "message": "Sådan sættes Infinity til din hjemmeside"
+      "message": "Sådan sættes OpenTab til din hjemmeside"
    },
    "website_address": {
       "message": "Webadresse"
@@ -2375,7 +2375,7 @@
       "message": "Ons"
    },
    "welcome_infinity": {
-      "message": "Welcome to Infinity"
+      "message": "Welcome to OpenTab"
    },
    "wind_force": {
       "message": "Vindstyrke"
@@ -2419,7 +2419,7 @@
       "message": "I går"
    },
    "you_need_login": {
-      "message": "Sign ér til Infinity Konto for at bruge denne funktion"
+      "message": "Sign ér til OpenTab Konto for at bruge denne funktion"
    },
    "your_browsing_history_appears_here": {
       "message": "Din browsing record vil blive vist her"

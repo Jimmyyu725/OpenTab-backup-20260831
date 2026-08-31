@@ -27,7 +27,7 @@
       "message": "berhasil ditambahkan"
    },
    "add_infinity_ai": {
-      "message": "Tambahkan Infinity AI ke halaman depan"
+      "message": "Tambahkan OpenTab AI ke halaman depan"
    },
    "add_link": {
       "message": "Menambahkan link"
@@ -51,7 +51,7 @@
       "message": "Tambahkan ke halaman depan"
    },
    "add_to_infinity": {
-      "message": "Tambah ke Infinity Halaman Tab Baru"
+      "message": "Tambah ke OpenTab Halaman Tab Baru"
    },
    "additional_search_engine": {
       "message": "Mesin pencari terpasang"
@@ -90,7 +90,7 @@
       "message": "Aplikasi"
    },
    "app_disabled_enable_first": {
-      "message": "Anda telah menonaktifkan aplikasi ini. Izinkan infinity untuk mengaktifkan aplikasi ini terlebih dahulu?"
+      "message": "Anda telah menonaktifkan aplikasi ini. Izinkan OpenTab untuk mengaktifkan aplikasi ini terlebih dahulu?"
    },
    "application": {
       "message": "Aplikasi"
@@ -259,7 +259,7 @@
       "message": "Segera hadir"
    },
    "comming_soon_title": {
-      "message": "Versi Mobile Infinity sedang dalam perjalanan"
+      "message": "Versi Mobile OpenTab sedang dalam perjalanan"
    },
    "confirm": {
       "message": "Oke"
@@ -485,16 +485,16 @@
       "message": "Ekstensi"
    },
    "extension_des": {
-      "message": "Infinity Baru Tab memungkinkan Anda untuk menyesuaikan halaman tab baru Anda"
+      "message": "OpenTab Baru Tab memungkinkan Anda untuk menyesuaikan halaman tab baru Anda"
    },
    "extension_des_app": {
-      "message": "Infinity Baru Tab APP memungkinkan Anda untuk menyesuaikan halaman tab baru Anda"
+      "message": "OpenTab Baru Tab APP memungkinkan Anda untuk menyesuaikan halaman tab baru Anda"
    },
    "extension_des_firefox": {
       "message": "Tab baru dipilih oleh jutaan, yang dapat sangat meningkatkan produktivitas. Termasuk ikon web, mesin pencari, wallpaper HD, cuaca, catatan, bookmark, daftar untuk manajemen ekstensi, dll."
    },
    "extension_des_pro": {
-      "message": "Infinity Baru Tab Pro memungkinkan Anda untuk menyesuaikan halaman tab baru Anda"
+      "message": "OpenTab Baru Tab Pro memungkinkan Anda untuk menyesuaikan halaman tab baru Anda"
    },
    "extension_mananger": {
       "message": "Kelola Ekstensi"
@@ -551,10 +551,10 @@
       "message": "Follow Kami"
    },
    "follow_wechat": {
-      "message": "Ikuti Akun Publik Infinity WeChat"
+      "message": "Ikuti Akun Publik OpenTab WeChat"
    },
    "follow_wechat_desc": {
-      "message": "Perhatikan nomor publik WeChat kami (sinyal mikro: InfinityDaily), dapatkan dinamika produk terbaru tanpa batas, dan Anda dapat menemukan lebih banyak kesenangan untuk memperluas dan situs web."
+      "message": "Perhatikan nomor publik WeChat kami (sinyal mikro: OpenTabDaily), dapatkan dinamika produk terbaru tanpa batas, dan Anda dapat menemukan lebih banyak kesenangan untuk memperluas dan situs web."
    },
    "font": {
       "message": "Font"
@@ -608,7 +608,7 @@
       "message": "Dukungan Anda adalah hadiah terbesar kami"
    },
    "give_some_feedback_to_improve": {
-      "message": "Jika Anda menyukai halaman tab baru Infinity, silakan beri peringkat layanan kami atau beri kami umpan balik untuk membantu kami ign."
+      "message": "Jika Anda menyukai halaman tab baru OpenTab, silakan beri peringkat layanan kami atau beri kami umpan balik untuk membantu kami ign."
    },
    "give_some_feedback_to_improve_web": {
       "message": "Jika Anda memiliki pertanyaan atau saran, silakan hubungi kami."
@@ -704,16 +704,16 @@
       "message": "Pilih data"
    },
    "infinity_bookmarks": {
-      "message": "Ratakan hierarki folder bookmark Anda dan temukan bookmark lebih mudah dengan bookmark Infinity"
+      "message": "Ratakan hierarki folder bookmark Anda dan temukan bookmark lebih mudah dengan bookmark OpenTab"
    },
    "infinity_comic_wallpaper_source": {
-      "message": "Infinity Menampilkan Wallpaper Anime"
+      "message": "OpenTab Menampilkan Wallpaper Anime"
    },
    "infinity_comic_wallpaper_source_desc": {
-      "message": "Perpustakaan Wallpaper Anime Infinity Berkualitas Tinggi"
+      "message": "Perpustakaan Wallpaper Anime OpenTab Berkualitas Tinggi"
    },
    "infinity_extension": {
-      "message": "Kelola ekstensi dan aplikasi $browser$ Anda dengan mudah dengan Infinity Extension Manager",
+      "message": "Kelola ekstensi dan aplikasi $browser$ Anda dengan mudah dengan OpenTab Extension Manager",
       "placeholders": {
          "browser": {
             "content": "$1"
@@ -721,28 +721,28 @@
       }
    },
    "infinity_history": {
-      "message": "Cepat melihat dan mengelola riwayat browser Anda dengan riwayat infinity"
+      "message": "Cepat melihat dan mengelola riwayat browser Anda dengan riwayat OpenTab"
    },
    "infinity_landscape_wallpaper_source": {
-      "message": "Infinity Menampilkan Wallpaper Lansekap"
+      "message": "OpenTab Menampilkan Wallpaper Lansekap"
    },
    "infinity_landscape_wallpaper_source_desc": {
-      "message": "Perpustakaan Wallpaper Landscape Infinity Berkualitas Tinggi"
+      "message": "Perpustakaan Wallpaper Landscape OpenTab Berkualitas Tinggi"
    },
    "infinity_notes": {
-      "message": "Rekam inspirasi kehidupan dengan cepat dengan Notes Infinity"
+      "message": "Rekam inspirasi kehidupan dengan cepat dengan Notes OpenTab"
    },
    "infinity_settings": {
-      "message": "Personalisasi halaman tab infinity Anda dengan pengaturan Infinity"
+      "message": "Personalisasi halaman tab OpenTab Anda dengan pengaturan OpenTab"
    },
    "infinity_todos": {
       "message": "Atur tugas Anda secara berurutan dan tingkatkan efisiensi kerja Anda dengan daftar informasi tak terhingga"
    },
    "infinity_wallpaper": {
-      "message": "Perpustakaan Wallpaper Infinity memberi Anda wallpaper yang kaya dan menarik"
+      "message": "Perpustakaan Wallpaper OpenTab memberi Anda wallpaper yang kaya dan menarik"
    },
    "infinity_weather": {
-      "message": "Cuaca Infinity memberi Anda ramalan cuaca kota di seluruh dunia"
+      "message": "Cuaca OpenTab memberi Anda ramalan cuaca kota di seluruh dunia"
    },
    "info": {
       "message": "Info"
@@ -760,7 +760,7 @@
       "message": "Masukkan sandi baru"
    },
    "install_crx_home_des": {
-      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+      "message": "This tutorial is provided by OpenTab, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
    },
    "install_crx_item_1": {
       "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
@@ -837,7 +837,7 @@
       "message": "Metode login saat ini akan segera dihapus, harap ikat email Anda atau akun pihak ketiga lainnya sesegera mungkin setelah login"
    },
    "login_now": {
-      "message": "Masuk ke akun Infinity Anda sekarang untuk menikmati lebih banyak izin"
+      "message": "Masuk ke akun OpenTab Anda sekarang untuk menikmati lebih banyak izin"
    },
    "login_now_btn": {
       "message": "Masuk"
@@ -894,7 +894,7 @@
       "message": "Gunakan di situs web, tema, templat, proyek, bahan cetak, dan surat kabar. Setiap minggu, wallpaper dan video baru ditambahkan"
    },
    "mobile_devices": {
-      "message": "Infinity Versi-Mobile"
+      "message": "OpenTab Versi-Mobile"
    },
    "modify": {
       "message": "Edit rincian"
@@ -975,16 +975,16 @@
       "message": "360 Search"
    },
    "name": {
-      "message": "Infinity New Tab"
+      "message": "OpenTab"
    },
    "name_app": {
-      "message": "Infinity New Tab (APP)"
+      "message": "OpenTab"
    },
    "name_error": {
       "message": "Silakan masukkan nama situs web"
    },
    "name_pro": {
-      "message": "Infinity New Tab (Pro)"
+      "message": "OpenTab"
    },
    "nature": {
       "message": "Alam"
@@ -1008,7 +1008,7 @@
       "message": "Tab Baru"
    },
    "new_tab_web": {
-      "message": "Homepage Infinity"
+      "message": "Homepage OpenTab"
    },
    "news": {
       "message": "Berita"
@@ -1081,7 +1081,7 @@
       "message": "Saat ini tidak ada cadangan yang dijadwalkan"
    },
    "none_auto_backup_desc": {
-      "message": "Cadangan yang dijadwalkan akan dimulai pada hari yang sama Anda memodifikasi informasi tentang infinity"
+      "message": "Cadangan yang dijadwalkan akan dimulai pada hari yang sama Anda memodifikasi informasi tentang OpenTab"
    },
    "none_manual_backup": {
       "message": "Saat ini tidak ada cadangan manual"
@@ -1114,7 +1114,7 @@
       "message": "Ingatkan saya dalam 1 minggu"
    },
    "only_used_infinity": {
-      "message": "Hanya digunakan untuk modul internal infinity"
+      "message": "Hanya digunakan untuk modul internal OpenTab"
    },
    "opacity": {
       "message": "Kegelapan Ikon"
@@ -1369,7 +1369,7 @@
       "message": "Kami akan menghitung secara anonim berapa kali beberapa mesin pencari digunakan."
    },
    "privacy_data_item_9": {
-      "message": "Anda harus setuju dengan kebijakan privasi ini sebelum Anda dapat menggunakan ekstensi ini.Lihat $the_infinity_privacy$ kita untuk belajar lebih banyak.",
+      "message": "Anda harus setuju dengan kebijakan privasi ini sebelum Anda dapat menggunakan ekstensi ini.Lihat $the_OpenTab_privacy$ kita untuk belajar lebih banyak.",
       "placeholders": {
          "the_infinity_privacy": {
             "content": "$1"
@@ -1395,16 +1395,16 @@
       "message": "Analisis statistik:"
    },
    "privacy_data_uninstall_confirm": {
-      "message": "Harap konfirmasi untuk menghapus halaman tab baru Infinity"
+      "message": "Harap konfirmasi untuk menghapus halaman tab baru OpenTab"
    },
    "privacy_data_uninstall_confirm_pro": {
-      "message": "Harap konfirmasikan untuk menghapus Install Infinity Baru Tab Pro"
+      "message": "Harap konfirmasikan untuk menghapus Install OpenTab Baru Tab Pro"
    },
    "privacy_data_uninstall_title": {
-      "message": "Copot Halaman Tab Infinity Baru?"
+      "message": "Copot Halaman Tab OpenTab Baru?"
    },
    "privacy_data_uninstall_title_pro": {
-      "message": "Copot Instalan Infinity Baru Tab Pro?"
+      "message": "Copot Instalan OpenTab Baru Tab Pro?"
    },
    "privacy_data_yes": {
       "message": "Ya, data anonim dapat dikumpulkan sesuai dengan kebijakan privasi"
@@ -1476,7 +1476,7 @@
       "message": "Gagal mendapatkan kode verifikasi"
    },
    "register_now": {
-      "message": "Daftarkan akun Infinity Anda sekarang untuk menikmati lebih banyak izin"
+      "message": "Daftarkan akun OpenTab Anda sekarang untuk menikmati lebih banyak izin"
    },
    "relative_humidity": {
       "message": "Kelembaban relatif"
@@ -1485,10 +1485,10 @@
       "message": "Coba lagi"
    },
    "reminder_update_text1": {
-      "message": "Bagi Anda untuk mendapatkan pengalaman yang lebih baik dalam menggunakan Infinity"
+      "message": "Bagi Anda untuk mendapatkan pengalaman yang lebih baik dalam menggunakan OpenTab"
    },
    "reminder_update_text2": {
-      "message": "Disarankan untuk mengupgrade browser ke versi terbaru, dan disarankan untuk menggunakan browser yang kompatibel dengan Infinity"
+      "message": "Disarankan untuk mengupgrade browser ke versi terbaru, dan disarankan untuk menggunakan browser yang kompatibel dengan OpenTab"
    },
    "reminder_update_title": {
       "message": "Tampilan kesalahan pada halaman"
@@ -1679,7 +1679,7 @@
       "message": "Fitur ini tidak didukung dalam versi saat ini_#_Silakan instal ekstensi browser sebelum menggunakan"
    },
    "set_infinity_to_homepage": {
-      "message": "Set Infinity sebagai beranda untuk browser Anda"
+      "message": "Set OpenTab sebagai beranda untuk browser Anda"
    },
    "set_new_password": {
       "message": "Atur sandi baru"
@@ -1712,7 +1712,7 @@
       "message": "pengguna membagikan"
    },
    "share_desc": {
-      "message": "Infinity New Tab, a navigation extension chosen by millions, the most user-friendly new tab on browser"
+      "message": "OpenTab, a navigation extension chosen by millions, the most user-friendly new tab on browser"
    },
    "share_title": {
       "message": "Ini mungkin tab baru terbaik di browser $browser$",
@@ -1854,7 +1854,7 @@
       "message": "Hari ini"
    },
    "todo_welcome": {
-      "message": "Selamat datang di halaman tab infinity baru. Ini adalah sampel item yang harus dilakukan."
+      "message": "Selamat datang di halaman tab OpenTab baru. Ini adalah sampel item yang harus dilakukan."
    },
    "todos": {
       "message": "Tugas"
@@ -2354,7 +2354,7 @@
       "message": "Tidak ada informasi cuaca yang tersedia saat ini"
    },
    "web_set_home_title": {
-      "message": "Cara mengatur Infinity sebagai beranda"
+      "message": "Cara mengatur OpenTab sebagai beranda"
    },
    "website_address": {
       "message": "URL"
@@ -2375,7 +2375,7 @@
       "message": "Ra"
    },
    "welcome_infinity": {
-      "message": "Welcome to Infinity"
+      "message": "Welcome to OpenTab"
    },
    "wind_force": {
       "message": "Tng angin"
@@ -2419,7 +2419,7 @@
       "message": "Kemarin"
    },
    "you_need_login": {
-      "message": "Masuk ke Akun Infinity untuk menggunakan fitur ini"
+      "message": "Masuk ke Akun OpenTab untuk menggunakan fitur ini"
    },
    "your_browsing_history_appears_here": {
       "message": "Sejarah Anda akan ditampilkan di sini"

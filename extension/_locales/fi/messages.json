@@ -27,7 +27,7 @@
       "message": "lisätty onnistuneesti"
    },
    "add_infinity_ai": {
-      "message": "Lisää Infinity AI etusivulle"
+      "message": "Lisää OpenTab AI etusivulle"
    },
    "add_link": {
       "message": "Lisää linkki"
@@ -51,7 +51,7 @@
       "message": "Lisää etusivulle"
    },
    "add_to_infinity": {
-      "message": "Lisää Infinity Uusi välilehden sivu"
+      "message": "Lisää OpenTab Uusi välilehden sivu"
    },
    "additional_search_engine": {
       "message": "Liitteenä hakukone"
@@ -259,7 +259,7 @@
       "message": "Tulossa pian"
    },
    "comming_soon_title": {
-      "message": "Infinity Mobile -versio on matkalla"
+      "message": "OpenTab Mobile -versio on matkalla"
    },
    "confirm": {
       "message": "OK"
@@ -485,16 +485,16 @@
       "message": "Laajennukset"
    },
    "extension_des": {
-      "message": "Infinity New Tab voit muokata uuden välilehti-sivun"
+      "message": "OpenTab voit muokata uuden välilehti-sivun"
    },
    "extension_des_app": {
-      "message": "Infinity New Tab APP voit muokata uuden välilehti-sivun"
+      "message": "OpenTab voit muokata uuden välilehti-sivun"
    },
    "extension_des_firefox": {
       "message": "Miljoonien valitsema uusi välilehti, joka voi huomattavasti parantaa tuottavuutta, mukaan lukien web- kuvakkeet, hakumoottorit, HD taustakuvat, sää, kirjanmerkit, muistilistat, historia, laajennuksen hallinta."
    },
    "extension_des_pro": {
-      "message": "Infinity New Tab Pro voit muokata uuden välilehti-sivun"
+      "message": "OpenTab voit muokata uuden välilehti-sivun"
    },
    "extension_mananger": {
       "message": "Hallinnoi laajennuksia"
@@ -551,10 +551,10 @@
       "message": "Seuraa meitä"
    },
    "follow_wechat": {
-      "message": "Seuraa Infinity Wechat Public tili"
+      "message": "Seuraa OpenTab Wechat Public tili"
    },
    "follow_wechat_desc": {
-      "message": "Kiinnitä huomiota Wechatin julkiseen numeroon (mikro-signaali: InfinityDaily), saat äärettömän tuotteen dynamiikan, ja voit löytää hauskempaa laajentaa ja verkkosivuilla."
+      "message": "Kiinnitä huomiota Wechatin julkiseen numeroon (mikro-signaali: OpenTabDaily), saat äärettömän tuotteen dynamiikan, ja voit löytää hauskempaa laajentaa ja verkkosivuilla."
    },
    "font": {
       "message": "Fontit"
@@ -608,7 +608,7 @@
       "message": "Tuki on suurin palkkio"
    },
    "give_some_feedback_to_improve": {
-      "message": "Jos pidät Infinity New Tab -sivulta, tarkista palvelumme tai anna meille palautetta auttamaan meitä IGN."
+      "message": "Jos pidät OpenTab -sivulta, tarkista palvelumme tai anna meille palautetta auttamaan meitä IGN."
    },
    "give_some_feedback_to_improve_web": {
       "message": "Jos sinulla on kysyttävää tai ehdotuksia, ota yhteyttä."
@@ -704,16 +704,16 @@
       "message": "Valitse data"
    },
    "infinity_bookmarks": {
-      "message": "Tastele kirjanmerkkikansiosi hierarkiaasi ja etsi kirjanmerkkejä helpommin Infinity Bookmarks"
+      "message": "Tastele kirjanmerkkikansiosi hierarkiaasi ja etsi kirjanmerkkejä helpommin OpenTab Bookmarks"
    },
    "infinity_comic_wallpaper_source": {
-      "message": "Infinity Featured Anime taustakuvia"
+      "message": "OpenTab Featured Anime taustakuvia"
    },
    "infinity_comic_wallpaper_source_desc": {
-      "message": "Laadukas infinity anime taustakuvakirjasto"
+      "message": "Laadukas OpenTab anime taustakuvakirjasto"
    },
    "infinity_extension": {
-      "message": "Hallitse $browser$-laajennuksia ja sovelluksia helposti Infinity Extension Managerin avulla",
+      "message": "Hallitse $browser$-laajennuksia ja sovelluksia helposti OpenTab Extension Managerin avulla",
       "placeholders": {
          "browser": {
             "content": "$1"
@@ -721,28 +721,28 @@
       }
    },
    "infinity_history": {
-      "message": "Nopeasti tarkastella ja hallinnoi selaimen historiaasi Infinity Historian kanssa"
+      "message": "Nopeasti tarkastella ja hallinnoi selaimen historiaasi OpenTab Historian kanssa"
    },
    "infinity_landscape_wallpaper_source": {
-      "message": "Infinity Featured Maisema Taustakuvat"
+      "message": "OpenTab Featured Maisema Taustakuvat"
    },
    "infinity_landscape_wallpaper_source_desc": {
-      "message": "Laadukas infinity-maisema taustakuvakirjasto"
+      "message": "Laadukas OpenTab-maisema taustakuvakirjasto"
    },
    "infinity_notes": {
       "message": "Tallenna elämän inspiraatiot nopeasti äärettömyystiedoissa"
    },
    "infinity_settings": {
-      "message": "Muokkaa Infinity Uusi välilehti-sivu, jossa on Infinity-asetukset"
+      "message": "Muokkaa OpenTab Uusi välilehti-sivu, jossa on OpenTab-asetukset"
    },
    "infinity_todos": {
       "message": "Järjestä tehtävät järjestyksessä ja parantaa työtehokkuutta äärettömän tehtäväluettelossa"
    },
    "infinity_wallpaper": {
-      "message": "Infinity Wallpaper -kirjasto tarjoaa rikkaat ja jännittävät taustakuvat"
+      "message": "OpenTab Wallpaper -kirjasto tarjoaa rikkaat ja jännittävät taustakuvat"
    },
    "infinity_weather": {
-      "message": "Infinity Weather tarjoaa sinulle sääennusteita kaupungeista ympäri maailmaa"
+      "message": "OpenTab Weather tarjoaa sinulle sääennusteita kaupungeista ympäri maailmaa"
    },
    "info": {
       "message": "Tietoja"
@@ -760,7 +760,7 @@
       "message": "Anna uusi salasana"
    },
    "install_crx_home_des": {
-      "message": "This tutorial is provided by infinity, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
+      "message": "This tutorial is provided by OpenTab, the best enhanced home page, and has been used by 1 million users. Hurry to set it as the home page! "
    },
    "install_crx_item_1": {
       "message": "(1) Open the extension page from Settings -> More Tools -> Extensions, or enter chrome://extensions/ in the address bar and press Enter to open the extension page"
@@ -837,7 +837,7 @@
       "message": "Nykyinen kirjautumistapa poistetaan pian, sido sähköpostisi tai muu kolmannen osapuolen tili mahdollisimman pian kirjautumisen jälkeen"
    },
    "login_now": {
-      "message": "Kirjaudu sisään Infinity-tilisi nyt nauttimaan lisää käyttöoikeuksia"
+      "message": "Kirjaudu sisään OpenTab-tilisi nyt nauttimaan lisää käyttöoikeuksia"
    },
    "login_now_btn": {
       "message": "Kirjaudu"
@@ -894,7 +894,7 @@
       "message": "Käytä verkkosivustoissasi, teemoissa, malleissa, projekteissa, tulostusmateriaaleissa ja sanomalehdissä. Joka viikko uusia taustakuvia ja videoita lisätään"
    },
    "mobile_devices": {
-      "message": "Infinity Mobile-versio"
+      "message": "OpenTab Mobile-versio"
    },
    "modify": {
       "message": "Muokkaa tietoja"
@@ -975,16 +975,16 @@
       "message": "360 Search"
    },
    "name": {
-      "message": "Infinity New Tab"
+      "message": "OpenTab"
    },
    "name_app": {
-      "message": "Infinity New Tab (APP)"
+      "message": "OpenTab"
    },
    "name_error": {
       "message": "Anna verkkosivuston nimi"
    },
    "name_pro": {
-      "message": "Infinity New Tab (Pro)"
+      "message": "OpenTab"
    },
    "nature": {
       "message": "Luonto"
@@ -1008,7 +1008,7 @@
       "message": "Uusi välilehti"
    },
    "new_tab_web": {
-      "message": "Infinity Kotisivu"
+      "message": "OpenTab Kotisivu"
    },
    "news": {
       "message": "Uutiset"
@@ -1081,7 +1081,7 @@
       "message": "Tällä hetkellä ei ole ajoitettuja varmuuskopioita"
    },
    "none_auto_backup_desc": {
-      "message": "Ajoitetut varmuuskopiot alkavat samana päivänä muokata infinity-tietoja"
+      "message": "Ajoitetut varmuuskopiot alkavat samana päivänä muokata OpenTab-tietoja"
    },
    "none_manual_backup": {
       "message": "Tällä hetkellä ei ole manuaalisia varmuuskopioita"
@@ -1114,7 +1114,7 @@
       "message": "Muistuta 1 viikon kuluttua"
    },
    "only_used_infinity": {
-      "message": "Käytetään vain Infinity sisämoduuleihin"
+      "message": "Käytetään vain OpenTab sisämoduuleihin"
    },
    "opacity": {
       "message": "Kuvakkeiden läpinäkyvyys"
@@ -1369,7 +1369,7 @@
       "message": "Me nimettömästi lasketaan kuinka monta hakukoneita käytetään."
    },
    "privacy_data_item_9": {
-      "message": "Sinun on hyväksyttävä tämä tietosuojakäytäntö ennen kuin voit käyttää tätä laajennusta. Tarkastele $the_infinity_privacy$ saadaksesi lisätietoja.",
+      "message": "Sinun on hyväksyttävä tämä tietosuojakäytäntö ennen kuin voit käyttää tätä laajennusta. Tarkastele $the_OpenTab_privacy$ saadaksesi lisätietoja.",
       "placeholders": {
          "the_infinity_privacy": {
             "content": "$1"
@@ -1395,16 +1395,16 @@
       "message": "Tilastollinen analyysi:"
    },
    "privacy_data_uninstall_confirm": {
-      "message": "Vahvista Poista Infinity New Tab -sivu"
+      "message": "Vahvista Poista OpenTab -sivu"
    },
    "privacy_data_uninstall_confirm_pro": {
-      "message": "Vahvista Poista Infinity New Tab Pro"
+      "message": "Vahvista Poista OpenTab"
    },
    "privacy_data_uninstall_title": {
-      "message": "Poista Infinity Uusi välilehti sivu?"
+      "message": "Poista OpenTab Uusi välilehti sivu?"
    },
    "privacy_data_uninstall_title_pro": {
-      "message": "Poista Infinity New Tab Pro Pro?"
+      "message": "Poista OpenTab Pro?"
    },
    "privacy_data_yes": {
       "message": "Kyllä, anonyymit tiedot voidaan kerätä tietosuojakäytännön mukaisesti"
@@ -1476,7 +1476,7 @@
       "message": "Todennuskoodia ei saatu"
    },
    "register_now": {
-      "message": "Rekisteröi Infinity-tili nyt nauttimaan lisää käyttöoikeuksia"
+      "message": "Rekisteröi OpenTab-tili nyt nauttimaan lisää käyttöoikeuksia"
    },
    "relative_humidity": {
       "message": "Suhteellinen kosteus"
@@ -1485,10 +1485,10 @@
       "message": "Yritä uudelleen"
    },
    "reminder_update_text1": {
-      "message": "Jotta saat paremman kokemuksen Infinity kanssa"
+      "message": "Jotta saat paremman kokemuksen OpenTab kanssa"
    },
    "reminder_update_text2": {
-      "message": "On suositeltavaa päivittää selaimesi uusimpaan versioon, suosittelen selaimen yhteensopiva Infinity"
+      "message": "On suositeltavaa päivittää selaimesi uusimpaan versioon, suosittelen selaimen yhteensopiva OpenTab"
    },
    "reminder_update_title": {
       "message": "Virheenäyttö sivulla"
@@ -1679,7 +1679,7 @@
       "message": "Tätä ominaisuutta ei tueta nykyisessä versiossa_#_Asenna selainlaajennus ennen käyttöä"
    },
    "set_infinity_to_homepage": {
-      "message": "Aseta Infinity kotisivuksi selaimesi"
+      "message": "Aseta OpenTab kotisivuksi selaimesi"
    },
    "set_new_password": {
       "message": "Aseta uusi salasana"
@@ -1712,7 +1712,7 @@
       "message": "käyttäjät jakavat"
    },
    "share_desc": {
-      "message": "Infinity Uusi välilehti, miljoonien, käyttäjän ystävällisen uuden välilehden valitsema navigointintarkkailu selaimella"
+      "message": "OpenTab Uusi välilehti, miljoonien, käyttäjän ystävällisen uuden välilehden valitsema navigointintarkkailu selaimella"
    },
    "share_title": {
       "message": "Se voi olla paras uusi välilehti $browser$ selaimella",
@@ -1854,7 +1854,7 @@
       "message": "Tänään"
    },
    "todo_welcome": {
-      "message": "Tervetuloa Infinity New Tab -sivulle. Tämä on näytteen tehtävänä."
+      "message": "Tervetuloa OpenTab -sivulle. Tämä on näytteen tehtävänä."
    },
    "todos": {
       "message": "Tehtävät"
@@ -2354,7 +2354,7 @@
       "message": "Tällä hetkellä säätietoja ei ole saatavilla"
    },
    "web_set_home_title": {
-      "message": "Kuinka asettaa Infinity kotisivuksi"
+      "message": "Kuinka asettaa OpenTab kotisivuksi"
    },
    "website_address": {
       "message": "URL-osoite"
@@ -2375,7 +2375,7 @@
       "message": "Ke"
    },
    "welcome_infinity": {
-      "message": "Welcome to Infinity"
+      "message": "Welcome to OpenTab"
    },
    "wind_force": {
       "message": "Voimakkuus"
@@ -2419,7 +2419,7 @@
       "message": "Eilen"
    },
    "you_need_login": {
-      "message": "Kirjaudu sisään Infinity -tilille käyttääksesi tätä toimintoa"
+      "message": "Kirjaudu sisään OpenTab -tilille käyttääksesi tätä toimintoa"
    },
    "your_browsing_history_appears_here": {
       "message": "Selaustietueesi näkyy täällä"
