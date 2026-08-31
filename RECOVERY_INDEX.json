@@ -1,0 +1,585 @@
+{
+  "tool": "webcrack 2.16.0",
+  "inputs": [
+    {
+      "input": "0.js",
+      "input_bytes": 33149,
+      "input_sha256": "a0553af49116a96982b5ba617850d01ae0cb2e93ae1af8f8f5b51ce9318f17de",
+      "output": "recovered/0.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 13,
+      "output_bytes": {}
+    },
+    {
+      "input": "1.js",
+      "input_bytes": 50550,
+      "input_sha256": "79a030b582d9d5983361d909fc90a543eac316e4c75df3f2987a050f34cb65df",
+      "output": "recovered/1.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 3,
+      "output_bytes": {}
+    },
+    {
+      "input": "10.js",
+      "input_bytes": 378,
+      "input_sha256": "b1eeb5f5e73a76cc3e0ad6356a0de60a0144367c6a07f56bebc449669c40b1d5",
+      "output": "recovered/10.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 3,
+      "output_bytes": {}
+    },
+    {
+      "input": "14.js",
+      "input_bytes": 1136296,
+      "input_sha256": "42c469ed19119c37593b807ba931ac05b570187b8badb1787e875742a7656527",
+      "output": "recovered/14.js.recovered",
+      "status": "recovered",
+      "bundle_detected": false,
+      "output_files": 1,
+      "output_bytes": {}
+    },
+    {
+      "input": "2.js",
+      "input_bytes": 18889,
+      "input_sha256": "2ec59a90cd539c494dd1d54507b4fa16ab590e86e1ef57481cb5664ff4467274",
+      "output": "recovered/2.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 105,
+      "output_bytes": {}
+    },
+    {
+      "input": "22.js",
+      "input_bytes": 440253,
+      "input_sha256": "caee2e4b5ffb30d87d526978ea717275a8855ca1f5b227c8165a6453e05609e7",
+      "output": "recovered/22.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 304,
+      "output_bytes": {}
+    },
+    {
+      "input": "23.js",
+      "input_bytes": 383877,
+      "input_sha256": "c053cd9edf33f83ff6bdac67cdb1622447c69d1b07d9a30fec93104df23aca41",
+      "output": "recovered/23.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 295,
+      "output_bytes": {}
+    },
+    {
+      "input": "24.js",
+      "input_bytes": 377019,
+      "input_sha256": "5496e91a60719dd8ee68f10989589b6ac41fdf0ad4e445cf8160e3c87c1a0f62",
+      "output": "recovered/24.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 293,
+      "output_bytes": {}
+    },
+    {
+      "input": "25.js",
+      "input_bytes": 377864,
+      "input_sha256": "90bcdbc37c494bee33cbdf9dbf913ef9595268d9f1d47b733227514dc9845f2b",
+      "output": "recovered/25.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 293,
+      "output_bytes": {}
+    },
+    {
+      "input": "26.js",
+      "input_bytes": 379680,
+      "input_sha256": "18369784d07020bdf839e30bc26a53a2844f482620af7f65532c218ec6f1c4c5",
+      "output": "recovered/26.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 293,
+      "output_bytes": {}
+    },
+    {
+      "input": "27.js",
+      "input_bytes": 25928,
+      "input_sha256": "9d40e2ccfd20e0e6576f69d0283a08560f774060c62a16c49ee2f3108c2d45cf",
+      "output": "recovered/27.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 104,
+      "output_bytes": {}
+    },
+    {
+      "input": "28.js",
+      "input_bytes": 15953,
+      "input_sha256": "b693f78ac67510322b8a5d99b129c98b82ba377b5cdc6ec2b5a0064d548bd2f1",
+      "output": "recovered/28.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 9,
+      "output_bytes": {}
+    },
+    {
+      "input": "29.js",
+      "input_bytes": 43160,
+      "input_sha256": "87a1d7c7d5f4d8361ab9a8555265dadc4e7a679bac5e1fdfab1f8cd6807b1e23",
+      "output": "recovered/29.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 8,
+      "output_bytes": {}
+    },
+    {
+      "input": "3.js",
+      "input_bytes": 47038,
+      "input_sha256": "dbdccfebc3ebf5f88dc3bad0d5cff057ba4b771a9f2447d95b028439b5d62a86",
+      "output": "recovered/3.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 7,
+      "output_bytes": {}
+    },
+    {
+      "input": "30.js",
+      "input_bytes": 6902,
+      "input_sha256": "0c006c9a0f82046741dff5406fcb933cbbd45dac6855056f1725fee3dc1fadb3",
+      "output": "recovered/30.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 6,
+      "output_bytes": {}
+    },
+    {
+      "input": "31.js",
+      "input_bytes": 12233,
+      "input_sha256": "1db1ebedaca75164ed00b7400d20c172a78d946ed24e6989a8bace249b9a177c",
+      "output": "recovered/31.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 5,
+      "output_bytes": {}
+    },
+    {
+      "input": "32.js",
+      "input_bytes": 15029,
+      "input_sha256": "1d427f88361f3a07c9a61a5927f106b4a82b95d063c1fe5fd2f4ce57e8e4c114",
+      "output": "recovered/32.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 5,
+      "output_bytes": {}
+    },
+    {
+      "input": "33.js",
+      "input_bytes": 2984,
+      "input_sha256": "a4f860b047632ca1c21f99487b9ed7ba99eac18cabd7106b8c27975e10df0329",
+      "output": "recovered/33.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 5,
+      "output_bytes": {}
+    },
+    {
+      "input": "34.js",
+      "input_bytes": 493,
+      "input_sha256": "24206a47bfd9ff40389188a62b66fc12d60102780cf8908e68c1256742cfbfb8",
+      "output": "recovered/34.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 4,
+      "output_bytes": {}
+    },
+    {
+      "input": "35.js",
+      "input_bytes": 3192,
+      "input_sha256": "9c6a5b7e6bce986e1de677ccf57079ac4a0cc8dc40681d90d0d343aa03fc448d",
+      "output": "recovered/35.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 4,
+      "output_bytes": {}
+    },
+    {
+      "input": "36.js",
+      "input_bytes": 5009,
+      "input_sha256": "1825e82e7873382f24abe5c3971d25ec662aa4e082c6857a52923527f9ce1032",
+      "output": "recovered/36.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 4,
+      "output_bytes": {}
+    },
+    {
+      "input": "37.js",
+      "input_bytes": 3725,
+      "input_sha256": "8513b25a8213a1fa5069830d3bf062b255b1aea02001f9cce6256ac39d46d345",
+      "output": "recovered/37.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 3,
+      "output_bytes": {}
+    },
+    {
+      "input": "38.js",
+      "input_bytes": 301,
+      "input_sha256": "0e02f0dc64843d5a1c0ce2974fe980862a57dcb05d78842c55d8d7d8186068b4",
+      "output": "recovered/38.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 3,
+      "output_bytes": {}
+    },
+    {
+      "input": "39.js",
+      "input_bytes": 6882,
+      "input_sha256": "94179cd2b2db21554dfe1a81781b0e300371ae24690b1c3884b7076ab83d0969",
+      "output": "recovered/39.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 3,
+      "output_bytes": {}
+    },
+    {
+      "input": "4.js",
+      "input_bytes": 50376,
+      "input_sha256": "94ab760232cb17aca23e7e3122bc4f675e0062d692ed72428ea7b2e4fb19fb8e",
+      "output": "recovered/4.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 45,
+      "output_bytes": {}
+    },
+    {
+      "input": "40.js",
+      "input_bytes": 2549,
+      "input_sha256": "c9d2c2363d01fe31bb34de97446ec5fd4c6c2347badeaee489d7ae7449401404",
+      "output": "recovered/40.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 3,
+      "output_bytes": {}
+    },
+    {
+      "input": "41.js",
+      "input_bytes": 46970,
+      "input_sha256": "33f2093c91729d9cd4ec85d16b75466eb4cd26ba6f822b08e60b52bd5680fb0d",
+      "output": "recovered/41.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 3,
+      "output_bytes": {}
+    },
+    {
+      "input": "42.js",
+      "input_bytes": 5253,
+      "input_sha256": "0a80b967ac9bb20ee50175b42386ec65b59b64be38a8576485f4ccf10f6ba68f",
+      "output": "recovered/42.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 3,
+      "output_bytes": {}
+    },
+    {
+      "input": "5.js",
+      "input_bytes": 5650,
+      "input_sha256": "1f796adc327387e4e94165c7b87714cb8ba1ee9511f72ad10d68839b07709676",
+      "output": "recovered/5.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 4,
+      "output_bytes": {}
+    },
+    {
+      "input": "6.js",
+      "input_bytes": 50583,
+      "input_sha256": "2bb6d927f156bd601cba519c76237a760ef4ddb7d243dac98ae4a648ccde25d9",
+      "output": "recovered/6.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 17,
+      "output_bytes": {}
+    },
+    {
+      "input": "7.js",
+      "input_bytes": 97007,
+      "input_sha256": "e42cd5817a1da2ba0ad46adbb3401e07da109d1a5961019e2d16eb49c3b72399",
+      "output": "recovered/7.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 14,
+      "output_bytes": {}
+    },
+    {
+      "input": "8.js",
+      "input_bytes": 36733,
+      "input_sha256": "ca9b5c0001e2313e6e14fe58b9eddc2e78eec0ec352af4ca076ab3a44077776e",
+      "output": "recovered/8.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 7,
+      "output_bytes": {}
+    },
+    {
+      "input": "9.js",
+      "input_bytes": 2451,
+      "input_sha256": "99ebbe66977524fe4b789b01bece16bd5e53a94d720b9601dbc7899055fdec1e",
+      "output": "recovered/9.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 4,
+      "output_bytes": {}
+    },
+    {
+      "input": "background.js",
+      "input_bytes": 289158,
+      "input_sha256": "c0a3a05634a300c550c041cc5825b35a97f1967b2668ab3cc9b26b0d6c853219",
+      "output": "recovered/background.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 345,
+      "output_bytes": {}
+    },
+    {
+      "input": "chatai/assets/js/1ca0cff5.js",
+      "input_bytes": 34438,
+      "input_sha256": "9715bf697bd2051baea21c8404817abca3944b9d2c5f9f63e9d725c2b8c7ddc4",
+      "output": "recovered/chatai/assets/js/1ca0cff5.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 25,
+      "output_bytes": {}
+    },
+    {
+      "input": "chatai/assets/js/39c31d31.js",
+      "input_bytes": 984,
+      "input_sha256": "bf4a467fa9ffabf6d1653e5ef0b08f200596a16e41ce667567b5ee0f9aebc403",
+      "output": "recovered/chatai/assets/js/39c31d31.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 4,
+      "output_bytes": {}
+    },
+    {
+      "input": "chatai/assets/js/3d53f80e.js",
+      "input_bytes": 864980,
+      "input_sha256": "26a7470fdcfc6b9ab3f6faec279b77e55436f7b10466d88276618d34a40f6241",
+      "output": "recovered/chatai/assets/js/3d53f80e.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 98,
+      "output_bytes": {}
+    },
+    {
+      "input": "chatai/assets/js/58411b26.js",
+      "input_bytes": 6483,
+      "input_sha256": "b670f4892a40ba88ce588710cbf3f9229e2b93f853bf4229f21e5c36bcb3fa8d",
+      "output": "recovered/chatai/assets/js/58411b26.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 3,
+      "output_bytes": {}
+    },
+    {
+      "input": "chatai/assets/js/889d4764.js",
+      "input_bytes": 36519,
+      "input_sha256": "16882e7560e71f28acdb474345790ff780e8bb266a2c8d195f831f5c272eaf62",
+      "output": "recovered/chatai/assets/js/889d4764.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 3,
+      "output_bytes": {}
+    },
+    {
+      "input": "chatai/assets/js/8c5da7cc.js",
+      "input_bytes": 373178,
+      "input_sha256": "96c937e4c3cae854e6b8eddcfbbfcfcad9572715d0136cef23f03cf6664483ed",
+      "output": "recovered/chatai/assets/js/8c5da7cc.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 134,
+      "output_bytes": {}
+    },
+    {
+      "input": "chatai/assets/js/9346e906.js",
+      "input_bytes": 144,
+      "input_sha256": "aa6fefa8c62739c3bf9fbe059c85e2d2c8c883216121f91055f092db6479f485",
+      "output": "recovered/chatai/assets/js/9346e906.js.recovered",
+      "status": "recovered",
+      "bundle_detected": false,
+      "output_files": 1,
+      "output_bytes": {}
+    },
+    {
+      "input": "chatai/assets/js/c8300634.js",
+      "input_bytes": 12058,
+      "input_sha256": "e4dd50f390dd9616fcf43f17cc6ed9ddca98dc7a06921bddeb0c683b3cd1471f",
+      "output": "recovered/chatai/assets/js/c8300634.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 31,
+      "output_bytes": {}
+    },
+    {
+      "input": "chatai/assets/js/e8c141a8.js",
+      "input_bytes": 9912,
+      "input_sha256": "1c9945b1478e342d342632ec5f6998d29814d7e1972f724e8b3aa0b5d535a5df",
+      "output": "recovered/chatai/assets/js/e8c141a8.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 4,
+      "output_bytes": {}
+    },
+    {
+      "input": "chatai/assets/js/f03c3887.js",
+      "input_bytes": 872,
+      "input_sha256": "0d0903f42c99c07476e59ca8fdeec5868486a8749b135861b45198ec443aa783",
+      "output": "recovered/chatai/assets/js/f03c3887.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 3,
+      "output_bytes": {}
+    },
+    {
+      "input": "chatai/chat/chat-6f291589.js",
+      "input_bytes": 475044,
+      "input_sha256": "6690d5e7b3f1a55e2d04b9f7cdbd2c1b225e8125f52612ff7cf68f6a772068cd",
+      "output": "recovered/chatai/chat/chat-6f291589.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 92,
+      "output_bytes": {}
+    },
+    {
+      "input": "content_scripts.js",
+      "input_bytes": 1438,
+      "input_sha256": "a556d562c043f2990fd4e7ecc4590ae61294aec369341f93dd72e708df7b1b6e",
+      "output": "recovered/content_scripts.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 3,
+      "output_bytes": {}
+    },
+    {
+      "input": "find-password/find-password.js",
+      "input_bytes": 21176,
+      "input_sha256": "f6016ecd856e4453722fc6bf29139f2efbb954e8c82551e03ad616b39487d465",
+      "output": "recovered/find-password/find-password.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 83,
+      "output_bytes": {}
+    },
+    {
+      "input": "modify-password/modify-password.js",
+      "input_bytes": 21176,
+      "input_sha256": "c8eecd016b7ff7e4fa7628a45ee09bc6d8a708e088657cf8aee5b36e3975bc5e",
+      "output": "recovered/modify-password/modify-password.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 83,
+      "output_bytes": {}
+    },
+    {
+      "input": "newtab/newtab.js",
+      "input_bytes": 435005,
+      "input_sha256": "ef825d94bb889bedc7a6908d9e398e062ae00a46ccdcc39e9ec743f4e4d33abb",
+      "output": "recovered/newtab/newtab.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 427,
+      "output_bytes": {}
+    },
+    {
+      "input": "off_screen/off_screen.js",
+      "input_bytes": 61389,
+      "input_sha256": "e573b5121f10dab3fc686483189f4c4feee663659a68baf807cfbb788daac941",
+      "output": "recovered/off_screen/off_screen.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 203,
+      "output_bytes": {}
+    },
+    {
+      "input": "popup/popup.js",
+      "input_bytes": 647446,
+      "input_sha256": "04960e6d6290ae2e7f9ec13dd109d06863fb03ad9ae4a4d19ff0d4c208d7800a",
+      "output": "recovered/popup/popup.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 516,
+      "output_bytes": {}
+    },
+    {
+      "input": "reset-password/reset-password.js",
+      "input_bytes": 21176,
+      "input_sha256": "ffcf2f0af0c91c4910b5b7007a2d766d4e30fc2c3bcfd3bb948745c7412d95e8",
+      "output": "recovered/reset-password/reset-password.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 83,
+      "output_bytes": {}
+    },
+    {
+      "input": "serviceworker.js",
+      "input_bytes": 335425,
+      "input_sha256": "76a9f05099868608716bcac54b55220b1edaa09cd732065e9ac12ed1cd35e561",
+      "output": "recovered/serviceworker.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 469,
+      "output_bytes": {}
+    },
+    {
+      "input": "user-register/user-register.js",
+      "input_bytes": 21176,
+      "input_sha256": "c1f473aa3562d0e73bfed79b4ef5b6d68a47a9c4e7dfcc373bdaa413a2c2f15d",
+      "output": "recovered/user-register/user-register.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 83,
+      "output_bytes": {}
+    },
+    {
+      "input": "user-setting/user-setting.js",
+      "input_bytes": 21176,
+      "input_sha256": "8b19e6bbeba2039a3c1c78b85b2dc3c674b1c5b6369cc9b8b894d1e65f2948cb",
+      "output": "recovered/user-setting/user-setting.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 83,
+      "output_bytes": {}
+    },
+    {
+      "input": "vendor/color-picker.min.js",
+      "input_bytes": 44905,
+      "input_sha256": "423ccca33dce605baed4dd11479dedfdebc37379957530bb094a7417bde8e6d0",
+      "output": "recovered/vendor/color-picker.min.js.recovered",
+      "status": "recovered",
+      "bundle_detected": true,
+      "output_files": 29,
+      "output_bytes": {}
+    },
+    {
+      "input": "vendor/color-thief.min.js",
+      "input_bytes": 6560,
+      "input_sha256": "becec50ed04d1afd4ea2050905be6871ff5167f0928aac727394df76d10645a9",
+      "output": "recovered/vendor/color-thief.min.js.recovered",
+      "status": "recovered",
+      "bundle_detected": false,
+      "output_files": 1,
+      "output_bytes": {}
+    },
+    {
+      "input": "vendor/vue.min.js",
+      "input_bytes": 93578,
+      "input_sha256": "e130281f492f13b661a549611aea2afacc6ebbbd2c26fecdcbbe289a403d7314",
+      "output": "recovered/vendor/vue.min.js.recovered",
+      "status": "recovered",
+      "bundle_detected": false,
+      "output_files": 1,
+      "output_bytes": {}
+    }
+  ]
+}

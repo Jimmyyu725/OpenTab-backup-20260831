@@ -1,0 +1,1 @@
+module.exports = require.p + "images/chrome_app.a4185a5.png";

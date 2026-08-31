@@ -1,0 +1,1 @@
+module.exports = require.p + "images/wenjian.8e31a07.png";

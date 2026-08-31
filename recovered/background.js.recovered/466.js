@@ -1,0 +1,1 @@
+module.exports = require.p + "images/gmail.a53275a.png";

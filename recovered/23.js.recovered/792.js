@@ -1,0 +1,1 @@
+module.exports = require.p + "images/arrow.f15849d.png";

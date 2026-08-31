@@ -1,0 +1,3 @@
+export const Z = function (e, t) {
+  return e === t || e != e && t != t;
+};

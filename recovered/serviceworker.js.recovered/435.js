@@ -1,0 +1,9 @@
+module.exports = function (t, e) {
+  for (var n = -1, r = t == null ? 0 : t.length, o = 0, i = []; ++n < r;) {
+    var s = t[n];
+    if (e(s, n, t)) {
+      i[o++] = s;
+    }
+  }
+  return i;
+};

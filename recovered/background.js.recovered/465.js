@@ -1,0 +1,1 @@
+module.exports = require.p + "images/ring.41b6b93.mp3";

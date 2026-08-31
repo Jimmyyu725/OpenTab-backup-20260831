@@ -1,0 +1,2 @@
+# webcrack output intentionally preserves recovered strings and formatting.
+recovered/** -whitespace

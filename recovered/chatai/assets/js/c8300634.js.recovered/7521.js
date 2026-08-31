@@ -1,0 +1,1 @@
+export var h = typeof Symbol == "function" && Symbol.iterator ? Symbol.iterator : "@@iterator";

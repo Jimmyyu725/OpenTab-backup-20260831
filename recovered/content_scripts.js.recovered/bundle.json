@@ -1,0 +1,10 @@
+{
+  "type": "webpack",
+  "entryId": "560",
+  "modules": [
+    {
+      "id": "560",
+      "path": "./index.js"
+    }
+  ]
+}

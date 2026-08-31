@@ -6,9 +6,14 @@
   "scripts": {
     "check:baseline": "node scripts/verify.mjs baseline original",
     "check:modified": "node scripts/verify.mjs modified extension",
-    "check:rollback": "node scripts/verify.mjs rollback rollback-test"
+    "check:rollback": "node scripts/verify.mjs rollback rollback-test",
+    "recover": "node scripts/recover.mjs",
+    "check:recovery": "node scripts/verify-recovery.mjs"
   },
   "engines": {
     "node": ">=22"
+  },
+  "devDependencies": {
+    "webcrack": "2.16.0"
   }
 }

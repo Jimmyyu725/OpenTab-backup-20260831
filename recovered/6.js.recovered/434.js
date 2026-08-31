@@ -1,0 +1,1 @@
+module.exports = require.p + "images/remind.896ff6f.png";

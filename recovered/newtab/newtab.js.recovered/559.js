@@ -1,0 +1,1 @@
+module.exports = require.p + "images/more.8e47811.svg";

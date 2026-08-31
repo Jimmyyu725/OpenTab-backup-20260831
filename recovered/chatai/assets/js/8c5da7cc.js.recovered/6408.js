@@ -1,0 +1,1 @@
+export const Z = (0, require("./4932.js").Z)(Object.getPrototypeOf, Object);

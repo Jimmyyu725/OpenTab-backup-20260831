@@ -1,0 +1,59 @@
+var e = require("./94.js");
+var r = require("./31.js");
+var i = require("./323.js");
+var o = {
+  "Content-Type": "application/x-www-form-urlencoded"
+};
+function a(t, e) {
+  if (!r.isUndefined(t) && r.isUndefined(t["Content-Type"])) {
+    t["Content-Type"] = e;
+  }
+}
+var s;
+var c = {
+  adapter: ((typeof XMLHttpRequest != "undefined" || e !== undefined && Object.prototype.toString.call(e) === "[object process]") && (s = require("./230.js")), s),
+  transformRequest: [function (t, e) {
+    i(e, "Accept");
+    i(e, "Content-Type");
+    if (r.isFormData(t) || r.isArrayBuffer(t) || r.isBuffer(t) || r.isStream(t) || r.isFile(t) || r.isBlob(t)) {
+      return t;
+    } else if (r.isArrayBufferView(t)) {
+      return t.buffer;
+    } else if (r.isURLSearchParams(t)) {
+      a(e, "application/x-www-form-urlencoded;charset=utf-8");
+      return t.toString();
+    } else if (r.isObject(t)) {
+      a(e, "application/json;charset=utf-8");
+      return JSON.stringify(t);
+    } else {
+      return t;
+    }
+  }],
+  transformResponse: [function (t) {
+    if (typeof t == "string") {
+      try {
+        t = JSON.parse(t);
+      } catch (t) {}
+    }
+    return t;
+  }],
+  timeout: 0,
+  xsrfCookieName: "XSRF-TOKEN",
+  xsrfHeaderName: "X-XSRF-TOKEN",
+  maxContentLength: -1,
+  validateStatus: function (t) {
+    return t >= 200 && t < 300;
+  }
+};
+c.headers = {
+  common: {
+    Accept: "application/json, text/plain, */*"
+  }
+};
+r.forEach(["delete", "get", "head"], function (t) {
+  c.headers[t] = {};
+});
+r.forEach(["post", "put", "patch"], function (t) {
+  c.headers[t] = r.merge(o);
+});
+module.exports = c;

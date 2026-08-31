@@ -1,0 +1,1 @@
+export const a = (t, e, n) => true;

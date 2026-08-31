@@ -1,0 +1,40 @@
+Infinity New Tab Pro 11.0.41 recovery verification
+
+CHANGED_BRANCH: main
+CHANGED_FILE: /Users/jingtianyu/Documents/Codex/2026-08-31/infinity-new-tab-pro-recovered/extension/manifest.json
+CHANGED_FIELDS: manifest.name="Infinity New Tab Pro (Recovered 11.0.41)"; manifest.key removed; manifest.update_url removed
+ORIGINAL_TREE_SHA256: 3b94793cadea95a53bde47d521da0ac3740e637771f9fbfad9e6fa43f471db2d
+
+MODIFIED_FILE: /Users/jingtianyu/Documents/Codex/2026-08-31/infinity-new-tab-pro-recovered/extension/manifest.json
+DIFF_FILE: /Users/jingtianyu/Documents/Codex/2026-08-31/infinity-new-tab-pro-recovered/DIFF_FILE.patch
+VERIFICATION_FILE: /Users/jingtianyu/Documents/Codex/2026-08-31/infinity-new-tab-pro-recovered/VERIFICATION.txt
+ROLLBACK_FILE: /Users/jingtianyu/Documents/Codex/2026-08-31/infinity-new-tab-pro-recovered/ROLLBACK.sh
+
+BASELINE
+COMMAND: node scripts/verify.mjs baseline original
+INPUT: /Users/jingtianyu/Documents/Codex/2026-08-31/infinity-new-tab-pro-recovered/original
+LITERAL_OUTPUT: OK mode=baseline files=337 js=58 manifest=11.0.41 tree_sha256=3b94793cadea95a53bde47d521da0ac3740e637771f9fbfad9e6fa43f471db2d
+EXIT_STATUS: 0
+RESULT: The exact installed package copy has 337 files, 58 JavaScript bundles, valid manifest entrypoints, valid JavaScript syntax, and matching per-file hashes.
+
+MODIFIED
+COMMAND: node scripts/verify.mjs modified extension
+INPUT: /Users/jingtianyu/Documents/Codex/2026-08-31/infinity-new-tab-pro-recovered/extension
+LITERAL_OUTPUT: OK mode=modified files=337 js=58 manifest=11.0.41 tree_sha256=3b94793cadea95a53bde47d521da0ac3740e637771f9fbfad9e6fa43f471db2d
+EXIT_STATUS: 0
+RESULT: Only manifest.name, manifest.key, and manifest.update_url differ from stock; all other package files match the original hashes and all JavaScript syntax checks pass.
+
+RECOVERY
+COMMAND: node scripts/verify-recovery.mjs
+INPUT: /Users/jingtianyu/Documents/Codex/2026-08-31/infinity-new-tab-pro-recovered/RECOVERY_INDEX.json and recovered/
+LITERAL_OUTPUT: OK recovery inputs=58 outputs=4680 bundles=54 syntax=58
+EXIT_STATUS: 0
+RESULT: All 58 JavaScript inputs produced readable output; 54 were recognized as bundles; every deobfuscated entry passes a syntax check.
+
+ROLLBACK
+COMMAND: ./ROLLBACK.sh rollback-test && node scripts/verify.mjs rollback rollback-test
+INPUT: /Users/jingtianyu/Documents/Codex/2026-08-31/infinity-new-tab-pro-recovered/rollback-test (a separate copy of extension/)
+LITERAL_OUTPUT_1: RESTORED manifest.name=__MSG_name_pro__ key=present update_url=present target=/Users/jingtianyu/Documents/Codex/2026-08-31/infinity-new-tab-pro-recovered/rollback-test/manifest.json
+LITERAL_OUTPUT_2: OK mode=rollback files=337 js=58 manifest=11.0.41 tree_sha256=3b94793cadea95a53bde47d521da0ac3740e637771f9fbfad9e6fa43f471db2d
+EXIT_STATUS: 0
+RESTORED_BEHAVIOR_STATUS: The rollback copy again uses the stock localized name, Chrome Web Store identity key, and store update URL, and its full file set matches the original package. The main MODIFIED_FILE remains changed for unpacked development use.

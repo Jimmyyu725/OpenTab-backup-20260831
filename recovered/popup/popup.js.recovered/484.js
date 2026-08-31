@@ -1,0 +1,1 @@
+module.exports = require.p + "images/del.20d8e3b.svg";

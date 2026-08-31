@@ -1,0 +1,1 @@
+module.exports = require.p + "images/arrow.4401490.svg";

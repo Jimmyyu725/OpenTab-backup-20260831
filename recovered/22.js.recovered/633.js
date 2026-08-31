@@ -1,0 +1,1 @@
+module.exports = require.p + "images/spin.f9360d9.svg";

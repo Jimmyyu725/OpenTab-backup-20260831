@@ -1,0 +1,2 @@
+require(/*webcrack:missing*/"./7.js");
+export const checkOldLocalData = async () => ["infinity-settings", "infinity-searchs", "infinity-todos", "infinity-notes", "infinity-icons"].some(n => localStorage.getItem(n));

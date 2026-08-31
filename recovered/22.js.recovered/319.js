@@ -1,0 +1,60 @@
+var r = require("./31.js");
+var i = require("./227.js");
+var o = require("./320.js");
+var s = require("./321.js");
+var a = require("./232.js");
+function c(t) {
+  this.defaults = t;
+  this.interceptors = {
+    request: new o(),
+    response: new o()
+  };
+}
+c.prototype.request = function (t) {
+  if (typeof t == "string") {
+    (t = arguments[1] || {}).url = arguments[0];
+  } else {
+    t = t || {};
+  }
+  if ((t = a(this.defaults, t)).method) {
+    t.method = t.method.toLowerCase();
+  } else if (this.defaults.method) {
+    t.method = this.defaults.method.toLowerCase();
+  } else {
+    t.method = "get";
+  }
+  var e = [s, undefined];
+  var n = Promise.resolve(t);
+  this.interceptors.request.forEach(function (t) {
+    e.unshift(t.fulfilled, t.rejected);
+  });
+  this.interceptors.response.forEach(function (t) {
+    e.push(t.fulfilled, t.rejected);
+  });
+  while (e.length) {
+    n = n.then(e.shift(), e.shift());
+  }
+  return n;
+};
+c.prototype.getUri = function (t) {
+  t = a(this.defaults, t);
+  return i(t.url, t.params, t.paramsSerializer).replace(/^\?/, "");
+};
+r.forEach(["delete", "get", "head", "options"], function (t) {
+  c.prototype[t] = function (e, n) {
+    return this.request(r.merge(n || {}, {
+      method: t,
+      url: e
+    }));
+  };
+});
+r.forEach(["post", "put", "patch"], function (t) {
+  c.prototype[t] = function (e, n, i) {
+    return this.request(r.merge(i || {}, {
+      method: t,
+      url: e,
+      data: n
+    }));
+  };
+});
+module.exports = c;

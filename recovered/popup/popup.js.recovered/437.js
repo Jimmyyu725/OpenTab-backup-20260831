@@ -1,0 +1,1 @@
+module.exports = require.p + "images/color.321ebce.jpg";

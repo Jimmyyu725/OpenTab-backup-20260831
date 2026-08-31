@@ -24,14 +24,12 @@
       "32": "icon/pro32.png",
       "96": "icon/pro96.png"
    },
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAj5KiLucMSvRLNrk4C2q8oJ0eXHO+Yg1O2fB5nywKPRva5yNUr7FWhd27+5McO9VDea5FlrFHk+xH1lyML/SjXzF2ySFuRuJqBH9yaTWuPyQ2xglxqh0EFRGQjr8gkuuqzgClueZiURnxgjW98AvhJM75b90vqKhg8hfmbCExrcaxWeBVy+e0frXhOuaoq+jjwkA1rvtHK24LF3EM9xkAH12WaesEhu61K9p+v+eFsozXLSERzE5KKt4FJ5gx+4WAN7QknK8AdX9hhPR0s2MREPvuCfiAhjbQrIURS3f6itTLLGXof8oGozsVE+3xXxseDfq65iPPHBKrOdQgpgJT8wIDAQAB",
    "manifest_version": 3,
    "minimum_chrome_version": "88",
-   "name": "__MSG_name_pro__",
+   "name": "Infinity New Tab Pro (Recovered 11.0.41)",
    "optional_host_permissions": [ "https://google.com/", "https://suggestion.baidu.com/", "https://mail.google.com/", "\u003Call_urls>" ],
    "optional_permissions": [ "notifications", "bookmarks", "topSites", "history", "favicon", "management" ],
    "permissions": [ "activeTab", "storage", "unlimitedStorage", "offscreen", "background", "search" ],
-   "update_url": "https://clients2.google.com/service/update2/crx",
    "version": "11.0.41",
    "web_accessible_resources": [ {
       "matches": [ "\u003Call_urls>" ],

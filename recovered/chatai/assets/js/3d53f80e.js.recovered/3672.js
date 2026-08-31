@@ -1,0 +1,17 @@
+(function (e) {
+  var t = /("|')(?:\\(?:\r\n?|\n|.)|(?!\1)[^\\\r\n])*\1/;
+  e.languages.json5 = e.languages.extend("json", {
+    property: [{
+      pattern: RegExp(t.source + "(?=\\s*:)"),
+      greedy: true
+    }, {
+      pattern: /(?!\s)[_$a-zA-Z\xA0-\uFFFF](?:(?!\s)[$\w\xA0-\uFFFF])*(?=\s*:)/,
+      alias: "unquoted"
+    }],
+    string: {
+      pattern: t,
+      greedy: true
+    },
+    number: /[+-]?\b(?:NaN|Infinity|0x[a-fA-F\d]+)\b|[+-]?(?:\b\d+(?:\.\d*)?|\B\.\d+)(?:[eE][+-]?\d+\b)?/
+  });
+})(Prism);

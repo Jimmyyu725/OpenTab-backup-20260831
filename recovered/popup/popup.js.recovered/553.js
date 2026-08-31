@@ -1,0 +1,1 @@
+module.exports = require.p + "images/permission_img.1fa8fa6.svg";

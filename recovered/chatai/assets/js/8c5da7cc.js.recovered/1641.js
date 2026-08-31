@@ -1,0 +1,1 @@
+export var L = typeof Symbol == "function" && Symbol.observable || "@@observable";

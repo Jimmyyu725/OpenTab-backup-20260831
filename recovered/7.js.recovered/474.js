@@ -1,0 +1,1 @@
+module.exports = require.p + "images/wallpaper.c4eff18.webp";
